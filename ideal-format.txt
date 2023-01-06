@@ -1,0 +1,68 @@
+B/HOE-TRAC,Backhoe / Tractor Work,2000.00
+CCF,ChequeChangingFee,200.00
+DCCT,Debit/CreditCard (LD2.5%) (LC5%) and(FD/CC/C...,500.00
+DEL,Delivery,2000.00
+638110401341,KITCHEN,2000.00
+ADBG,Bondcrete (Gallon),3230.00
+ADBQ,Bondcrete (Quart),1750.00
+ADC,Cement & ($30PERLBRETAIL),1580.00
+ADCAL,Latex,600.00
+ADCAS,Silicone Sealant (100%),1370.00
+ADCAS+L,Silicone + Latex,900.00
+ADCG,Crazy Glue,250.00
+ADCTTB,Silicone Tube(Black),720.00
+ADCTTC,Silicone Tube(Clear),750.00
+ADCTTG,Silicone TUBE(Grey),770.00
+ADCTTR,Silicone Tube(Red),830.00
+ADCTTW,Silicone TUBE(White),730.00
+ADCW,Cement White(lb),80.00
+ADDG236ml,Dap Glue (236ml)/8OZ,1000.00
+ADDGP,Dap Glue (PINT),1875.00
+ADDGQ,Dap Glue (QUART),2800.00
+ADE4,Epoxy #4,900.00
+ADE5,Epoxy #5,950.00
+ADFF,Filling Foam,1500.00
+ADGCLT,Loctite Glue,250.00
+ADGOP,Office Glue Pritt Tube,410.00
+ADGRTs,Grout (Sanded),4500.00
+ADGRTU,Grout (Unsanded),4800.00
+ADGS11G,GlueStick (11gram),150.00
+ADJC5G,Joint Compound 5Gallon,6900.00
+ADJCG,JointCompoundGallon,2400.00
+ADJCQ,JointCompoundQuart,350.00
+ADJCT250f,Joint Tape2'' x 300 ft Roll,1850.00
+ADJCT500f,JointTape2'' x 500 ft Roll,2500.00
+ADPC1,PVC Pipe Cleaner (1Pint),2910.00
+ADPC1/2,PVC Pipe Cleaner 1/2pt (8oz),1500.00
+ADPC1/4,PipeCleaner (1/4pint),850.00
+ADPg,Ponal (gal),4295.00
+ADPQ,Ponal (quart),1500.00
+ADPSQ,Ponal Super3 (quart),1700.00
+ADPT,Ponal (tube120g) pattex,500.00
+ADPTW/D1/4,Tangit (Wet & Dry 1/ 4PT),1550.00
+ADPTW/D.5,Tangit (Wet & Dry 1/2 PT),1700.00
+ADPTW/D1,Tangit(Wet and Dry 1pint),3450.00
+ADPVCC12,PVC Cement (1/2 pint),1730.00
+ADPVCC14,PVCCement(1/4pint),1220.00
+ADPVCCLT25ML,Tangit Tube 25ml,380.00
+ADPVCCLT50ml,Tangit Tube 50ml,430.00
+ADPVCHW1/4,Tangit 1/4 PINT (HotWater),985.00
+ADPVVC1,PVC Cement (pint),3360.00
+ADPXPT,Pattex (1/2Pint),1200.00
+ADPXQT,Pattex (Quart),2875.00
+ADPXTU,Pattex Tube,650.00
+ADSAX,Saxit (qt),600.00
+ADSC22,Sure Coat 22lb,1100.00
+ADSG,Shoe Glue / Super Glue,300.00
+ADTB,Box Tape (PackagingTape) ClearandBrown,290.00
+ADTC1'',Cello Tape1'' (72yds),370.00
+ADTC1/2'',Cello Tape1/2''(72yds),200.00
+ADTC2,Cello Tape2''(72yds),500.00
+ADTC3/4'',Cello Tape 3/4'' (72yds),270.00
+ADTDL,Duct Tape (Large),1370.00
+ADTDM-30y,Duct Tape Medium (2'' x 30yds),850.00
+ADTDS-10y,Duck Tape (Small) 2''x 10yds,500.00
+ADTM.75'',Masking Tape 3/4'',470.00
+ADTM1'',Masking Tape1'',550.00
+ADTM1.5,Masking Tape1.5'',680.00
+ADTM2'',Masking Tape2'',735.00
