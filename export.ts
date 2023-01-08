@@ -10,7 +10,7 @@ const categoryMap = {
   CP: "Worksite Clothing",
   CS: "Chinese Clothing",
   DU: "Roofing", // DUP RFZ7 should be under roofing RF,
-  EL: "Electrical", //(Biggest catagories),
+  EL: "Electrical", //(large category),
   //! FB: "Food & Beverage", //(skip this),
   FT: "Fasteners / Nails & Bolts",
   FX: "Fixtures",
@@ -22,7 +22,7 @@ const categoryMap = {
   MT: "Motor Tools",
   MW: "Metal Work",
   PA: "Paint",
-  PB: "Plumbing", //(Biggest catagories),
+  PB: "Plumbing", //(large category),
   //! PC: "Phone Card", //(skip this),
   //! PH: "Personal Hygiene", //(skip this),
   RF: "Roofing",
@@ -31,7 +31,7 @@ const categoryMap = {
   SH: "Second Hand Items (Used)",
   //! ST: "Station", //(skip this),
   TI: "Tiling",
-  TO: "Tools", //(Biggest catagories),
+  TO: "Tools", // (large category),
   WP: "Wood Products / Lumber / Plyboards",
 }
 function assignCategory(category: string): string {
