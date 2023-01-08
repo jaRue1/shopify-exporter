@@ -66,6 +66,7 @@ ADTM.75'';Masking Tape 3/4'';470.00
 ADTM1'';Masking Tape1'';550.00
 ADTM1.5;Masking Tape1.5'';680.00
 ADTM2'';Masking Tape2'';735.00
+Page-1
 ADTMP2;Painters Tape 2;850.00
 ADTMP34;PaintersTape 3/4;650.00
 ADTS;Thinset Dyna 300 (Regular) $75 PER LB;1100.00
@@ -134,6 +135,7 @@ AGMWP85g;Wound Powder 85g;430.00
 AGMWPC;Pig Wormer (Carlo) 24g;300.00
 AGMWV;Valbazen (125ml);550.00
 AGP119;119 Insect Killer;200.00
+Page-2
 AGPAPP;Ant Powder (Pack);250.00
 AGPB;Potting Bag;15.00
 AGPB260ml;Bagon 260ml;545.00
@@ -202,6 +204,7 @@ AGSPO6L;Spray Pan Osatu 6 litre;5000.00
 AGSRP;Red Peas;225.00
 AGSS;Spreader Sticker (qt);500.00
 AGSSB;String Beans;300.00
+Page-3
 AGSSBP;Scotch Bonnet Pepper Seed (oz);85.00
 AGSSPcw;Sweet Pepper Seeds (calif wonder);1760.00
 AGSSPKH;Sweet Pepper (King Henry) oz;2060.00
@@ -270,6 +273,7 @@ BPC;Cables (all types);245.00
 BPCCL;Centre Cup (large);600.00
 BPCCS;Centre Cup (Small);550.00
 BPCG;Chain Gear;1400.00
+Page-4
 BPCR;Crank (all);610.00
 BPD;Derailer (all speeds);965.00
 BPF24;-26'' Fork 24-26'';2695.00
@@ -338,6 +342,7 @@ CPWGSW;Welding Goggles;915.00
 CPWRCI;Rain Coat (Industrial);1130.00
 CPWSVR;Safety Vest (Reflective);990.00
 CPWWBC&L;Water Boot (Calf Length) and Laced Boots;3000.00
+Page-5
 CPWWBK;Water Boot (knee length);3500.00
 CPWWBKST;Water Boot Knee Lenght Steel Toe;4000.00
 CSCF;Chinese Slippers (Female);100.00
@@ -406,6 +411,7 @@ ELCB25M;Electrical Bend 25mm;170.00
 ELCB32mm;Electrical Bend 32mm;230.00
 ELCB38mm;Electrical Bend 38mm;280.00
 ELCB50mm;Electrical Bend 50mm;550.00
+Page-6
 ELCBL;Connector Bars (large);30.00
 ELCBS;Connector Bar (small);20.00
 ELCC20;Elec.Conduit Coupling 20mm;35.00
@@ -474,6 +480,7 @@ ELJTPE3W;Telephone Jack Expander 3way;190.00
 ELJVHSC;VHS Cable Jack;475.00
 ELMAPL;Map Light;200.00
 ELMB3-4GDPVC;Mem Box 3-4 Gang (Double Mem) PVC;480.00
+Page-7
 ELMB3-4GM;Mem Box 3-4 Gang 9 (Double Mem) Metal;390.00
 ELMB3-4GPVC;Mem Box Single (PVC);300.00
 ELMBS;Mem Box Single (Metal) 110v;230.00
@@ -525,7 +532,7 @@ ELSE6W;6 Way Socket Expander;660.00
 ELSF;Flush Socket;300.00
 ELSF7/11;Flush Switch 7/11;500.00
 ELSF7/11D;Flush Switch 7/11 Decora;1700.00
-ELSFD; Flush Switch Double Pole;350.00
+ELSFD Flush Switch Double Pole;350.00
 ELSFDD;Flush Switch Decora Double;660.00
 ELSFDe;Flush Socket Decora;450.00
 ELSFGFCIP;GFI Plug Socket;4500.00
@@ -542,6 +549,7 @@ ELSOSHSSFMB;Heater Switch for (Single) Mem Box;3100.00
 ELSOSSSFMB;Single Switch for (Single) mem Box;950.00
 ELSOSSSFMB2s;Double Switch for Single Mem (2 switches);1000.00
 ELSP40;Surge PRO 4 OUTLET;5600.00
+Page-8
 ELSPS;Surface Plug Socket;330.00
 ELSPT;Pig Tail Socket;245.00
 ELSS;Surface Switch;275.00
@@ -589,6 +597,18 @@ ELWTE2.5;Wire 2.5mm Twin Flat with earth (ft) $29700 per roll;110.00
 ELWTP2P;Telephone Wire 2 Pair (ft);30.00
 ELWTP3P;Telephone Wire 3 Pair (ft);40.00
 ELWTV;Wire Antenna (ft);50.00
+FBCB;Lunch Box (Cardboard);125.00
+FBFB50;Lunch Box (foam);230.00
+FBFC25;Foam Cup 8oz (25 cups);100.00
+FBJB;Bag Juice;10.00
+FBJCJ16;Cane Juice 16 oz;150.00
+FBJCJB;Cane Juice in a Bag;30.00
+FBJNB150;Natural Blenz 500g Juice $150;150.00
+FBJNB200;Natural Blenz 500g Juice $200;200.00
+FBPF25;Plastic Forks (25 pk);65.00
+FBPS;Plastic Spoons (25 pk);55.00
+FBW500;Water (WATA 500ML);80.00
+FBWC500;Cran Water 500ml;120.00
 FTB1/4X1;Bolt 1/4 x 1;7.00
 FTB1/4X11/2;Bolt 1/4 x 11/2;10.00
 FTB1/4X3/4;Bolt 1/4 x 3/4;7.00
@@ -598,6 +618,7 @@ FTB3/8X1;Bolt 3/8 x 1;20.00
 FTB3/8x11/2;Bolt 3/8 x11/2;35.00
 FTB3/8X2 Bolt;3/8 x 2;30.00
 FTB5/16X1 Bolt;5/16 x 1;30.00
+Page-9
 FTB5/16X11/2;Bolt 5/16 x 11/2;35.00
 FTB5/16X2;Bolt 5/16 x 2;25.00
 FTB6X16MM;Bolt 6 x 16mm;15.00
@@ -666,6 +687,7 @@ FTRB.25X2;Rawl Bolt 1/4 x 2'';65.00
 FTRB.25X2.5;(M6) Rawl Bolt 1/4 x 2.5 (M6);65.00
 FTRB.38x3;(M10) RawlBolt .38 x 3 (M10);150.00
 FTRB.5x4;(M12) Rawl Bolt .5 x 4 (M12);180.00
+Page-10
 FTRB5/16x2.5;(M8) Rawl Bolt 5/16 x 2.5 (M8);85.00
 FTS-LB;Screws 1/2'' L/B;50.00
 FTS-LJ;Screws 11/4'' L/J (1doz);50.00
@@ -734,6 +756,7 @@ FXDHfab32;Door Hollow Fabricated 32'';12500.00
 FXDHfab36;Door Hollow Fabricated 36'';12500.00
 FXDHFD;Half French Door;25000.00
 FXDHFWP30;Door Hollow Fabricated White Panel 30'';13000.00
+Page-11
 FXDHFWP32;Door Hollow Fabricated White Panel 32'';13000.00
 FXDHFWP36;Door Hollow Fabricated White Panel 36'';13000.00
 FXDM30;Metal Panel Door 30;23500.00
@@ -802,6 +825,7 @@ FXLJG8;Louvre Jam 8 Blade Glass;2875.00
 FXLJG9;Louvre Jam 9 Blade Glass;3275.00
 FXLJS4'';Louvre Spacer 4'';540.00
 FXLJS6'';Louvre Spacer 6'';550.00
+Page-12
 FXLJW11;Louvre Jam 11 Blade Wood;2215.00
 FXLJW12;Louvre Jam 12 Blade Wood;2225.00
 FXLJW13;Louvre Jam 13 Blade Wood;2315.00
@@ -829,6 +853,10 @@ FXWF;3X3 French Windows 3x3;19600.00
 FXWF2X2;French Windows 2x2;12000.00
 FXWF4X3;French Windows 4x3;23300.00
 FXWF4X4;French Windows 4x4;25000.00
+GFT1;Gifts;475.00
+GFT2;Other Small Gifts;205.00
+GFTFL;Flash Light;135.00
+GFTVR;Valentine Rose;30.00
 HHAFAW;Air Freshener Air Wick;200.00
 HHBK;Plush Blanket KING;2800.00
 HHBP;Plastic Broom;500.00
@@ -866,6 +894,7 @@ HHCTR4';Christmas Tree Regular 4';1500.00
 HHCWRHE;Hooks and Eyes for Curtain Wire Rod;5.00
 HHDH;Drapery Hook;10.00
 HHDS;Divan Sponge;375.00
+Page-13
 HHDSL;Disinfectant Sprays (Lysol);1400.00
 HHDWS;Duster with Scoop;250.00
 HHFMB;Mat (Bathroom);500.00
@@ -934,6 +963,7 @@ HHPLt75m;PadlockTri-Circle 75mm;2900.00
 HHPPC;Pressure Cooker Pot;4900.00
 HHPRD60;Padlock Round (Discus) 60mm;1150.00
 HHPRD70mm;Padlock Round (Discus) 70mm;1390.00
+Page-14
 HHPRD80;Padlock Round (Discuss) 80mm;1950.00
 HHPS8Pc;Pot Set 8 pc;8000.00
 HHPSDG;PVC Sink Drain Gaurd;155.00
@@ -982,6 +1012,8 @@ HHWBL;Large Wash Brush;200.00
 HHWBS;Wash Brush Small;170.00
 HHWHIL;Water Heater (in Line);13200.00
 HHWHILS;Water Heater Shower Unit;9800.00
+LIC;Baby Chickens;85.00
+Misc;Misc;135.00
 MSAFB;Air Freshner Bloom;95.00
 MSAFC;Air Freshner Card;115.00
 MSAFT;Air Freshner Tin;155.00
@@ -1000,6 +1032,7 @@ MSCLF4;Chain Link Fence 4'';18700.00
 MSCLF5;Chain Link Fence 5'';21000.00
 MSCLF6;Chain Link Fence 6'';23500.00
 MSCLLC;Loop Cap;685.00
+Page-15
 MSCLRE;Rail Ends 1 5/8'';500.00
 MSCLS1X58;Sleeves 15/8''x 6'';455.00
 MSCLTB2'';Tension Bands 2'';250.00
@@ -1068,6 +1101,7 @@ MSKRP;Plastic Key Ring;65.00
 MSL;Lighter;35.00
 MSMO;Machine Oil;285.00
 MSMS;Manicure Set 10pc;170.00
+Page-16
 MSMS15;15 pc.Manicure Set;255.00
 MSPB;Push Broom;1400.00
 MSPBS;Push Broom Sticks;220.00
@@ -1136,6 +1170,7 @@ MTDPMb/d;Power Motor Drill (black and decker);10565.00
 MTGCM;Grass Cutting Machine;23495.00
 MTJSbd;Jig Saw (black and decker);9800.00
 MTS3x21;3 X 21 Sander (Skil);16000.00
+Page-17
 MWA112x14;Angle Iron 11/2x11/2x1/4;6740.00
 MWA11x36;Angle Iron 11/2x11/2x3/16;6280.00
 MWA1X14;Angle Iron 1x1x1/4;4900.00
@@ -1204,6 +1239,7 @@ MWWRA;Welding Rods for Aluminum (per stick);170.00
 MWWRAS;Welding Rods (Steel Acte.) (per lb);250.00
 MWWRB;Bronz Rods (per stick);240.00
 MWWRBwF;Bronz Rods with Flux (per stick);280.00
+Page-18
 MWWRCI;Cast Iron Welding Rods (per stick);450.00
 MWWRE10:12:13E;Welding Rod Elec #10 #12 #13 (per lb);350.00
 MWWRE7018;Welding Rods 7018 (per1b);600.00
@@ -1272,6 +1308,7 @@ PAEEQdg;Edgechem Emulsion (Quart) Dusty Grey;1250.00
 PAEEQg;Edgechem Emulsion (QUART) gardenia;1250.00
 PAEEQls;Edgechem Emulsion (QUART) lemon sherbet;1250.00
 PAEEQmog;Edgechem Emulsion (QUART) Morning Glory;1250.00
+Page-19
 PAEEQms;Edgechem Emulsion (QUART) mango squash;1250.00
 PAEEQpp;Edgechem Emulsion (QUART) Paw-Paw;1250.00
 PAEEQsy;Edgechem Emulsion (QUART) sunshine yellow;1250.00
@@ -1340,6 +1377,7 @@ PBBBKS;Basin Bracket for Kitchen Sink;250.00
 PBBCKP;Key Bib Cock (Padlock);1950.00
 PBBCKS;Key Bib Cock (Spindle);2125.00
 PBBCM;Bib Cock 1/2'' Galvonized;1700.00
+Page-20
 PBBCP;Bib Cock PVC 1/2'';600.00
 PBBCP3/4;PVC Hose Bib Cock 3/4'';750.00
 PBBM308;Bath Mixer 308;18940.00
@@ -1408,6 +1446,7 @@ PBE112''db/45*;PVC Drain Bend 11/2 Drain Bend 45*;240.00
 PBE112''db/90*;PVC 11/2'' Drain Bend 90*;260.00
 PBE112s40/45*;PVC Elbow 112 SCH40 45*;320.00
 PBE112s40/90*;PVC Elbow 112 sch40 90*;350.00
+Page-21
 PBE2''db/45*;PVC Drain Bend 2'' 45*;280.00
 PBE2''db/90*;PVC 2'' Drain Bend 90*;290.00
 PBE2''S40/45*;PVC Elbow 2''sch40 45*;400.00
@@ -1448,7 +1487,7 @@ PBKSSBSD;Kitchen Sink s/b s/d;10000.00
 PBKSSM;4 ''Metal Sink Waste;700.00
 PBKSSP;4'' PVC Sink Waste;960.00
 PBKSSSE;Kitchen Sink Single Swing Faucet Economy;5900.00
-PBKSSSF; Kitchen Sink Faucet Single Swing (Brown);6200.00
+PBKSSSF: Kitchen Sink Faucet Single Swing (Brown);6200.00
 PBKSUMDb;Kitchen Sink Undermount Double Bowl;16615.00
 PBKSUMsb;Kitchen Sink Undermount Single Bowl;12000.00
 PBLS;Laundry Strainer;680.00
@@ -1476,6 +1515,7 @@ PBPL12;PVC 1/2'' Pipe Length;1350.00
 PBPL2;PVC 2'' Pipe Length;2990.00
 PBPL2SCH40;Pipe Lenght PVC 2'' SCH40;5935.00
 PBPL3;PVC 3'' Pipe Length;4200.00
+Page-22
 PBPL34;PVC 3/4'' Pipe Length;2100.00
 PBPL4;PVC 4'' Pipe Length;2680.00
 PBPL4SCH40;PVC 4'' Pipe Lenght SCH 40;11000.00
@@ -1544,6 +1584,7 @@ PBTCRRE;Toilet Complete (Corona) Regular Elongated;21000.00
 PBTFB;Toilet Float Ball;400.00
 PBTFBR;Toilet Float Ball Rod;100.00
 PBTFH;Toilet Flush Handle;550.00
+Page-23
 PBTG12;Galvonized 1/2 '' Tee;50.00
 PBTH;Tissue Holder;800.00
 PBTPwS;Tray Plug & Stopper;670.00
@@ -1593,6 +1634,26 @@ PBWTFB4'';Water Tank Float Ball 4'';550.00
 PBWTFB6'';Water Tank Float Ball 6'';700.00
 PBY3 3'';Y;1140.00
 PBY4 4'';Y;1300.00
+PCD100;Phone Card Digicel $100;150.00
+PCD1000;Phone Card 1000;1280.00
+PCD200;Phone Card Digicel $200;270.00
+PCD300;Phone Card Digicel $300;390.00
+PCF100;Phone Card Flow $100;150.00
+PCF200;Phone Card Flow $200;250.00
+PHBW3in1;Body Wash for Men 3 in 1;350.00
+PHBWWR;Body Wash White Rain;350.00
+PHFABAFP;Band Aid Fabric Plasters;20.00
+PHFAD;Dettol;340.00
+PHFARA250ML;Rubbing Alcohol 250ml (per Gallon $;3200.00);200.00
+PHFARD;Disposable Razor;80.00
+PHFARRU;Razor Re-Usable;200.00
+PHFASPB;Soap Bar (Pears);200.00
+PHFATbr;Toothbrush;60.00
+PHFATBrC;Toothbrush (Colgate Brand);150.00
+PHFATPCTA6;Toothpaste (Colgate Triple Action 6oz);330.00
+PHHSP;Purell Hand Sanitizer 59ml;150.00
+PHWW80;Wet Wipes 80pc pack;300.00
+Page-24
 RFCR;Continious Roofing (ft) $24000 per roll;595.00
 RFDR1SQ;Decra Tile Roofing (10 Sq ft);39970.00
 RFDRBC;Decra Tile Roof Barrel Cap (1.1ft);535.00
@@ -1661,14 +1722,145 @@ RMGRTL;Grit (Load);90000.00
 RMGRTY;Grit (Yard);4200.00
 RMGYB;Grit Black (Yard);4800.00
 RMSDL;Sand (Load);80000.00
+Page-25
 RMSDY;Sand (Yard);3900.00
+SGB;Bingo;595.00
+SGBP;Ball Pump;255.00
+SGD;Dominoes;680.00
+SGF;Football;900.00
+SGLTB;Lawn Tennis Ball;85.00
+SGM;Marbles;5.00
+SGPC;Playing Cards;120.00
+SGSSR;Sling Shot Rubber;220.00
+SGTTS;Table Tennis Set;255.00
 SHIWP;Second Hand Item (Wood Post);1695.00
+ST100PRB;100 Page Ring Binder;310.00
+STAS;Art Set;205.00
+STBC;Composition Books sc;205.00
+STBE;Exercise Books;35.00
+STBE80p;80 Page Exercise Books;70.00
+STBEL;Semi-Hard Cover Book;90.00
+STBHC130;130 PG H/C Book;230.00
+STBHC40;40 Page H/C book;80.00
+STBHC70;70 Page H/C Book;100.00
+STBHCS;Small Hard Cover;45.00
+STBLP/S;Ledger - Purchase/Sales;230.00
+STBQ1;1 Quire h/c Book;350.00
+STBQ2;2 Quire h/c book;400.00
+STBQ3;3 Quire h/c Book;450.00
+STBQ4;4 Quire h/c Book;1000.00
+STBRA;Register of Attendance;230.00
+STBRC;Cash Reciept Book;215.00
+STBRR;Rent Receipt Book;215.00
+STBTK;Trapper Keeper;680.00
+STCALL;Calculator (Large);425.00
+STCALS;Calculator Scientific;2215.00
+STCALSm;Calculator (Small);285.00
+STCALwO;Calculator with Organizer;645.00
+STCARGFT;Gift Cards;120.00
+STCARGS;Small Gift Cards;35.00
+STCARP;Post Cards;20.00
+STCB;Colouring Book;240.00
+STCC;Coloured Chalk;10.00
+STCD;Computer Diskett;55.00
+STCDR;Recordable Compact Disc;85.00
+STCDRJC;CD / Jewel Case;50.00
+STCFB;Correction Fluid Bottle;155.00
+STCFP;Correction Fluid Pen;335.00
+STCRWr;Chalk stick;10.00
+STCSBL;Cash Sales Book (Large);450.00
+STCSBs;Cash Sales Book (small);300.00
+STCWL;Large Crayons;20.00
+STCWS;Small Crayons;100.00
+STD;Blackboard Duster;170.00
+STDB;Drawing Book;140.00
+STDVD;DVD (with case);510.00
+STE;Eraser;15.00
+STEL;Large Erasers;30.00
+STENVL;Envelopes (Large);20.00
+STENVS;Envelope (Small);10.00
+STEP;Pencil Eraser;10.00
+STFFDH;Double Hole File Fasteners;10.00
+STFFL;Large Paper Fasteners;10.00
+STFFS;Small Paper Fasteners;10.00
+STFJ;File Jacket;30.00
+STFJC;Coloured File Jacket;55.00
+STGB;Graft Book;85.00
+STGSO;Oxford Geometery Set;310.00
+STGSS;Standard Geometry Set;405.00
+STH;Highlighters;80.00
+STHBG;Gift Bibles;1190.00
+STHBGP;Giant Print Bibles;1530.00
+Page-26
+STHBRB;Rainbow Bible;680.00
+STHBS;School Bible;410.00
+STHBZ;Zip Bible;660.00
+STMC;Childrens Markers;20.00
+STMJ;Jumbo Markers;130.00
+STMM;Music Manuscript;85.00
+STMO;Office Markers;110.00
+STMSB;My Scrap Book;155.00
+STPBAW#11;Wooden Artist Paint Brush #11;150.00
+STPBAW#12;Wooden Artist Paint Brush #12;170.00
+STPBAW#4;Wooden Artist Paint Brush #4;85.00
+STPBAW#5;Wooden Artist Paint Brush #5;100.00
+STPBAW#6;Wooden Artist Paint Brush #6;120.00
+STPBAW#8;Wooden Artist Paint Brush #8;135.00
+STPC;Paper Clips;85.00
+STPCARB;Carbon Paper;20.00
+STPCP;Cartridge Paper;60.00
+STPCPb;Cartridge Paper (Black);80.00
+STPCRE;Crepe Paper;55.00
+STPCs;Paper Clips (Small);145.00
+STPEN;Pen;50.00
+STPEN3C;Pen 3 Colour;70.00
+STPENC;Pencil;20.00
+STPENCF;Pencil (Fancy);30.00
+STPENCTD;Pencil TD;35.00
+STPENE;Executive Pens;35.00
+STPENP12;Pencil (Pack of 12);150.00
+STPFCP10;Fools Cap Paper (10pk);40.00
+STPFCR;Fools Cap (500pk);815.00
+STPFL;Folder Leaves (20pk);80.00
+STPG;Grease Paper;10.00
+STPGFT;Gift Paper;35.00
+STPGL;Graph Leaf;10.00
+STPK;Kite Paper;15.00
+STPLSP10;Letter Size Paper (10pk);25.00
+STPLSR;Paper Letter Size (500pk);715.00
+STPP;Poster Paint (6 pack);340.00
+STPWL;Writing Pad Large;70.00
+STPWLS;Writing Pad Small;50.00
+STR;Recorder;800.00
+STR12'';12''Ruler;55.00
+STR6'';6'' Ruler;30.00
+STRB;Rubber Bands;5.00
+STRBL;Ring Binder Large;475.00
+STRBS;Ring Binder Small;340.00
+STRCT;Report Cover;90.00
+STS;Sharpener;20.00
+STSCF;Stencil Correction Fluid;255.00
+STSM;Staple Machine;825.00
+STSPL;Sketch Pad (Large);160.00
+STSPS;Sketch Pad (Small);115.00
+STSR;Staple Remover;85.00
+STSS;Set Squares 45 and 60 Degrees;120.00
+STST;Staples;20.00
+STTS;Tee Square;2350.00
+STTT;Thumb Tacks;85.00
+STTTAG;Treasury Tags;10.00
+STTXAO;All Other Text Books;695.00
+STTXIB;Integrated Language Arts 1;530.00
+STTXLIT;Literature Books;680.00
+STTXRFA;Reader A B C D E Series;555.00
+STTXWTS;Way To ...Series;405.00
 TI12;Tiles 12x12;150.00
 TI13i;13'' Tiles indoor;250.00
 TI13o;13'' Outdoor tile;225.00
 TI14X14;TILE 14X14;280.00
 TI16X10B;Tiles 10 X 16 Bathroom;250.00
 TI17X17;Tile 17x17;310.00
+Page-27
 TI18;Tiles 18 x 18;350.00
 TI24;Tiles 24x24;595.00
 TI4'';Tile 4x4'';60.00
@@ -1737,6 +1929,7 @@ TODBM58S;Drill Bit Masonry 5/8x6;640.00
 TODBM78;Drill Bit Masonry 7/8'';980.00
 TODBM916;Drill Bit Masonry 9/16'';560.00
 TODBSet;Drill Bit Set;645.00
+Page-28
 TOECBS20;Conduit Bending Spring 20mm;1555.00
 TOECBS25;Conduit Bending Spring 25mm;1725.00
 TOECBS32;Conduit Bending Spring 32mm;2130.00
@@ -1805,6 +1998,7 @@ TOPSJ8;Pliers Slip Jiont 8'';790.00
 TOPTC;Pliers Tile Cutting;960.00
 TOPTS;Tin Snip Pliers;4100.00
 TOPVG10ST;Vice Grip (Stanley 10'');2645.00
+Page-29
 TOPVG7ST;Vice Grip (Stanley 7'');2185.00
 TOPVGR10;Vice Grip Regular;1300.00
 TORG;Rivit Gun;2500.00
@@ -1873,6 +2067,7 @@ TOTUK;U Knotch Trowel;2000.00
 TOUBK;Utility / Box Cutter Knife;870.00
 TOUBKB;Utility / Box cutter Knife Blade;100.00
 TOWA10S;Adjustable Wrench 10'' STANLEY;2970.00
+Page-30
 TOWA12;Adjustable Wrench 12'';2700.00
 TOWA15S;Adjust Wrench 15'' STANLEY;3830.00
 TOWA6S;Adjustable Wrench 6'' STANLEY;1670.00
@@ -1941,6 +2136,7 @@ WP2612D;Lum.2x6x12 Dresed;5160.00
 WP2614D;Lum.2x6x14 Dressed;5800.00
 WP2616D;Lum.2x6x16 Dressed;6880.00
 WP2618;Lum.2x6x18 Dressed;7740.00
+Page-31
 WP2620D;Lum 2x6x20 Dresed;6950.00
 WP2816;Lum 2x8x16 Dressed;9970.00
 WP2820;Lum 2x8x20 Dressed;12460.00
@@ -1975,3 +2171,4 @@ WPSF12;Flat Strip 12';680.00
 WPSF14;Flat Strip 14';780.00
 WPSF16;Flat Strip 16';920.00
 WPSS;Strip Set (3pc);1750.00
+Page-32
