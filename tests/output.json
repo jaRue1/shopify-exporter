@@ -3,7 +3,7 @@
     "id": 0,
     "handle": "silicone-tube",
     "tags": "ADCTTB",
-    "title": "Silicone Tube",
+    "productName": "Silicone Tube",
     "variantName": "(Black)",
     "variantPrice": "720.00",
     "category": "Adhesive"
@@ -12,7 +12,7 @@
     "id": 1,
     "handle": "silicone-tube",
     "tags": "ADCTTC",
-    "title": "Silicone Tube",
+    "productName": "Silicone Tube",
     "variantName": "(Clear)",
     "variantPrice": "750.00",
     "category": "Adhesive"
@@ -21,7 +21,7 @@
     "id": 2,
     "handle": "silicone-tube",
     "tags": "ADCTTG",
-    "title": "Silicone Tube",
+    "productName": "Silicone Tube",
     "variantName": "(Grey)",
     "variantPrice": "770.00",
     "category": "Adhesive"
@@ -30,7 +30,7 @@
     "id": 3,
     "handle": "silicone-tube",
     "tags": "ADCTTR",
-    "title": "Silicone Tube",
+    "productName": "Silicone Tube",
     "variantName": "(Red)",
     "variantPrice": "830.00",
     "category": "Adhesive"
@@ -39,7 +39,7 @@
     "id": 4,
     "handle": "silicone-tube",
     "tags": "ADCTTW",
-    "title": "Silicone Tube",
+    "productName": "Silicone Tube",
     "variantName": "(White)",
     "variantPrice": "730.00",
     "category": "Adhesive"

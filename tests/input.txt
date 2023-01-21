@@ -1,5 +1,5 @@
-ADCTTB;Silicone Tube(Black);720.00
-ADCTTC;Silicone Tube(Clear);750.00
-ADCTTG;Silicone Tube(Grey);770.00
-ADCTTR;Silicone Tube(Red);830.00
-ADCTTW;Silicone Tube(White);730.00
+ADCTTB;Silicone Tube;(Black);720.00
+ADCTTC;Silicone Tube;(Clear);750.00
+ADCTTG;Silicone Tube;(Grey);770.00
+ADCTTR;Silicone Tube;(Red);830.00
+ADCTTW;Silicone Tube;(White);730.00
