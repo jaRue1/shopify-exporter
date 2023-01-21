@@ -1,4 +1,4 @@
-import { shopifyProductTaxonomy } from "../shopify"
+import { shopifyProductTaxonomy } from "../utils/shopify"
 const firstRow = "ADCTTB;Silicone Tube(Black);720.00"
 const secondRow = "ADCTTC;Silicone Tube(Clear);750.00"
 const regex = /;(\w+)\s(\w+)/
