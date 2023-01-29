@@ -3,8 +3,8 @@ import { assignCategory } from "../utils"
 console.log("Shopify Exporter Initialized")
 
 // Read the input text file
-const inputText = fs.readFileSync("../tests/import.txt", "utf-8")
-// const inputText = fs.readFileSync("../import/ideal-format.txt", "utf-8")
+const inputText = fs.readFileSync("../tests/input.txt", "utf-8") // for testing
+// const inputText = fs.readFileSync("../import/ideal-format.txt", "utf-8") // live run
 console.log("reading input.txt file")
 
 // Split the input text into lines
@@ -13,6 +13,7 @@ const lines = inputText.split("\n")
 // Initialize the output CSV
 let outputCsv =
   "Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Alt Text,Gift Card\n"
+
 console.log("Initialized outputCsv")
 
 // Process each line and add it to the output CSV
@@ -57,7 +58,7 @@ for (const [index, line] of lines.entries()) {
 }
 
 // Write the output CSV to a file
-// fs.writeFileSync("../export/export.csv", outputCsv)
+// fs.writeFileSync("../export/export.csv", outputCsv) // live run
 fs.writeFileSync("../tests/output.csv", JSON.stringify(outputCsv)) // for testing
 
 console.log("Export to output.csv complete.")
