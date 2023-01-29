@@ -1,6 +1,114 @@
 [
   {
     "id": 0,
+    "handle": "backhoe-tractor-work",
+    "tags": "B/HOE-TRAC",
+    "productName": "Backhoe / Tractor Work",
+    "variantName": "No variantName",
+    "variantPrice": "2000.00",
+    "category": "No Category Found"
+  },
+  {
+    "id": 1,
+    "handle": "chequechangingfee",
+    "tags": "CCF",
+    "productName": "ChequeChangingFee",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "No Category Found"
+  },
+  {
+    "id": 2,
+    "handle": "debit-creditcard-ld2-5-lc5-and-fd-cc-c-",
+    "tags": "DCCT",
+    "productName": "Debit/CreditCard (LD2.5%) (LC5%) and(FD/CC/C...",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "No Category Found"
+  },
+  {
+    "id": 3,
+    "handle": "delivery",
+    "tags": "DEL",
+    "productName": "Delivery",
+    "variantName": "No variantName",
+    "variantPrice": "2000.00",
+    "category": "No Category Found"
+  },
+  {
+    "id": 4,
+    "handle": "kitchen",
+    "tags": "638110401341",
+    "productName": "KITCHEN",
+    "variantName": "No variantName",
+    "variantPrice": "2000.00",
+    "category": "No Category Found"
+  },
+  {
+    "id": 5,
+    "handle": "bondcrete-",
+    "tags": "ADBG",
+    "productName": "Bondcrete ",
+    "variantName": "(Gallon)",
+    "variantPrice": "3230.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 6,
+    "handle": "bondcrete-",
+    "tags": "ADBQ",
+    "productName": "Bondcrete ",
+    "variantName": "(Quart)",
+    "variantPrice": "1750.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 7,
+    "handle": "cement-30perlbretail-",
+    "tags": "ADC",
+    "productName": "Cement & ($30PERLBRETAIL)",
+    "variantName": "No variantName",
+    "variantPrice": "1580.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 8,
+    "handle": "latex",
+    "tags": "ADCAL",
+    "productName": "Latex",
+    "variantName": "No variantName",
+    "variantPrice": "600.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 9,
+    "handle": "silicone-sealant-100-",
+    "tags": "ADCAS",
+    "productName": "Silicone Sealant (100%)",
+    "variantName": "No variantName",
+    "variantPrice": "1370.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 10,
+    "handle": "silicone-latex",
+    "tags": "ADCAS+L",
+    "productName": "Silicone + Latex",
+    "variantName": "No variantName",
+    "variantPrice": "900.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 11,
+    "handle": "crazy-glue",
+    "tags": "ADCG",
+    "productName": "Crazy Glue",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 12,
     "handle": "silicone-tube",
     "tags": "ADCTTB",
     "productName": "Silicone Tube",
@@ -9,7 +117,7 @@
     "category": "Adhesive"
   },
   {
-    "id": 1,
+    "id": 13,
     "handle": "silicone-tube",
     "tags": "ADCTTC",
     "productName": "Silicone Tube",
@@ -18,16 +126,16 @@
     "category": "Adhesive"
   },
   {
-    "id": 2,
+    "id": 14,
     "handle": "silicone-tube",
     "tags": "ADCTTG",
-    "productName": "Silicone Tube",
+    "productName": "Silicone TUBE",
     "variantName": "(Grey)",
     "variantPrice": "770.00",
     "category": "Adhesive"
   },
   {
-    "id": 3,
+    "id": 15,
     "handle": "silicone-tube",
     "tags": "ADCTTR",
     "productName": "Silicone Tube",
@@ -36,12 +144,7144 @@
     "category": "Adhesive"
   },
   {
-    "id": 4,
+    "id": 16,
     "handle": "silicone-tube",
     "tags": "ADCTTW",
-    "productName": "Silicone Tube",
+    "productName": "Silicone TUBE",
     "variantName": "(White)",
     "variantPrice": "730.00",
     "category": "Adhesive"
+  },
+  {
+    "id": 17,
+    "handle": "cement-white-lb-",
+    "tags": "ADCW",
+    "productName": "Cement White(lb)",
+    "variantName": "No variantName",
+    "variantPrice": "80.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 18,
+    "handle": "dap-glue-",
+    "tags": "ADDG236ml",
+    "productName": "Dap Glue ",
+    "variantName": "(236ml)/8OZ",
+    "variantPrice": "1000.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 19,
+    "handle": "dap-glue-",
+    "tags": "ADDGP",
+    "productName": "Dap Glue ",
+    "variantName": "(PINT)",
+    "variantPrice": "1875.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 20,
+    "handle": "dap-glue-",
+    "tags": "ADDGQ",
+    "productName": "Dap Glue ",
+    "variantName": "(QUART)",
+    "variantPrice": "2800.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 21,
+    "handle": "epoxy-",
+    "tags": "ADE4",
+    "productName": "Epoxy ",
+    "variantName": "#4",
+    "variantPrice": "900.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 22,
+    "handle": "epoxy-",
+    "tags": "ADE5",
+    "productName": "Epoxy ",
+    "variantName": "#5",
+    "variantPrice": "950.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 23,
+    "handle": "filling-foam",
+    "tags": "ADFF",
+    "productName": "Filling Foam",
+    "variantName": "No variantName",
+    "variantPrice": "1500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 24,
+    "handle": "loctite-glue",
+    "tags": "ADGCLT",
+    "productName": "Loctite Glue",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 25,
+    "handle": "office-glue-pritt-tube",
+    "tags": "ADGOP",
+    "productName": "Office Glue Pritt Tube",
+    "variantName": "No variantName",
+    "variantPrice": "410.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 26,
+    "handle": "grout-",
+    "tags": "ADGRTs",
+    "productName": "Grout ",
+    "variantName": "(Sanded)",
+    "variantPrice": "4500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 27,
+    "handle": "grout-",
+    "tags": "ADGRTU",
+    "productName": "Grout ",
+    "variantName": "(Unsanded)",
+    "variantPrice": "4800.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 28,
+    "handle": "gluestick-",
+    "tags": "ADGS11G",
+    "productName": "GlueStick ",
+    "variantName": "(11gram)",
+    "variantPrice": "150.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 29,
+    "handle": "joint-compound",
+    "tags": "ADJC5G",
+    "productName": "Joint Compound",
+    "variantName": "5Gallon",
+    "variantPrice": "6900.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 30,
+    "handle": "joint-compound",
+    "tags": "ADJCG",
+    "productName": "Joint Compound",
+    "variantName": "Gallon",
+    "variantPrice": "2400.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 31,
+    "handle": "joint-compound",
+    "tags": "ADJCQ",
+    "productName": "Joint Compound",
+    "variantName": "Quart",
+    "variantPrice": "350.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 32,
+    "handle": "joint-tape",
+    "tags": "ADJCT250f",
+    "productName": "Joint Tape",
+    "variantName": "2'' x 300 ft Roll",
+    "variantPrice": "1850.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 33,
+    "handle": "joint-tape",
+    "tags": "ADJCT500f",
+    "productName": "Joint Tape",
+    "variantName": "2'' x 500 ft Roll",
+    "variantPrice": "2500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 34,
+    "handle": "pvc-pipe-cleaner",
+    "tags": "ADPC1",
+    "productName": "PVC Pipe Cleaner",
+    "variantName": "(1Pint)",
+    "variantPrice": "2910.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 35,
+    "handle": "pvc-pipe-cleaner",
+    "tags": "ADPC1/2",
+    "productName": "PVC Pipe Cleaner",
+    "variantName": "1/2pt (8oz)",
+    "variantPrice": "1500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 36,
+    "handle": "pipe-cleaner",
+    "tags": "ADPC1/4",
+    "productName": "Pipe Cleaner",
+    "variantName": "(1/4pint)",
+    "variantPrice": "850.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 37,
+    "handle": "ponal",
+    "tags": "ADPg",
+    "productName": "Ponal",
+    "variantName": "(gal)",
+    "variantPrice": "4295.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 38,
+    "handle": "ponal",
+    "tags": "ADPQ",
+    "productName": "Ponal",
+    "variantName": "(quart)",
+    "variantPrice": "1500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 39,
+    "handle": "ponal",
+    "tags": "ADPSQ",
+    "productName": "Ponal",
+    "variantName": "Super3(quart)",
+    "variantPrice": "1700.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 40,
+    "handle": "ponal",
+    "tags": "ADPT",
+    "productName": "Ponal",
+    "variantName": "(tube120g) pattex",
+    "variantPrice": "500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 41,
+    "handle": "tangit",
+    "tags": "ADPTW/D1/4",
+    "productName": "Tangit",
+    "variantName": " (Wet & Dry 1/ 4PT)",
+    "variantPrice": "1550.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 42,
+    "handle": "tangit",
+    "tags": "ADPTW/D.5",
+    "productName": "Tangit",
+    "variantName": " (Wet & Dry 1/2 PT)",
+    "variantPrice": "1700.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 43,
+    "handle": "tangit",
+    "tags": "ADPTW/D1",
+    "productName": "Tangit",
+    "variantName": "(Wet and Dry 1pint)",
+    "variantPrice": "3450.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 44,
+    "handle": "pvc-cement",
+    "tags": "ADPVCC12",
+    "productName": "PVC Cement",
+    "variantName": " (1/2 pint)",
+    "variantPrice": "1730.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 45,
+    "handle": "pvc-cement",
+    "tags": "ADPVCC14",
+    "productName": "PVC Cement",
+    "variantName": " (1/4pint)",
+    "variantPrice": "1220.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 46,
+    "handle": "tangit-tube",
+    "tags": "ADPVCCLT25ML",
+    "productName": "Tangit Tube",
+    "variantName": " 25ml",
+    "variantPrice": "380.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 47,
+    "handle": "tangit-tube",
+    "tags": "ADPVCCLT50ml",
+    "productName": "Tangit Tube",
+    "variantName": " 50ml",
+    "variantPrice": "430.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 48,
+    "handle": "tangit-1-4-pint-hotwater-",
+    "tags": "ADPVCHW1/4",
+    "productName": "Tangit 1/4 PINT (HotWater)",
+    "variantName": "985.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 49,
+    "handle": "pvc-cement",
+    "tags": "ADPVVC1",
+    "productName": "PVC Cement",
+    "variantName": " (pint)",
+    "variantPrice": "3360.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 50,
+    "handle": "pattex",
+    "tags": "ADPXPT",
+    "productName": "Pattex",
+    "variantName": " (1/2Pint)",
+    "variantPrice": "1200.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 51,
+    "handle": "pattex",
+    "tags": "ADPXQT",
+    "productName": "Pattex",
+    "variantName": " (Quart)",
+    "variantPrice": "2875.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 52,
+    "handle": "pattex",
+    "tags": "ADPXTU",
+    "productName": "Pattex",
+    "variantName": " Tube",
+    "variantPrice": "650.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 53,
+    "handle": "saxit",
+    "tags": "ADSAX",
+    "productName": "Saxit",
+    "variantName": "(qt)",
+    "variantPrice": "600.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 54,
+    "handle": "sure-coat",
+    "tags": "ADSC22",
+    "productName": "Sure Coat",
+    "variantName": " 22lb",
+    "variantPrice": "1100.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 55,
+    "handle": "shoe-glue-super-glue",
+    "tags": "ADSG",
+    "productName": "Shoe Glue / Super Glue",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 56,
+    "handle": "box-tape-packagingtape-clear-and-brown",
+    "tags": "ADTB",
+    "productName": "Box Tape (PackagingTape) Clear and Brown",
+    "variantName": "No variantName",
+    "variantPrice": "290.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 57,
+    "handle": "cello-tape",
+    "tags": "ADTC1''",
+    "productName": "Cello Tape",
+    "variantName": " 1'' (72yds)",
+    "variantPrice": "370.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 58,
+    "handle": "cello-tape",
+    "tags": "ADTC1/2''",
+    "productName": "Cello Tape",
+    "variantName": " 1/2''(72yds)",
+    "variantPrice": "200.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 59,
+    "handle": "cello-tape",
+    "tags": "ADTC2",
+    "productName": "Cello Tape",
+    "variantName": " 2''(72yds)",
+    "variantPrice": "500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 60,
+    "handle": "cello-tape",
+    "tags": "ADTC3/4''",
+    "productName": "Cello Tape",
+    "variantName": " 3/4'' (72yds)",
+    "variantPrice": "270.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 61,
+    "handle": "duct-tape",
+    "tags": "ADTDL",
+    "productName": "Duct Tape",
+    "variantName": " (Large)",
+    "variantPrice": "1370.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 62,
+    "handle": "duct-tape",
+    "tags": "ADTDM-30y",
+    "productName": "Duct Tape",
+    "variantName": " Medium (2'' x 30yds)",
+    "variantPrice": "850.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 63,
+    "handle": "duct-tape",
+    "tags": "ADTDS-10y",
+    "productName": "Duct Tape",
+    "variantName": " (Small) 2''x 10yds",
+    "variantPrice": "500.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 64,
+    "handle": "masking-tape",
+    "tags": "ADTM.75''",
+    "productName": "Masking Tape",
+    "variantName": " 3/4''",
+    "variantPrice": "470.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 65,
+    "handle": "masking-tape",
+    "tags": "ADTM1''",
+    "productName": "Masking Tape",
+    "variantName": "1''",
+    "variantPrice": "550.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 66,
+    "handle": "masking-tape",
+    "tags": "ADTM1.5",
+    "productName": "Masking Tape",
+    "variantName": "1.5''",
+    "variantPrice": "680.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 67,
+    "handle": "masking-tape",
+    "tags": "ADTM2''",
+    "productName": "Masking Tape",
+    "variantName": "2''",
+    "variantPrice": "735.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 68,
+    "handle": "painters-tape-2",
+    "tags": "ADTMP2",
+    "productName": "Painters Tape 2",
+    "variantName": "850.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 69,
+    "handle": "painterstape-3-4",
+    "tags": "ADTMP34",
+    "productName": "PaintersTape 3/4",
+    "variantName": "650.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 70,
+    "handle": "thinset-dyna",
+    "tags": "ADTS",
+    "productName": "Thinset Dyna",
+    "variantName": " 300 (Regular) $75 PER LB",
+    "variantPrice": "1100.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 71,
+    "handle": "thinset-dyna",
+    "tags": "ADTSAL",
+    "productName": "Thinset Dyna",
+    "variantName": " 600 (All purpose) $100 PER LB",
+    "variantPrice": "3300.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 72,
+    "handle": "thinset-dyna",
+    "tags": "ADTSW",
+    "productName": "Thinset Dyna",
+    "variantName": " 400 (Wall) $80PER LB",
+    "variantPrice": "2400.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 73,
+    "handle": "wood-glue",
+    "tags": "ADWGQ",
+    "productName": "Wood Glue",
+    "variantName": "(qt)",
+    "variantPrice": "560.00",
+    "category": "Adhesive"
+  },
+  {
+    "id": 74,
+    "handle": "-brioler-ration-pellet-crumble-",
+    "tags": "AGAFBRP/C",
+    "productName": " Brioler Ration (Pellet/Crumble)",
+    "variantName": "No variantName",
+    "variantPrice": "1650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 75,
+    "handle": "crush-corn-lb-",
+    "tags": "AGAFCC",
+    "productName": "Crush Corn (lb)",
+    "variantName": "70.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 76,
+    "handle": "layer-ration",
+    "tags": "AGAFLR",
+    "productName": "Layer Ration",
+    "variantName": "No variantName",
+    "variantPrice": "1695.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 77,
+    "handle": "pig-grower",
+    "tags": "AGAFPG",
+    "productName": "Pig Grower",
+    "variantName": "No variantName",
+    "variantPrice": "1640.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 78,
+    "handle": "sow-and-boar-ration",
+    "tags": "AGAFSR",
+    "productName": "Sow and Boar Ration",
+    "variantName": "No variantName",
+    "variantPrice": "1435.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 79,
+    "handle": "wheat-midds",
+    "tags": "AGAFWM",
+    "productName": "Wheat Midds",
+    "variantName": "No variantName",
+    "variantPrice": "1435.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 80,
+    "handle": "cutlass-short-14-",
+    "tags": "AGC14S",
+    "productName": "Cutlass Short 14''",
+    "variantName": "No variantName",
+    "variantPrice": "1000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 81,
+    "handle": "sow-cutlass-20-",
+    "tags": "AGC20S",
+    "productName": "Sow Cutlass 20''",
+    "variantName": "No variantName",
+    "variantPrice": "1450.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 82,
+    "handle": "cutlass-22-",
+    "tags": "AGC22S",
+    "productName": "Cutlass 22''",
+    "variantName": "No variantName",
+    "variantPrice": "1500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 83,
+    "handle": "bill-cutlass-crocodile-cane-knife-",
+    "tags": "AGCB/CK",
+    "productName": "Bill Cutlass Crocodile (Cane Knife)",
+    "variantName": "No variantName",
+    "variantPrice": "2000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 84,
+    "handle": "cutlass-file",
+    "tags": "AGCF",
+    "productName": "Cutlass File",
+    "variantName": "No variantName",
+    "variantPrice": "230.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 85,
+    "handle": "flair-cutlass-belly-woman-",
+    "tags": "AGCFbw",
+    "productName": "Flair Cutlass (Belly Woman)",
+    "variantName": "No variantName",
+    "variantPrice": "1500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 86,
+    "handle": "hookie-cutlass",
+    "tags": "AGCH",
+    "productName": "Hookie Cutlass",
+    "variantName": "No variantName",
+    "variantPrice": "1700.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 87,
+    "handle": "fork-heavy-duty-agri-",
+    "tags": "AGF",
+    "productName": "Fork Heavy Duty Agri.",
+    "variantName": "No variantName",
+    "variantPrice": "14600.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 88,
+    "handle": "fertilizer-14-28-14-vegetable-",
+    "tags": "AGF14-28-14VL",
+    "productName": "Fertilizer 14-28-14 (Vegetable)",
+    "variantName": " Large",
+    "variantPrice": "6205.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 89,
+    "handle": "fertilizer-14-28-14-vegetable-",
+    "tags": "AGF14-28-14VS",
+    "productName": "Fertilizer 14-28-14 (Vegetable)",
+    "variantName": " Small",
+    "variantPrice": "3300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 90,
+    "handle": "fertilizer-16-9-18-all-purpose-",
+    "tags": "AGF16-9-18APL",
+    "productName": "Fertilizer 16-9-18 (All Purpose)",
+    "variantName": " Large",
+    "variantPrice": "5720.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 91,
+    "handle": "fertilizer-16-9-18-all-purpose-",
+    "tags": "AGF16-9-18APS",
+    "productName": "Fertilizer 16-9-18 (All Purpose)",
+    "variantName": " Small",
+    "variantPrice": "2935.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 92,
+    "handle": "fertilizer-sulphate-of-amonia-salt-",
+    "tags": "AGF1SAL",
+    "productName": "Fertilizer Sulphate of Amonia (Salt)",
+    "variantName": " Large",
+    "variantPrice": "4510.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 93,
+    "handle": "fertilizer-sulphate-of-amonia-salt-",
+    "tags": "AGF1SAS",
+    "productName": "Fertilizer Sulphate of Amonia (Salt)",
+    "variantName": " Small",
+    "variantPrice": "2310.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 94,
+    "handle": "champion-fungicide-lb-",
+    "tags": "AGFC",
+    "productName": "Champion fungicide (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "1600.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 95,
+    "handle": "diothane-fungicide-500g",
+    "tags": "AGFD",
+    "productName": "Diothane Fungicide 500g",
+    "variantName": "No variantName",
+    "variantPrice": "1400.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 96,
+    "handle": "fusilade-fungicide-pint",
+    "tags": "AGFF",
+    "productName": "Fusilade (Fungicide) pint",
+    "variantName": "No variantName",
+    "variantPrice": "3110.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 97,
+    "handle": "kocide-lb-",
+    "tags": "AGFK",
+    "productName": "Kocide (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "1360.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 98,
+    "handle": "man-kocide-lb-",
+    "tags": "AGFMK",
+    "productName": "Man Kocide (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "800.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 99,
+    "handle": "topsin-fungicide-lb-",
+    "tags": "AGFT",
+    "productName": "Topsin Fungicide (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "1400.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 100,
+    "handle": "garden-hose-",
+    "tags": "AGGH100",
+    "productName": "Garden Hose ",
+    "variantName": "100'",
+    "variantPrice": "7800.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 101,
+    "handle": "garden-hose-",
+    "tags": "AGGH50",
+    "productName": "Garden Hose ",
+    "variantName": "50'",
+    "variantPrice": "4700.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 102,
+    "handle": "garden-hose-",
+    "tags": "AGGH75",
+    "productName": "Garden Hose ",
+    "variantName": "75'",
+    "variantPrice": "5400.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 103,
+    "handle": "garden-hose-mender-all-",
+    "tags": "AGGHM",
+    "productName": "Garden Hose Mender (ALL)",
+    "variantName": "No variantName",
+    "variantPrice": "290.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 104,
+    "handle": "hvy-duty-gden-rake",
+    "tags": "AGGRHD",
+    "productName": "Hvy Duty Gden Rake",
+    "variantName": "No variantName",
+    "variantPrice": "1500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 105,
+    "handle": "garden-rake-metal",
+    "tags": "AGGRM",
+    "productName": "Garden Rake Metal",
+    "variantName": "No variantName",
+    "variantPrice": "1050.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 106,
+    "handle": "plastic-garden-rake",
+    "tags": "AGGRP",
+    "productName": "Plastic Garden Rake",
+    "variantName": "No variantName",
+    "variantPrice": "1100.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 107,
+    "handle": "garden-shade-cloth-greenhouse-mesh-peryd-",
+    "tags": "AGGSC",
+    "productName": "Garden Shade Cloth (Greenhouse Mesh) (peryd)",
+    "variantName": "No variantName",
+    "variantPrice": "470.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 108,
+    "handle": "seed-tray-germination-",
+    "tags": "AGGT",
+    "productName": "Seed Tray (Germination)",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 109,
+    "handle": "grass-whip-50-feet-",
+    "tags": "AGGW",
+    "productName": "Grass Whip (50 feet)",
+    "variantName": "No variantName",
+    "variantPrice": "750.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 110,
+    "handle": "grass-whip-black-heavy-duty-ft-",
+    "tags": "AGGWBHD",
+    "productName": "Grass Whip Black Heavy Duty (ft)",
+    "variantName": "No variantName",
+    "variantPrice": "25.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 111,
+    "handle": "grass-whip-trim-head",
+    "tags": "AGGWTH",
+    "productName": "Grass Whip Trim Head",
+    "variantName": "No variantName",
+    "variantPrice": "3390.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 112,
+    "handle": "hoe-",
+    "tags": "AGH1",
+    "productName": "Hoe ",
+    "variantName": "#1",
+    "variantPrice": "1940.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 113,
+    "handle": "hoe-",
+    "tags": "AGH2",
+    "productName": "Hoe ",
+    "variantName": "#2",
+    "variantPrice": "2150.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 114,
+    "handle": "hoe-",
+    "tags": "AGH3",
+    "productName": "Hoe ",
+    "variantName": "#3",
+    "variantPrice": "2460.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 115,
+    "handle": "antistress",
+    "tags": "AGMA",
+    "productName": "Antistress",
+    "variantName": "No variantName",
+    "variantPrice": "385.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 116,
+    "handle": "amprofur-antibiotic",
+    "tags": "AGMAA",
+    "productName": "Amprofur Antibiotic",
+    "variantName": "No variantName",
+    "variantPrice": "1650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 117,
+    "handle": "trisulvitrim-antibiotic",
+    "tags": "AGMAT",
+    "productName": "Trisulvitrim Antibiotic",
+    "variantName": "No variantName",
+    "variantPrice": "1650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 118,
+    "handle": "chicken-booster",
+    "tags": "AGMCB",
+    "productName": "Chicken Booster",
+    "variantName": "No variantName",
+    "variantPrice": "545.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 119,
+    "handle": "cleansing-drench",
+    "tags": "AGMDC",
+    "productName": "Cleansing Drench",
+    "variantName": "No variantName",
+    "variantPrice": "220.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 120,
+    "handle": "red-salt-drench-",
+    "tags": "AGMDRS",
+    "productName": "Red Salt Drench....",
+    "variantName": "No variantName",
+    "variantPrice": "220.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 121,
+    "handle": "fish-oil-lamp-oil-",
+    "tags": "AGMFO/LOL",
+    "productName": "Fish Oil / Lamp Oil ",
+    "variantName": "(250ml)",
+    "variantPrice": "650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 122,
+    "handle": "lamp-oil-fish-oil-",
+    "tags": "AGMFO/LOS",
+    "productName": "Lamp Oil/ Fish Oil ",
+    "variantName": "(60)",
+    "variantPrice": "330.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 123,
+    "handle": "gaseous-fluid",
+    "tags": "AGMGF",
+    "productName": "Gaseous Fluid",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 124,
+    "handle": "hiprovit",
+    "tags": "AGMH",
+    "productName": "Hiprovit",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 125,
+    "handle": "neo-chlor-plus-chicken-booster-",
+    "tags": "AGMNCP",
+    "productName": "Neo Chlor Plus (Chicken Booster)",
+    "variantName": "No variantName",
+    "variantPrice": "1860.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 126,
+    "handle": "chicken-wormer-parazine-",
+    "tags": "AGMWCP",
+    "productName": "Chicken Wormer (Parazine)",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 127,
+    "handle": "wormex-wormer-for-dogs-",
+    "tags": "AGMWD",
+    "productName": "Wormex (Wormer for Dogs)",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 128,
+    "handle": "safersan-general-wormer",
+    "tags": "AGMWGS",
+    "productName": "Safersan General Wormer",
+    "variantName": " 400g",
+    "variantPrice": "625.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 129,
+    "handle": "levox-wormer-",
+    "tags": "AGMWL150ml",
+    "productName": "Levox Wormer ",
+    "variantName": "150ml",
+    "variantPrice": "500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 130,
+    "handle": "levox-wormer-",
+    "tags": "AGMWL450ml",
+    "productName": "Levox Wormer ",
+    "variantName": "450 ml",
+    "variantPrice": "880.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 131,
+    "handle": "wound-oil-spray",
+    "tags": "AGMWOS",
+    "productName": "Wound Oil Spray",
+    "variantName": "No variantName",
+    "variantPrice": "550.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 132,
+    "handle": "wound-powder-",
+    "tags": "AGMWP85g",
+    "productName": "Wound Powder ",
+    "variantName": "85g",
+    "variantPrice": "430.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 133,
+    "handle": "pig-wormer-carlo-",
+    "tags": "AGMWPC",
+    "productName": "Pig Wormer (Carlo)",
+    "variantName": " 24g",
+    "variantPrice": "300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 134,
+    "handle": "valbazen-",
+    "tags": "AGMWV",
+    "productName": "Valbazen ",
+    "variantName": "(125ml)",
+    "variantPrice": "550.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 135,
+    "handle": "119-insect-killer",
+    "tags": "AGP119",
+    "productName": "119 Insect Killer",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 136,
+    "handle": "ant-powder-pack-",
+    "tags": "AGPAPP",
+    "productName": "Ant Powder (Pack)",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 137,
+    "handle": "potting-bag",
+    "tags": "AGPB",
+    "productName": "Potting Bag",
+    "variantName": "No variantName",
+    "variantPrice": "15.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 138,
+    "handle": "bagon-",
+    "tags": "AGPB260ml",
+    "productName": "Bagon ",
+    "variantName": "260ml",
+    "variantPrice": "545.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 139,
+    "handle": "baygon-",
+    "tags": "AGPB400ML",
+    "productName": "Baygon ",
+    "variantName": "400ml",
+    "variantPrice": "885.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 140,
+    "handle": "baygon-",
+    "tags": "AGPB600ML",
+    "productName": "Baygon ",
+    "variantName": "600ml",
+    "variantPrice": "1275.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 141,
+    "handle": "cockroach-powder",
+    "tags": "AGPCP",
+    "productName": "Cockroach Powder",
+    "variantName": "No variantName",
+    "variantPrice": "120.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 142,
+    "handle": "caratrax-",
+    "tags": "AGPCX250ML",
+    "productName": "Caratrax ",
+    "variantName": "250ml",
+    "variantPrice": "1500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 143,
+    "handle": "diazinon-",
+    "tags": "AGPD",
+    "productName": "Diazinon ",
+    "variantName": "(pint)",
+    "variantPrice": "1130.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 144,
+    "handle": "diazanon",
+    "tags": "AGPD250ml",
+    "productName": "Diazanon",
+    "variantName": " 250ml",
+    "variantPrice": "850.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 145,
+    "handle": "diazanon",
+    "tags": "AGPDD100ML",
+    "productName": "Diazanon",
+    "variantName": " 100ml ",
+    "variantPrice": "500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 146,
+    "handle": "dipel-oz-",
+    "tags": "AGPDIPEL",
+    "productName": "Dipel (oz)",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 147,
+    "handle": "poultry-feeder-hanging",
+    "tags": "AGPFH",
+    "productName": "Poultry Feeder Hanging",
+    "variantName": "No variantName",
+    "variantPrice": "2205.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 148,
+    "handle": "fly-and-insect-glue",
+    "tags": "AGPFIG",
+    "productName": "Fly and Insect Glue",
+    "variantName": "No variantName",
+    "variantPrice": "80.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 149,
+    "handle": "fly-ribbon",
+    "tags": "AGPFR",
+    "productName": "Fly Ribbon",
+    "variantName": "No variantName",
+    "variantPrice": "55.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 150,
+    "handle": "silvertone-flea-and-tick-killer",
+    "tags": "AGPFTPS",
+    "productName": "Silvertone Flea and Tick Killer",
+    "variantName": "No variantName",
+    "variantPrice": "565.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 151,
+    "handle": "jeyes-fluid-half-flask-",
+    "tags": "AGPJF12oz",
+    "productName": "Jeyes Fluid (half flask)",
+    "variantName": "No variantName",
+    "variantPrice": "800.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 152,
+    "handle": "karate-250ml",
+    "tags": "AGPK250ml",
+    "productName": "Karate 250ml",
+    "variantName": "No variantName",
+    "variantPrice": "2500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 153,
+    "handle": "malathion-250ml",
+    "tags": "AGPM",
+    "productName": "Malathion 250ml",
+    "variantName": "No variantName",
+    "variantPrice": "1000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 154,
+    "handle": "pyro-spray",
+    "tags": "AGPP285",
+    "productName": "Pyro Spray",
+    "variantName": " 285 ml",
+    "variantPrice": "650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 155,
+    "handle": "pyro-spray",
+    "tags": "AGPP350",
+    "productName": "Pyro Spray",
+    "variantName": " 350ml",
+    "variantPrice": "700.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 156,
+    "handle": "pyro-spray",
+    "tags": "AGPP450",
+    "productName": "Pyro Spray",
+    "variantName": " 450ml",
+    "variantPrice": "800.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 157,
+    "handle": "pyro-spray",
+    "tags": "AGPP600",
+    "productName": "Pyro Spray",
+    "variantName": " 600ml",
+    "variantPrice": "980.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 158,
+    "handle": "protox-spray",
+    "tags": "AGPPX200",
+    "productName": "Protox Spray",
+    "variantName": " 200ml Spray",
+    "variantPrice": "420.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 159,
+    "handle": "protox-spray",
+    "tags": "AGPPX400",
+    "productName": "Protox Spray",
+    "variantName": " 400ml spray",
+    "variantPrice": "540.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 160,
+    "handle": "protex-spray",
+    "tags": "AGPPX600",
+    "productName": "Protex Spray",
+    "variantName": " 600ml ",
+    "variantPrice": "750.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 161,
+    "handle": "rid-o-pest-12-oz-",
+    "tags": "AGPROP12",
+    "productName": "Rid-O-Pest (12 OZ)",
+    "variantName": "No variantName",
+    "variantPrice": "770.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 162,
+    "handle": "slug-pellets-lb-",
+    "tags": "AGPSP",
+    "productName": "Slug Pellets (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "550.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 163,
+    "handle": "carlo-screw-worm-spray-",
+    "tags": "AGPSWC200ml",
+    "productName": "Carlo Screw Worm Spray ",
+    "variantName": "200ml",
+    "variantPrice": "650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 164,
+    "handle": "triatix",
+    "tags": "AGPT",
+    "productName": "Triatix",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 165,
+    "handle": "asuntol-tick-wash",
+    "tags": "AGPTWA",
+    "productName": "Asuntol Tick Wash",
+    "variantName": "No variantName",
+    "variantPrice": "480.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 166,
+    "handle": "cypermethrin",
+    "tags": "AGPTWS150ML",
+    "productName": "Cypermethrin",
+    "variantName": " 150ml",
+    "variantPrice": "275.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 167,
+    "handle": "cypermethrin",
+    "tags": "AGPTWS240ml",
+    "productName": "Cypermethrin",
+    "variantName": " 240ml",
+    "variantPrice": "670.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 168,
+    "handle": "vape-insect-spray",
+    "tags": "AGPV400",
+    "productName": "Vape Insect Spray",
+    "variantName": " 400ml",
+    "variantPrice": "810.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 169,
+    "handle": "vape-insect-spray",
+    "tags": "AGPV600",
+    "productName": "Vape Insect Spray",
+    "variantName": " 600ml",
+    "variantPrice": "1100.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 170,
+    "handle": "poultry-waterer-",
+    "tags": "AGPW1",
+    "productName": "Poultry Waterer ",
+    "variantName": "(1Gal)",
+    "variantPrice": "1000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 171,
+    "handle": "poultry-waterer-",
+    "tags": "AGPW2",
+    "productName": "Poultry Waterer ",
+    "variantName": "(2 Gal)",
+    "variantPrice": "1865.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 172,
+    "handle": "wood-preservative-and-termite-killer",
+    "tags": "AGPWPTK",
+    "productName": "Wood Preservative and Termite Killer",
+    "variantName": "No variantName",
+    "variantPrice": "750.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 173,
+    "handle": "rope-lb-",
+    "tags": "AGR",
+    "productName": "Rope (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "580.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 174,
+    "handle": "clothes-line-rope-fine-rope-lb-",
+    "tags": "AGRCL",
+    "productName": "Clothes Line Rope/Fine Rope (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 175,
+    "handle": "swivle",
+    "tags": "AGRSEXL",
+    "productName": "Swivle",
+    "variantName": " Extra Large",
+    "variantPrice": "650.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 176,
+    "handle": "swivel",
+    "tags": "AGRSL",
+    "productName": "Swivel",
+    "variantName": " Large",
+    "variantPrice": "570.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 177,
+    "handle": "swivel",
+    "tags": "AGRSM",
+    "productName": "Swivel",
+    "variantName": " Medium",
+    "variantPrice": "530.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 178,
+    "handle": "swivel-",
+    "tags": "AGRSS",
+    "productName": "Swivel ",
+    "variantName": "Small",
+    "variantPrice": "450.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 179,
+    "handle": "rope-swivle-",
+    "tags": "AGRSLF",
+    "productName": "Rope Swivle ",
+    "variantName": "Large (Factory Made)",
+    "variantPrice": "600.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 180,
+    "handle": "rope-swivle-",
+    "tags": "AGRSMF",
+    "productName": "Rope Swivle ",
+    "variantName": "Medium (Factory Made)",
+    "variantPrice": "580.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 181,
+    "handle": "rope-swivle-",
+    "tags": "AGRSSF",
+    "productName": "Rope Swivle ",
+    "variantName": "Small (Factory Made)",
+    "variantPrice": "500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 182,
+    "handle": "broccoli",
+    "tags": "AGSB",
+    "productName": "Broccoli",
+    "variantName": "No variantName",
+    "variantPrice": "815.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 183,
+    "handle": "cucumber-seed-pandia-100g",
+    "tags": "AGSC",
+    "productName": "Cucumber Seed (PANDIA) 100G",
+    "variantName": "No variantName",
+    "variantPrice": "1350.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 184,
+    "handle": "callallo-seed",
+    "tags": "AGSCAL",
+    "productName": "Callallo Seed",
+    "variantName": "No variantName",
+    "variantPrice": "115.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 185,
+    "handle": "cauliflower",
+    "tags": "AGSCau",
+    "productName": "Cauliflower",
+    "variantName": "No variantName",
+    "variantPrice": "565.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 186,
+    "handle": "carrot-seed-tin-100g-",
+    "tags": "AGSCgp",
+    "productName": "Carrot Seed (tin 100g)",
+    "variantName": "No variantName",
+    "variantPrice": "1500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 187,
+    "handle": "cabbage-resist-crown-pack-",
+    "tags": "AGSCRCP",
+    "productName": "Cabbage Resist Crown (pack)",
+    "variantName": "No variantName",
+    "variantPrice": "550.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 188,
+    "handle": "cabbage-trop-2000-seeds",
+    "tags": "AGSCT2000",
+    "productName": "Cabbage Trop. 2000 seeds",
+    "variantName": "No variantName",
+    "variantPrice": "1470.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 189,
+    "handle": "lettuce-",
+    "tags": "AGSLgl",
+    "productName": "Lettuce ",
+    "variantName": "(great lakes)",
+    "variantPrice": "1690.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 190,
+    "handle": "lettuce-",
+    "tags": "AGSLi",
+    "productName": "Lettuce ",
+    "variantName": "(iceberg)",
+    "variantPrice": "1450.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 191,
+    "handle": "okra-seed",
+    "tags": "AGSO",
+    "productName": "Okra Seed",
+    "variantName": "No variantName",
+    "variantPrice": "680.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 192,
+    "handle": "pruning-scissors",
+    "tags": "AGSP",
+    "productName": "Pruning Scissors",
+    "variantName": "No variantName",
+    "variantPrice": "1000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 193,
+    "handle": "spray-pan",
+    "tags": "AGSP15L",
+    "productName": "Spray Pan",
+    "variantName": " 15 litre",
+    "variantPrice": "6000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 194,
+    "handle": "spray-pan",
+    "tags": "AGSP16LF",
+    "productName": "Spray Pan",
+    "variantName": " 16 Litre Federalli",
+    "variantPrice": "5935.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 195,
+    "handle": "spray-pan",
+    "tags": "AGSP19L",
+    "productName": "Spray Pan",
+    "variantName": " 19 Litre",
+    "variantPrice": "7000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 196,
+    "handle": "spray-pan",
+    "tags": "AGSP20L",
+    "productName": "Spray Pan",
+    "variantName": " (20 Litre)",
+    "variantPrice": "10000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 197,
+    "handle": "spray-bottle-federali-1-litre",
+    "tags": "AGSPB",
+    "productName": "Spray Bottle Federali 1 litre",
+    "variantName": "No variantName",
+    "variantPrice": "1000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 198,
+    "handle": "pac-choy-",
+    "tags": "AGSPCp",
+    "productName": "Pac Choy ",
+    "variantName": "(tin)",
+    "variantPrice": "1600.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 199,
+    "handle": "pac-choy-",
+    "tags": "AGSPCP200g",
+    "productName": "Pac Choy ",
+    "variantName": "(200 GRAM PACK)",
+    "variantPrice": "1000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 200,
+    "handle": "spray-pan",
+    "tags": "AGSPO6L",
+    "productName": "Spray Pan",
+    "variantName": " Osatu 6 litre",
+    "variantPrice": "5000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 201,
+    "handle": "red-peas",
+    "tags": "AGSRP",
+    "productName": "Red Peas",
+    "variantName": "No variantName",
+    "variantPrice": "225.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 202,
+    "handle": "spreader-sticker-qt-",
+    "tags": "AGSS",
+    "productName": "Spreader Sticker (qt)",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 203,
+    "handle": "string-beans",
+    "tags": "AGSSB",
+    "productName": "String Beans",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 204,
+    "handle": "scotch-bonnet-pepper-seed-oz-",
+    "tags": "AGSSBP",
+    "productName": "Scotch Bonnet Pepper Seed (oz)",
+    "variantName": "No variantName",
+    "variantPrice": "85.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 205,
+    "handle": "sweet-pepper-seeds-calif-wonder-",
+    "tags": "AGSSPcw",
+    "productName": "Sweet Pepper Seeds (calif wonder)",
+    "variantName": "No variantName",
+    "variantPrice": "1760.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 206,
+    "handle": "sweet-pepper-king-henry-oz",
+    "tags": "AGSSPKH",
+    "productName": "Sweet Pepper (King Henry) oz",
+    "variantName": "No variantName",
+    "variantPrice": "2060.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 207,
+    "handle": "tomato-seed-",
+    "tags": "AGSTF",
+    "productName": "Tomato Seed ",
+    "variantName": "(Florodale) oz",
+    "variantPrice": "300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 208,
+    "handle": "tomato-seed-",
+    "tags": "AGSTR",
+    "productName": "Tomato Seed ",
+    "variantName": "(Roma) oz.",
+    "variantPrice": "275.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 209,
+    "handle": "barb-wire-",
+    "tags": "AGWB200M",
+    "productName": "Barb Wire ",
+    "variantName": "(200 Meteres)",
+    "variantPrice": "9000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 210,
+    "handle": "barb-wire-",
+    "tags": "AGWB400M",
+    "productName": "Barb Wire ",
+    "variantName": "(400 Meters)",
+    "variantPrice": "14500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 211,
+    "handle": "hog-wire-4-",
+    "tags": "AGWH4",
+    "productName": "Hog Wire 4'",
+    "variantName": "No variantName",
+    "variantPrice": "19875.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 212,
+    "handle": "mesh-wire-",
+    "tags": "AGWM3",
+    "productName": "Mesh Wire ",
+    "variantName": "(yd) 3' $19500per roll",
+    "variantPrice": "520.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 213,
+    "handle": "mesh-wire-",
+    "tags": "AGWM4",
+    "productName": "Mesh Wire ",
+    "variantName": "(yd) 4' $22000 per roll",
+    "variantPrice": "580.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 214,
+    "handle": "2-4-d-weedicide",
+    "tags": "AGWS24D1L",
+    "productName": "2-4 D Weedicide",
+    "variantName": " 1L",
+    "variantPrice": "1050.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 215,
+    "handle": "-8l-2-4d-weedicide",
+    "tags": "AGWS24D3",
+    "productName": ".8L 2-4D Weedicide",
+    "variantName": " (gal)",
+    "variantPrice": "3300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 216,
+    "handle": "6-d-amine-1-litre-",
+    "tags": "AGWS6D",
+    "productName": "6 D Amine (1 Litre)",
+    "variantName": "No variantName",
+    "variantPrice": "2000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 217,
+    "handle": "atrimet-combi-qt-",
+    "tags": "AGWSAC",
+    "productName": "Atrimet Combi (qt)",
+    "variantName": "No variantName",
+    "variantPrice": "1220.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 218,
+    "handle": "diuron-1-litre-",
+    "tags": "AGWSD",
+    "productName": "Diuron (1 litre)",
+    "variantName": "No variantName",
+    "variantPrice": "2000.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 219,
+    "handle": "glyphos-1l",
+    "tags": "AGWSG1L",
+    "productName": "Glyphos 1L",
+    "variantName": "No variantName",
+    "variantPrice": "1800.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 220,
+    "handle": "-8l-glyphos-3-8-l",
+    "tags": "AGWSG3",
+    "productName": ".8L Glyphos 3.8 L",
+    "variantName": "No variantName",
+    "variantPrice": "6780.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 221,
+    "handle": "glyphosate-litre-",
+    "tags": "AGWSGL",
+    "productName": "Glyphosate (Litre)",
+    "variantName": "No variantName",
+    "variantPrice": "2200.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 222,
+    "handle": "gai-quat-1-litre-",
+    "tags": "AGWSGQ1L",
+    "productName": "Gai Quat (1 Litre)",
+    "variantName": "No variantName",
+    "variantPrice": "1600.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 223,
+    "handle": "gramoxone-super-",
+    "tags": "AGWSGS1L",
+    "productName": "Gramoxone Super ",
+    "variantName": "(1 litre)",
+    "variantPrice": "1875.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 224,
+    "handle": "gromoxone-super-",
+    "tags": "AGWSGS250ml",
+    "productName": "Gromoxone Super ",
+    "variantName": "250 ml",
+    "variantPrice": "800.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 225,
+    "handle": "krismat-lb-",
+    "tags": "AGWSK",
+    "productName": "Krismat (Lb)",
+    "variantName": "No variantName",
+    "variantPrice": "2125.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 226,
+    "handle": "karmex-lb-",
+    "tags": "AGWSKar",
+    "productName": "Karmex (lb)",
+    "variantName": "No variantName",
+    "variantPrice": "1415.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 227,
+    "handle": "lavax-",
+    "tags": "AGWSLG",
+    "productName": "Lavax ",
+    "variantName": "(Gallon)",
+    "variantPrice": "4500.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 228,
+    "handle": "lavox-",
+    "tags": "AGWSLq",
+    "productName": "Lavox ",
+    "variantName": "(quart)",
+    "variantPrice": "1300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 229,
+    "handle": "pilardir",
+    "tags": "AGWSP",
+    "productName": "Pilardir",
+    "variantName": "No variantName",
+    "variantPrice": "1800.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 230,
+    "handle": "paraquat",
+    "tags": "AGWSP1L",
+    "productName": "Paraquat",
+    "variantName": "1L",
+    "variantPrice": "1770.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 231,
+    "handle": "-8l-paraquat",
+    "tags": "AGWSP3",
+    "productName": ".8L Paraquat",
+    "variantName": " (3.8L)",
+    "variantPrice": "4120.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 232,
+    "handle": "water-sprinkler-rotating",
+    "tags": "AGWSR",
+    "productName": "Water Sprinkler Rotating",
+    "variantName": "No variantName",
+    "variantPrice": "745.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 233,
+    "handle": "riddown-",
+    "tags": "AGWSRG",
+    "productName": "Riddown ",
+    "variantName": "(GALLON Systemic spray)",
+    "variantPrice": "4700.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 234,
+    "handle": "riddown-",
+    "tags": "AGWSRQ",
+    "productName": "Riddown ",
+    "variantName": "QUART (Systemic Weed Killer)",
+    "variantPrice": "1400.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 235,
+    "handle": "round-up-",
+    "tags": "AGWSRU1L",
+    "productName": "Round Up ",
+    "variantName": "(1 Litre)",
+    "variantPrice": "2300.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 236,
+    "handle": "velzone-",
+    "tags": "AGWSV1L",
+    "productName": "Velzone ",
+    "variantName": "(1Litre)",
+    "variantPrice": "2375.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 237,
+    "handle": "touchdown-",
+    "tags": "AGWTD",
+    "productName": "Touchdown ",
+    "variantName": "(qt)",
+    "variantPrice": "1355.00",
+    "category": "Agricultural"
+  },
+  {
+    "id": 238,
+    "handle": "break-fluid",
+    "tags": "AUBF",
+    "productName": "Break Fluid",
+    "variantName": "No variantName",
+    "variantPrice": "520.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 239,
+    "handle": "battery-terminal",
+    "tags": "AUBT",
+    "productName": "Battery Terminal",
+    "variantName": "No variantName",
+    "variantPrice": "100.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 240,
+    "handle": "battery-terminal-cleaner",
+    "tags": "AUBTC",
+    "productName": "Battery Terminal Cleaner",
+    "variantName": "No variantName",
+    "variantPrice": "320.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 241,
+    "handle": "fuse",
+    "tags": "AUF",
+    "productName": "Fuse",
+    "variantName": "No variantName",
+    "variantPrice": "30.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 242,
+    "handle": "fix-it-pro",
+    "tags": "AUFIP",
+    "productName": "Fix It Pro",
+    "variantName": "No variantName",
+    "variantPrice": "115.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 243,
+    "handle": "inspection-lamp",
+    "tags": "AUIL",
+    "productName": "Inspection Lamp",
+    "variantName": "No variantName",
+    "variantPrice": "505.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 244,
+    "handle": "jumper-cable-light-auto-",
+    "tags": "AUJCLt",
+    "productName": "Jumper Cable (Light Auto)",
+    "variantName": "No variantName",
+    "variantPrice": "1245.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 245,
+    "handle": "lug-tool-4-way",
+    "tags": "AULT4W",
+    "productName": "Lug Tool 4 Way",
+    "variantName": "No variantName",
+    "variantPrice": "1380.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 246,
+    "handle": "map-light",
+    "tags": "AUML",
+    "productName": "Map Light",
+    "variantName": "No variantName",
+    "variantPrice": "180.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 247,
+    "handle": "40d-motor-oil-15-w-40-quart-diesel",
+    "tags": "AUO15",
+    "productName": "40D Motor Oil 15 w 40 (quart) diesel",
+    "variantName": "No variantName",
+    "variantPrice": "865.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 248,
+    "handle": "oil-2-stroke",
+    "tags": "AUO2S",
+    "productName": "Oil.....2 Stroke",
+    "variantName": "No variantName",
+    "variantPrice": "345.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 249,
+    "handle": "motor-oil-40",
+    "tags": "AUO40",
+    "productName": "Motor Oil 40",
+    "variantName": "No variantName",
+    "variantPrice": "575.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 250,
+    "handle": "oil-filter",
+    "tags": "AUOF",
+    "productName": "Oil Filter",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 251,
+    "handle": "transmision-oil",
+    "tags": "AUOT",
+    "productName": "Transmision Oil",
+    "variantName": "No variantName",
+    "variantPrice": "690.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 252,
+    "handle": "armor-all",
+    "tags": "AUPAA",
+    "productName": "Armor All",
+    "variantName": "No variantName",
+    "variantPrice": "400.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 253,
+    "handle": "formula-2001",
+    "tags": "AUPF2001",
+    "productName": "Formula 2001",
+    "variantName": "No variantName",
+    "variantPrice": "435.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 254,
+    "handle": "power-steering-fluid",
+    "tags": "AUPSF",
+    "productName": "Power Steering Fluid",
+    "variantName": "No variantName",
+    "variantPrice": "305.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 255,
+    "handle": "shamois",
+    "tags": "AUS",
+    "productName": "Shamois",
+    "variantName": "No variantName",
+    "variantPrice": "125.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 256,
+    "handle": "spark-plugs",
+    "tags": "AUSP",
+    "productName": "Spark Plugs",
+    "variantName": "No variantName",
+    "variantPrice": "115.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 257,
+    "handle": "steering-wheel-cover",
+    "tags": "AUSWC",
+    "productName": "Steering Wheel Cover",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 258,
+    "handle": "tyre-repair-kit",
+    "tags": "AUTRK",
+    "productName": "Tyre Repair Kit",
+    "variantName": "No variantName",
+    "variantPrice": "1200.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 259,
+    "handle": "wd-40-lubricant",
+    "tags": "AUWD40",
+    "productName": "WD 40 Lubricant",
+    "variantName": " 5.5oz",
+    "variantPrice": "840.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 260,
+    "handle": "wd-40-lubricant",
+    "tags": "AUWD40",
+    "productName": "WD 40 Lubricant",
+    "variantName": " 8oz",
+    "variantPrice": "925.00",
+    "category": "Automotive"
+  },
+  {
+    "id": 261,
+    "handle": "axle-",
+    "tags": "BPAC",
+    "productName": "Axle ",
+    "variantName": "(Centre)",
+    "variantPrice": "515.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 262,
+    "handle": "axle-",
+    "tags": "BPAF",
+    "productName": "Axle ",
+    "variantName": "(Front)",
+    "variantPrice": "265.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 263,
+    "handle": "axle-",
+    "tags": "BPAG",
+    "productName": "Axle ",
+    "variantName": "(Gear) Back",
+    "variantPrice": "265.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 264,
+    "handle": "break-set",
+    "tags": "BPBS",
+    "productName": "Break Set",
+    "variantName": "No variantName",
+    "variantPrice": "1310.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 265,
+    "handle": "break-shoes",
+    "tags": "BPBSh",
+    "productName": "Break Shoes",
+    "variantName": "No variantName",
+    "variantPrice": "160.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 266,
+    "handle": "balls-small-doz-",
+    "tags": "BPBSS",
+    "productName": "Balls small (doz)",
+    "variantName": "No variantName",
+    "variantPrice": "35.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 267,
+    "handle": "-4-balls-1-4-",
+    "tags": "BPBSS1",
+    "productName": "/4 Balls 1/4''",
+    "variantName": "No variantName",
+    "variantPrice": "55.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 268,
+    "handle": "cables-all-types-",
+    "tags": "BPC",
+    "productName": "Cables (all types)",
+    "variantName": "No variantName",
+    "variantPrice": "245.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 269,
+    "handle": "centre-cup-large-",
+    "tags": "BPCCL",
+    "productName": "Centre Cup: (large)",
+    "variantName": "600.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 270,
+    "handle": "centre-cup",
+    "tags": "BPCCS",
+    "productName": "Centre Cup",
+    "variantName": " (Small)",
+    "variantPrice": "550.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 271,
+    "handle": "chain-gear",
+    "tags": "BPCG",
+    "productName": "Chain Gear",
+    "variantName": "No variantName",
+    "variantPrice": "1400.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 272,
+    "handle": "crank-all-",
+    "tags": "BPCR",
+    "productName": "Crank (all)",
+    "variantName": "No variantName",
+    "variantPrice": "610.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 273,
+    "handle": "derailer-all-speeds-",
+    "tags": "BPD",
+    "productName": "Derailer (all speeds)",
+    "variantName": "No variantName",
+    "variantPrice": "965.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 274,
+    "handle": "-26-fork-24-26-",
+    "tags": "BPF24",
+    "productName": "-26'' Fork 24-26''",
+    "variantName": "No variantName",
+    "variantPrice": "2695.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 275,
+    "handle": "fork-rambo",
+    "tags": "BPFR",
+    "productName": "Fork Rambo",
+    "variantName": "No variantName",
+    "variantPrice": "2220.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 276,
+    "handle": "free-wheel",
+    "tags": "BPFW5S",
+    "productName": "Free Wheel",
+    "variantName": " 5 Speed",
+    "variantPrice": "1350.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 277,
+    "handle": "free-wheel",
+    "tags": "BPFW6S",
+    "productName": "Free Wheel",
+    "variantName": " 6 Sped",
+    "variantPrice": "1400.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 278,
+    "handle": "free-wheel",
+    "tags": "BPFW8S",
+    "productName": "Free Wheel",
+    "variantName": " 8 Speed",
+    "variantPrice": "1820.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 279,
+    "handle": "free-wheel",
+    "tags": "BPFWS",
+    "productName": "Free Wheel",
+    "variantName": " Star",
+    "variantPrice": "545.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 280,
+    "handle": "generator",
+    "tags": "BPG",
+    "productName": "Generator",
+    "variantName": "No variantName",
+    "variantPrice": "2005.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 281,
+    "handle": "gear-shifter",
+    "tags": "BPGS",
+    "productName": "Gear Shifter",
+    "variantName": "No variantName",
+    "variantPrice": "935.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 282,
+    "handle": "handle",
+    "tags": "BPH",
+    "productName": "Handle",
+    "variantName": "No variantName",
+    "variantPrice": "1930.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 283,
+    "handle": "hub",
+    "tags": "BPHF",
+    "productName": "Hub",
+    "variantName": " Front",
+    "variantPrice": "970.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 284,
+    "handle": "hub",
+    "tags": "BPHR",
+    "productName": "Hub",
+    "variantName": " Rear",
+    "variantPrice": "1210.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 285,
+    "handle": "hub",
+    "tags": "BPHFR",
+    "productName": "Hub",
+    "variantName": " (Front Rambo)",
+    "variantPrice": "1350.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 286,
+    "handle": "hub",
+    "tags": "BPHRR",
+    "productName": "Hub",
+    "variantName": " (Rambo Rear)",
+    "variantPrice": "1710.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 287,
+    "handle": "hand-grip",
+    "tags": "BPHGo",
+    "productName": "Hand Grip",
+    "variantName": "(Regular)",
+    "variantPrice": "370.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 288,
+    "handle": "hand-grip-",
+    "tags": "BPHGR",
+    "productName": "Hand Grip ",
+    "variantName": "(Rambo)",
+    "variantPrice": "400.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 289,
+    "handle": "head-lamp",
+    "tags": "BPHL",
+    "productName": "Head Lamp",
+    "variantName": "No variantName",
+    "variantPrice": "1400.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 290,
+    "handle": "head-parts",
+    "tags": "BPHPg",
+    "productName": "Head Parts",
+    "variantName": " (green box)",
+    "variantPrice": "675.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 291,
+    "handle": "head-parts",
+    "tags": "BPHPr",
+    "productName": "Head Parts",
+    "variantName": " (red)",
+    "variantPrice": "510.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 292,
+    "handle": "lock",
+    "tags": "BPL",
+    "productName": "Lock",
+    "variantName": "No variantName",
+    "variantPrice": "840.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 293,
+    "handle": "neck",
+    "tags": "BPN",
+    "productName": "Neck",
+    "variantName": "No variantName",
+    "variantPrice": "1550.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 294,
+    "handle": "pedals",
+    "tags": "BPP",
+    "productName": "Pedals",
+    "variantName": "No variantName",
+    "variantPrice": "725.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 295,
+    "handle": "pump-connectors",
+    "tags": "BPPC",
+    "productName": "Pump Connectors",
+    "variantName": "No variantName",
+    "variantPrice": "265.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 296,
+    "handle": "patch",
+    "tags": "BPPL",
+    "productName": "Patch",
+    "variantName": " (large)",
+    "variantPrice": "30.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 297,
+    "handle": "patch",
+    "tags": "BPPS",
+    "productName": "Patch",
+    "variantName": " (small)",
+    "variantPrice": "20.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 298,
+    "handle": "pump",
+    "tags": "BPPU",
+    "productName": "Pump",
+    "variantName": "No variantName",
+    "variantPrice": "1710.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 299,
+    "handle": "chopper-rim",
+    "tags": "BPRC",
+    "productName": "Chopper Rim",
+    "variantName": "No variantName",
+    "variantPrice": "1340.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 300,
+    "handle": "reflector",
+    "tags": "BPRCE",
+    "productName": "Reflector",
+    "variantName": " (cat eye)",
+    "variantPrice": "105.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 301,
+    "handle": "reflector",
+    "tags": "BPRL",
+    "productName": "Reflector",
+    "variantName": " (Large)",
+    "variantPrice": "340.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 302,
+    "handle": "reflector",
+    "tags": "BPRS",
+    "productName": "Reflector",
+    "variantName": " (small)",
+    "variantPrice": "280.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 303,
+    "handle": "s-crank",
+    "tags": "BPSC",
+    "productName": "S.Crank",
+    "variantName": "No variantName",
+    "variantPrice": "2015.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 304,
+    "handle": "sprocket",
+    "tags": "BPSCLD",
+    "productName": "Sprocket",
+    "variantName": "...Cotterless Double",
+    "variantPrice": "2970.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 305,
+    "handle": "sprocket",
+    "tags": "BPSCLT",
+    "productName": "Sprocket",
+    "variantName": "....Cotterless Triple",
+    "variantPrice": "3025.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 306,
+    "handle": "sprocket",
+    "tags": "BPSCPD",
+    "productName": "Sprocket",
+    "variantName": " ..Cotter Pin Double",
+    "variantPrice": "2745.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 307,
+    "handle": "sprocket",
+    "tags": "BPSCPT",
+    "productName": "Sprocket",
+    "variantName": "...Cotter Pin Triple",
+    "variantPrice": "3120.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 308,
+    "handle": "seat",
+    "tags": "BPSEBMX",
+    "productName": "Seat",
+    "variantName": " BMX",
+    "variantPrice": "1120.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 309,
+    "handle": "seat",
+    "tags": "BPSER",
+    "productName": "Seat",
+    "variantName": " Regular",
+    "variantPrice": "1360.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 310,
+    "handle": "solution",
+    "tags": "BPSS",
+    "productName": "Solution",
+    "variantName": " Small",
+    "variantPrice": "130.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 311,
+    "handle": "solution",
+    "tags": "BPSL",
+    "productName": "Solution",
+    "variantName": " Large",
+    "variantPrice": "245.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 312,
+    "handle": "seat-pole",
+    "tags": "BPSP",
+    "productName": "Seat Pole",
+    "variantName": "No variantName",
+    "variantPrice": "685.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 313,
+    "handle": "spokes",
+    "tags": "BPSPOKES",
+    "productName": "Spokes",
+    "variantName": "No variantName",
+    "variantPrice": "35.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 314,
+    "handle": "seat-spring",
+    "tags": "BPSRS",
+    "productName": "Seat Spring",
+    "variantName": "No variantName",
+    "variantPrice": "2300.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 315,
+    "handle": "sprocket",
+    "tags": "BPSSCD",
+    "productName": "Sprocket",
+    "variantName": " SCrank Double",
+    "variantPrice": "2015.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 316,
+    "handle": "sprocket",
+    "tags": "BPSSCS",
+    "productName": "Sprocket",
+    "variantName": "...S Crank Single",
+    "variantPrice": "1210.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 317,
+    "handle": "sprocket",
+    "tags": "BPSSCT",
+    "productName": "Sprocket",
+    "variantName": " ...S Crank Triple",
+    "variantPrice": "2210.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 318,
+    "handle": "stand-all-",
+    "tags": "BPST",
+    "productName": "Stand (all)",
+    "variantName": "No variantName",
+    "variantPrice": "1295.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 319,
+    "handle": "tyres",
+    "tags": "BPTC",
+    "productName": "Tyres",
+    "variantName": " Chopper",
+    "variantPrice": "1210.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 320,
+    "handle": "tyres",
+    "tags": "BPTR",
+    "productName": "Tyres",
+    "variantName": " Regular",
+    "variantPrice": "1415.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 321,
+    "handle": "bicycle-tube",
+    "tags": "BPTU20''",
+    "productName": "Bicycle Tube",
+    "variantName": " 20''",
+    "variantPrice": "485.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 322,
+    "handle": "bicycle-tube",
+    "tags": "BPTU24&26",
+    "productName": "Bicycle Tube",
+    "variantName": " 24'' & 26''",
+    "variantPrice": "965.00",
+    "category": "Bicycle parts"
+  },
+  {
+    "id": 323,
+    "handle": "diaper",
+    "tags": "CDLLB",
+    "productName": "Diaper",
+    "variantName": " Large (Little Berry) c/s 990",
+    "variantPrice": "1260.00",
+    "category": "Child Clothing"
+  },
+  {
+    "id": 324,
+    "handle": "diaper",
+    "tags": "CDMLB",
+    "productName": "Diaper",
+    "variantName": " Medium (Little Berry) c/s 980",
+    "variantPrice": "1250.00",
+    "category": "Child Clothing"
+  },
+  {
+    "id": 325,
+    "handle": "diaper",
+    "tags": "CDSLB",
+    "productName": "Diaper",
+    "variantName": " Small (Little Berry) c/s 970",
+    "variantPrice": "1240.00",
+    "category": "Child Clothing"
+  },
+  {
+    "id": 326,
+    "handle": "diaper",
+    "tags": "CDXLLB",
+    "productName": "Diaper",
+    "variantName": " Extra Large (Little Berry) c/s 1000",
+    "variantPrice": "1270.00",
+    "category": "Child Clothing"
+  },
+  {
+    "id": 327,
+    "handle": "mask-corona-n95-virus-",
+    "tags": "CMPCN95",
+    "productName": "Mask (Corona / N95 Virus)",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Medical Clothing"
+  },
+  {
+    "id": 328,
+    "handle": "dust-mask",
+    "tags": "CMPD",
+    "productName": "Dust Mask",
+    "variantName": "No variantName",
+    "variantPrice": "70.00",
+    "category": "Medical Clothing"
+  },
+  {
+    "id": 329,
+    "handle": "reusable-cotton-mask",
+    "tags": "CMPRc",
+    "productName": "Reusable Cotton Mask",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Medical Clothing"
+  },
+  {
+    "id": 330,
+    "handle": "surgical-masks",
+    "tags": "CMPS",
+    "productName": "Surgical Masks",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "Medical Clothing"
+  },
+  {
+    "id": 331,
+    "handle": "workman-pants-snickers-",
+    "tags": "CPPWs",
+    "productName": "Workman Pants (Snickers)",
+    "variantName": "No variantName",
+    "variantPrice": "2500.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 332,
+    "handle": "back-strap-brace",
+    "tags": "CPWBSB",
+    "productName": "Back Strap Brace",
+    "variantName": "No variantName",
+    "variantPrice": "4500.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 333,
+    "handle": "construction-helmet",
+    "tags": "CPWCH",
+    "productName": "Construction Helmet",
+    "variantName": "No variantName",
+    "variantPrice": "1200.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 334,
+    "handle": "safety-glasses",
+    "tags": "CPWGGS",
+    "productName": "Safety Glasses",
+    "variantName": "No variantName",
+    "variantPrice": "700.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 335,
+    "handle": "goggles-safety-clear",
+    "tags": "CPWGSc",
+    "productName": "Goggles Safety Clear",
+    "variantName": "No variantName",
+    "variantPrice": "650.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 336,
+    "handle": "welding-goggles",
+    "tags": "CPWGSW",
+    "productName": "Welding Goggles",
+    "variantName": "No variantName",
+    "variantPrice": "915.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 337,
+    "handle": "rain-coat-industrial-",
+    "tags": "CPWRCI",
+    "productName": "Rain Coat (Industrial)",
+    "variantName": "No variantName",
+    "variantPrice": "1130.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 338,
+    "handle": "safety-vest-reflective-",
+    "tags": "CPWSVR",
+    "productName": "Safety Vest (Reflective)",
+    "variantName": "No variantName",
+    "variantPrice": "990.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 339,
+    "handle": "water-boot-calf-length-and-laced-boots",
+    "tags": "CPWWBC&L",
+    "productName": "Water Boot (Calf Length) and Laced Boots",
+    "variantName": "No variantName",
+    "variantPrice": "3000.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 340,
+    "handle": "water-boot",
+    "tags": "CPWWBK",
+    "productName": "Water Boot",
+    "variantName": "(knee length)",
+    "variantPrice": "3500.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 341,
+    "handle": "water-boot",
+    "tags": "CPWWBKST",
+    "productName": "Water Boot",
+    "variantName": " Knee Lenght Steel Toe",
+    "variantPrice": "4000.00",
+    "category": "Worksite Clothing"
+  },
+  {
+    "id": 342,
+    "handle": "chinese-slippers-female-",
+    "tags": "CSCF",
+    "productName": "Chinese Slippers (Female)",
+    "variantName": "No variantName",
+    "variantPrice": "100.00",
+    "category": "Chinese Clothing"
+  },
+  {
+    "id": 343,
+    "handle": "rfz7-zinc-7-",
+    "tags": "DUP",
+    "productName": "RFZ7 Zinc 7'",
+    "variantName": "No variantName",
+    "variantPrice": "3810.00",
+    "category": "Roofing"
+  },
+  {
+    "id": 344,
+    "handle": "amp-lug-nut-and-bolt",
+    "tags": "ELALNB",
+    "productName": "Amp Lug Nut and Bolt",
+    "variantName": "No variantName",
+    "variantPrice": "160.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 345,
+    "handle": "amp-lug-solderless-",
+    "tags": "ELALS",
+    "productName": "Amp Lug Solderless ",
+    "variantName": "70A",
+    "variantPrice": "700.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 346,
+    "handle": "amp-lug-solderless-",
+    "tags": "ELALS125",
+    "productName": "Amp Lug Solderless ",
+    "variantName": "125A",
+    "variantPrice": "1100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 347,
+    "handle": "amp-lug-solderless-",
+    "tags": "ELALS175",
+    "productName": "Amp Lug Solderless ",
+    "variantName": "175A",
+    "variantPrice": "1400.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 348,
+    "handle": "amp-lug-solderless-",
+    "tags": "ELALS225",
+    "productName": "Amp Lug Solderless ",
+    "variantName": "225A",
+    "variantPrice": "2125.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 349,
+    "handle": "amp-lug-solderless-",
+    "tags": "ELALS300",
+    "productName": "Amp Lug Solderless ",
+    "variantName": "300-500A",
+    "variantPrice": "3640.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 350,
+    "handle": "appliance-power-cord",
+    "tags": "ELAPC",
+    "productName": "Appliance Power Cord",
+    "variantName": "No variantName",
+    "variantPrice": "125.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 351,
+    "handle": "regular-light-bulbs",
+    "tags": "ELB",
+    "productName": "Regular Light Bulbs",
+    "variantName": "No variantName",
+    "variantPrice": "100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 352,
+    "handle": "breaker",
+    "tags": "ELB100ADP",
+    "productName": "Breaker",
+    "variantName": " 100 Amp Double Pole",
+    "variantPrice": "3500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 353,
+    "handle": "breaker",
+    "tags": "ELB15DP",
+    "productName": "Breaker",
+    "variantName": " 15amp DP",
+    "variantPrice": "1750.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 354,
+    "handle": "breaker",
+    "tags": "ELB15DU",
+    "productName": "Breaker",
+    "variantName": " 15amp Duplex",
+    "variantPrice": "3900.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 355,
+    "handle": "breaker",
+    "tags": "ELB15SP",
+    "productName": "Breaker",
+    "variantName": " 15A SP",
+    "variantPrice": "760.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 356,
+    "handle": "breaker",
+    "tags": "ELB20ADP",
+    "productName": "Breaker",
+    "variantName": " 20 Amp DP",
+    "variantPrice": "2200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 357,
+    "handle": "breaker",
+    "tags": "ELB20ADU",
+    "productName": "Breaker",
+    "variantName": " 20 Amp Duplex",
+    "variantPrice": "3950.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 358,
+    "handle": "gfci-breaker-20a-single-pole",
+    "tags": "ELB20AGFCI",
+    "productName": "GFCI Breaker 20a Single Pole",
+    "variantName": "No variantName",
+    "variantPrice": "15200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 359,
+    "handle": "breaker",
+    "tags": "ELB20ASP",
+    "productName": "Breaker",
+    "variantName": " 20 Amp SP",
+    "variantPrice": "780.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 360,
+    "handle": "breaker",
+    "tags": "ELB30SP",
+    "productName": "Breaker",
+    "variantName": " 30A SP",
+    "variantPrice": "780.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 361,
+    "handle": "breaker",
+    "tags": "ELB3OADP",
+    "productName": "Breaker",
+    "variantName": " 30A DP",
+    "variantPrice": "2600.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 362,
+    "handle": "breaker",
+    "tags": "ELB40ADP",
+    "productName": "Breaker",
+    "variantName": " 40 Amp Double Pole",
+    "variantPrice": "2800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 363,
+    "handle": "breaker",
+    "tags": "ELB40ASP",
+    "productName": "Breaker",
+    "variantName": " 40A SP",
+    "variantPrice": "850.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 364,
+    "handle": "breaker",
+    "tags": "ELB50ADP",
+    "productName": "Breaker",
+    "variantName": " 50 Amp DP",
+    "variantPrice": "2900.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 365,
+    "handle": "breaker",
+    "tags": "ELB60DP",
+    "productName": "Breaker",
+    "variantName": " 60a Double Pole",
+    "variantPrice": "3000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 366,
+    "handle": "breaker",
+    "tags": "ELB70DP",
+    "productName": "Breaker",
+    "variantName": " 70 Amp Double Pole",
+    "variantPrice": "3300.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 367,
+    "handle": "basa-box-2-way",
+    "tags": "ELBB2W20M",
+    "productName": "BASA Box 2 Way",
+    "variantName": " 20mm",
+    "variantPrice": "130.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 368,
+    "handle": "besa-box-3-way",
+    "tags": "ELBB3W20M",
+    "productName": "Besa Box 3 Way",
+    "variantName": " 20mm",
+    "variantPrice": "160.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 369,
+    "handle": "basa-box-3-way",
+    "tags": "ELBB3W25M",
+    "productName": "Basa Box 3 Way",
+    "variantName": " 25mm",
+    "variantPrice": "180.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 370,
+    "handle": "besa-box-4-way",
+    "tags": "ELBB4W20M",
+    "productName": "Besa Box 4 Way",
+    "variantName": " 20mm",
+    "variantPrice": "200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 371,
+    "handle": "besa-box-4-way",
+    "tags": "ELBB4W25M",
+    "productName": "Besa Box 4 Way",
+    "variantName": " 25mm",
+    "variantPrice": "220.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 372,
+    "handle": "besa-box-covers",
+    "tags": "ELBBC",
+    "productName": "Besa Box Covers",
+    "variantName": "No variantName",
+    "variantPrice": "50.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 373,
+    "handle": "basa-box-1-way",
+    "tags": "ELBBIW20M",
+    "productName": "Basa Box 1 Way",
+    "variantName": " 20mm",
+    "variantPrice": "120.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 374,
+    "handle": "regular-bulb-coloured-",
+    "tags": "ELBCR",
+    "productName": "Regular Bulb (Coloured)",
+    "variantName": "No variantName",
+    "variantPrice": "120.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 375,
+    "handle": "florescent-bulb-energy-saver",
+    "tags": "ELBF20W",
+    "productName": "Florescent Bulb Energy Saver",
+    "variantName": " 20W",
+    "variantPrice": "500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 376,
+    "handle": "florescent-bulb-energy-saver",
+    "tags": "ELBF23W",
+    "productName": "Florescent Bulb Energy Saver",
+    "variantName": " 23W",
+    "variantPrice": "550.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 377,
+    "handle": "florescent-bulb-energy-saver",
+    "tags": "ELBF26W",
+    "productName": "Florescent Bulb Energy Saver",
+    "variantName": " 26W",
+    "variantPrice": "580.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 378,
+    "handle": "florescent-bulb-energy-saver",
+    "tags": "ELBF36W",
+    "productName": "Florescent Bulb Energy Saver",
+    "variantName": " 36W",
+    "variantPrice": "600.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 379,
+    "handle": "circular-florescent-bulb-refill-",
+    "tags": "ELBFCR",
+    "productName": "Circular Florescent Bulb (Refill)",
+    "variantName": "No variantName",
+    "variantPrice": "565.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 380,
+    "handle": "flood-light-bulb",
+    "tags": "ELBFL",
+    "productName": "Flood Light Bulb",
+    "variantName": "No variantName",
+    "variantPrice": "690.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 381,
+    "handle": "flash-light-bulb",
+    "tags": "ELBFLB",
+    "productName": "Flash Light Bulb",
+    "variantName": "No variantName",
+    "variantPrice": "40.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 382,
+    "handle": "led-flood-light-bulb",
+    "tags": "ELBFLLED",
+    "productName": "LED Flood Light Bulb",
+    "variantName": "No variantName",
+    "variantPrice": "2800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 383,
+    "handle": "circular-florescent-recp-bulb",
+    "tags": "ELBFRBC",
+    "productName": "Circular Florescent Recp & Bulb",
+    "variantName": "No variantName",
+    "variantPrice": "875.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 384,
+    "handle": "led-bulb",
+    "tags": "ELBLED",
+    "productName": "LED Bulb",
+    "variantName": "No variantName",
+    "variantPrice": "500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 385,
+    "handle": "led-tube",
+    "tags": "ELBLEDT2",
+    "productName": "LED Tube",
+    "variantName": " 2'",
+    "variantPrice": "850.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 386,
+    "handle": "led-tube",
+    "tags": "ELBLEDT4",
+    "productName": "LED Tube",
+    "variantName": " 4'",
+    "variantPrice": "1500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 387,
+    "handle": "bonding-nipples",
+    "tags": "ELBN25",
+    "productName": "Bonding Nipples",
+    "variantName": " 25mm",
+    "variantPrice": "180.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 388,
+    "handle": "bonding-nipples",
+    "tags": "ELBN20",
+    "productName": "Bonding Nipples",
+    "variantName": " 20mm",
+    "variantPrice": "100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 389,
+    "handle": "bonding-nipples",
+    "tags": "ELBN32MM",
+    "productName": "Bonding Nipples",
+    "variantName": " 32mm",
+    "variantPrice": "210.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 390,
+    "handle": "bonding-nipples",
+    "tags": "ELBN38",
+    "productName": "Bonding Nipples",
+    "variantName": " 38mm",
+    "variantPrice": "220.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 391,
+    "handle": "night-light-bulbs",
+    "tags": "ELBNL",
+    "productName": "Night Light Bulbs",
+    "variantName": "No variantName",
+    "variantPrice": "45.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 392,
+    "handle": "-duracell-battery",
+    "tags": "ELBS9VDE",
+    "productName": " Duracell Battery",
+    "variantName": " 9 Volt Duracell",
+    "variantPrice": "500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 393,
+    "handle": "duracell-battery",
+    "tags": "ELBSAAADE",
+    "productName": "Duracell Battery",
+    "variantName": " AAA Duracell",
+    "variantPrice": "130.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 394,
+    "handle": "duracell-battery",
+    "tags": "ELBSAADE",
+    "productName": "Duracell Battery",
+    "variantName": " AA Duracell",
+    "variantPrice": "140.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 395,
+    "handle": "duracell-battery",
+    "tags": "ELBSCDE",
+    "productName": "Duracell Battery",
+    "variantName": " Size C Duracell",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 396,
+    "handle": "duracell-battery",
+    "tags": "ELBSDDE",
+    "productName": "Duracell Battery",
+    "variantName": " Size D Duracell",
+    "variantPrice": "280.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 397,
+    "handle": "energizer-battery",
+    "tags": "ELBS9VDE",
+    "productName": "Energizer Battery",
+    "variantName": " 9 Volt Energizer",
+    "variantPrice": "500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 398,
+    "handle": "energizer-battery",
+    "tags": "ELBSAAADE",
+    "productName": "Energizer Battery",
+    "variantName": " AAA Energizer",
+    "variantPrice": "130.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 399,
+    "handle": "energizer-battery",
+    "tags": "ELBSAADE",
+    "productName": "Energizer Battery",
+    "variantName": " AA Energizer",
+    "variantPrice": "140.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 400,
+    "handle": "energizer-battery",
+    "tags": "ELBSCDE",
+    "productName": "Energizer Battery",
+    "variantName": " Size C Energizer",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 401,
+    "handle": "energizer-battery",
+    "tags": "ELBSDDE",
+    "productName": "Energizer Battery",
+    "variantName": " Size D Energizer",
+    "variantPrice": "280.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 402,
+    "handle": "duracell-battery-carging-pack",
+    "tags": "ELBSCPD",
+    "productName": "Duracell Battery Carging Pack",
+    "variantName": "No variantName",
+    "variantPrice": "5000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 403,
+    "handle": "electrical-conduit",
+    "tags": "ELC20",
+    "productName": "Electrical Conduit",
+    "variantName": " 20mm",
+    "variantPrice": "340.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 404,
+    "handle": "electrical-conduit",
+    "tags": "ELC25",
+    "productName": "Electrical Conduit",
+    "variantName": " 25mm",
+    "variantPrice": "400.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 405,
+    "handle": "electrical-conduit",
+    "tags": "ELC32mm",
+    "productName": "Electrical Conduit",
+    "variantName": " 32mm",
+    "variantPrice": "600.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 406,
+    "handle": "electrical-conduit",
+    "tags": "ELC38mm",
+    "productName": "Electrical Conduit",
+    "variantName": " 38mm",
+    "variantPrice": "880.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 407,
+    "handle": "electrical-conduit",
+    "tags": "ELC50",
+    "productName": "Electrical Conduit",
+    "variantName": " 50mm",
+    "variantPrice": "1400.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 408,
+    "handle": "electrical-bend",
+    "tags": "ELCB20M",
+    "productName": "Electrical Bend",
+    "variantName": " 20m",
+    "variantPrice": "140.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 409,
+    "handle": "electrical-bend",
+    "tags": "ELCB25M",
+    "productName": "Electrical Bend",
+    "variantName": " 25mm",
+    "variantPrice": "170.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 410,
+    "handle": "electrical-bend",
+    "tags": "ELCB32mm",
+    "productName": "Electrical Bend",
+    "variantName": " 32mm",
+    "variantPrice": "230.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 411,
+    "handle": "electrical-bend",
+    "tags": "ELCB38mm",
+    "productName": "Electrical Bend",
+    "variantName": " 38mm",
+    "variantPrice": "280.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 412,
+    "handle": "electrical-bend",
+    "tags": "ELCB50mm",
+    "productName": "Electrical Bend",
+    "variantName": " 50mm",
+    "variantPrice": "550.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 413,
+    "handle": "connector-bars",
+    "tags": "ELCBL",
+    "productName": "Connector Bars",
+    "variantName": " (large)",
+    "variantPrice": "30.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 414,
+    "handle": "connector-bars",
+    "tags": "ELCBS",
+    "productName": "Connector Bars",
+    "variantName": " (small)",
+    "variantPrice": "20.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 415,
+    "handle": "electrical-conduit-coupling",
+    "tags": "ELCC20",
+    "productName": "Electrical Conduit Coupling",
+    "variantName": " 20mm",
+    "variantPrice": "35.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 416,
+    "handle": "electrical-conduit-coupling",
+    "tags": "ELCC25",
+    "productName": "Electrical Conduit Coupling",
+    "variantName": " 25mm",
+    "variantPrice": "45.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 417,
+    "handle": "electrical-conduit-coupling",
+    "tags": "ELCC32mm",
+    "productName": "Electrical Conduit Coupling",
+    "variantName": " 32mm",
+    "variantPrice": "85.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 418,
+    "handle": "electrical-conduit-coupling",
+    "tags": "ELCC38mm",
+    "productName": "Electrical Conduit Coupling",
+    "variantName": " 38mm",
+    "variantPrice": "100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 419,
+    "handle": "electrical-conduit-copling",
+    "tags": "ELCC50",
+    "productName": "Electrical Conduit Copling",
+    "variantName": " 50 mm",
+    "variantPrice": "125.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 420,
+    "handle": "5-gang-switch-cover",
+    "tags": "ELCCOGS5",
+    "productName": "5 Gang Switch Cover",
+    "variantName": "No variantName",
+    "variantPrice": "800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 421,
+    "handle": "cable-ends",
+    "tags": "ELCE",
+    "productName": "Cable Ends",
+    "variantName": "No variantName",
+    "variantPrice": "45.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 422,
+    "handle": "2-way-cable-splitter",
+    "tags": "ELCS2W",
+    "productName": "2 Way Cable Splitter",
+    "variantName": "No variantName",
+    "variantPrice": "190.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 423,
+    "handle": "3-way-cable-splitter",
+    "tags": "ELCS3W",
+    "productName": "3 Way Cable Splitter",
+    "variantName": "No variantName",
+    "variantPrice": "215.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 424,
+    "handle": "wire-twist-connector",
+    "tags": "ELCWT10",
+    "productName": "Wire Twist Connector",
+    "variantName": " 10-20amps",
+    "variantPrice": "35.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 425,
+    "handle": "wire-twist-connector",
+    "tags": "ELCWT40A",
+    "productName": "Wire Twist Connector",
+    "variantName": "40amp",
+    "variantPrice": "40.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 426,
+    "handle": "draw-box",
+    "tags": "ELDBM4X4",
+    "productName": "Draw Box",
+    "variantName": " 4x4 Metal",
+    "variantPrice": "880.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 427,
+    "handle": "draw-box",
+    "tags": "ELDBM6X6",
+    "productName": "Draw Box",
+    "variantName": " 6X6 Galvonized....",
+    "variantPrice": "1540.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 428,
+    "handle": "draw-box",
+    "tags": "ELDBP10X12",
+    "productName": "Draw Box",
+    "variantName": "PVC 10X12",
+    "variantPrice": "4500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 429,
+    "handle": "draw-box",
+    "tags": "ELDBP4X4",
+    "productName": "Draw Box",
+    "variantName": " PVC 4X4",
+    "variantPrice": "1400.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 430,
+    "handle": "draw-box",
+    "tags": "ELDBP6X6",
+    "productName": "Draw Box",
+    "variantName": " PVC 6X6",
+    "variantPrice": "2800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 431,
+    "handle": "danger-tag",
+    "tags": "ELDT",
+    "productName": "Danger Tag",
+    "variantName": "No variantName",
+    "variantPrice": "190.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 432,
+    "handle": "electrical-ends",
+    "tags": "ELE20M",
+    "productName": "Electrical Ends",
+    "variantName": " 20mm",
+    "variantPrice": "55.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 433,
+    "handle": "electrical-ends",
+    "tags": "ELE25M",
+    "productName": "Electrical Ends",
+    "variantName": " 25mm",
+    "variantPrice": "90.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 434,
+    "handle": "electrical-ends",
+    "tags": "ELE32M",
+    "productName": "Electrical Ends",
+    "variantName": " 32mm",
+    "variantPrice": "200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 435,
+    "handle": "extention-cord",
+    "tags": "ELEC2P12",
+    "productName": "Extention Cord",
+    "variantName": " 12' (2 Pin)",
+    "variantPrice": "750.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 436,
+    "handle": "extention-cord",
+    "tags": "ELEC2P15",
+    "productName": "Extention Cord",
+    "variantName": " 15' (2 Pin)",
+    "variantPrice": "950.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 437,
+    "handle": "extention-cord",
+    "tags": "ELEC2P20",
+    "productName": "Extention Cord",
+    "variantName": " 20' (2 Pin)",
+    "variantPrice": "1085.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 438,
+    "handle": "extention-cord",
+    "tags": "ELEC3P12",
+    "productName": "Extention Cord",
+    "variantName": " 12 ft (3 Pin)",
+    "variantPrice": "1150.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 439,
+    "handle": "extention-cord",
+    "tags": "ELEC3P15",
+    "productName": "Extention Cord",
+    "variantName": " 15 ft (3 pin)",
+    "variantPrice": "1500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 440,
+    "handle": "extention-cord",
+    "tags": "ELEC3P20",
+    "productName": "Extention Cord",
+    "variantName": " 20 ft (3 Pin)",
+    "variantPrice": "1300.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 441,
+    "handle": "extention-cord",
+    "tags": "ELECO100",
+    "productName": "Extention Cord",
+    "variantName": " 100' Outdoor",
+    "variantPrice": "5800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 442,
+    "handle": "extention-cord",
+    "tags": "ELECO50",
+    "productName": "Extention Cord",
+    "variantName": " 50' Outdoor",
+    "variantPrice": "4500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 443,
+    "handle": "extention-cord",
+    "tags": "ELECPS6O",
+    "productName": "Extention Cord",
+    "variantName": " with 6 Outlet Power Strip",
+    "variantPrice": "1850.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 444,
+    "handle": "extention-cord",
+    "tags": "ELECSE4OSP",
+    "productName": "Extention Cord",
+    "variantName": " with 4 Outlet Surge Protector",
+    "variantPrice": "4900.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 445,
+    "handle": "extention-cord-trouble-light",
+    "tags": "ELECTL",
+    "productName": "Extention Cord Trouble Light",
+    "variantName": "No variantName",
+    "variantPrice": "4300.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 446,
+    "handle": "earth-rod",
+    "tags": "ELERC",
+    "productName": "Earth Rod",
+    "variantName": " Clamp",
+    "variantPrice": "330.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 447,
+    "handle": "earth-rod",
+    "tags": "ELERC4",
+    "productName": "Earth Rod",
+    "variantName": " Copper 4'",
+    "variantPrice": "2600.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 448,
+    "handle": "earth-rod",
+    "tags": "ELERG4",
+    "productName": "Earth Rod",
+    "variantName": " Galvonized 4'",
+    "variantPrice": "2800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 449,
+    "handle": "1-gang-switch-cover-decora",
+    "tags": "ELFCCD1G",
+    "productName": "1 Gang Switch Cover Decora",
+    "variantName": "No variantName",
+    "variantPrice": "170.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 450,
+    "handle": "2-gang-switch-cover-decora",
+    "tags": "ELFCCD2G",
+    "productName": "2 Gang Switch Cover Decora",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 451,
+    "handle": "3-gang-switch-cover-decora",
+    "tags": "ELFCCD3G",
+    "productName": "3 Gang Switch Cover Decora",
+    "variantName": "No variantName",
+    "variantPrice": "265.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 452,
+    "handle": "4-gang-switch-cover-decora",
+    "tags": "ELFCCD4G",
+    "productName": "4 Gang Switch Cover Decora",
+    "variantName": "No variantName",
+    "variantPrice": "320.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 453,
+    "handle": "5-gang-switch-cover-decora",
+    "tags": "ELFCCD5G",
+    "productName": "5 Gang Switch Cover Decora",
+    "variantName": "No variantName",
+    "variantPrice": "375.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 454,
+    "handle": "1-gang-switch-cover",
+    "tags": "ELFCCOGS1",
+    "productName": "1 Gang Switch Cover",
+    "variantName": "No variantName",
+    "variantPrice": "70.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 455,
+    "handle": "2-gang-switch-cover",
+    "tags": "ELFCCOGS2",
+    "productName": "2 Gang Switch Cover",
+    "variantName": "No variantName",
+    "variantPrice": "190.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 456,
+    "handle": "3-gang-switch-cover",
+    "tags": "ELFCCOGS3",
+    "productName": "3 Gang Switch Cover",
+    "variantName": "No variantName",
+    "variantPrice": "230.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 457,
+    "handle": "4-gang-switch-cover",
+    "tags": "ELFCCOGS4",
+    "productName": "4 Gang Switch Cover",
+    "variantName": "No variantName",
+    "variantPrice": "290.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 458,
+    "handle": "5-gang-switch-cover",
+    "tags": "ELFCCOGS5",
+    "productName": "5 Gang Switch Cover",
+    "variantName": "No variantName",
+    "variantPrice": "350.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 459,
+    "handle": "draw-box-4x4-covers",
+    "tags": "ELFCDB4",
+    "productName": "Draw Box 4x4 covers",
+    "variantName": "No variantName",
+    "variantPrice": "140.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 460,
+    "handle": "octogonal-box-covers",
+    "tags": "ELFCOBC",
+    "productName": "Octogonal Box Covers",
+    "variantName": "No variantName",
+    "variantPrice": "100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 461,
+    "handle": "socket-cover",
+    "tags": "ELFCSCM",
+    "productName": "Socket Cover",
+    "variantName": " (Metal)",
+    "variantPrice": "120.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 462,
+    "handle": "socket-cover",
+    "tags": "ELFCSCP",
+    "productName": "Socket Cover",
+    "variantName": " Plastic (All Single)",
+    "variantPrice": "100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 463,
+    "handle": "telephone-flush-cover-assembly",
+    "tags": "ELFCT",
+    "productName": "Telephone Flush Cover Assembly",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 464,
+    "handle": "telephone-cable-flush-cover-assembly",
+    "tags": "ELFCT&C",
+    "productName": "Telephone & Cable Flush Cover Assembly",
+    "variantName": "No variantName",
+    "variantPrice": "275.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 465,
+    "handle": "female-extention-socket",
+    "tags": "ELFES",
+    "productName": "Female Extention Socket",
+    "variantName": "No variantName",
+    "variantPrice": "175.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 466,
+    "handle": "fridge-guard",
+    "tags": "ELFG21P",
+    "productName": "Fridge Guard",
+    "variantName": " Large",
+    "variantPrice": "4300.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 467,
+    "handle": "fridge-guard",
+    "tags": "ELFGS",
+    "productName": "Fridge Guard",
+    "variantName": " Super",
+    "variantPrice": "5000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 468,
+    "handle": "socket-cover-weather-proof",
+    "tags": "ELFSCWP",
+    "productName": "Socket Cover Weather Proof",
+    "variantName": "No variantName",
+    "variantPrice": "510.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 469,
+    "handle": "grease-tube-grease-nipple-",
+    "tags": "ELGN/T",
+    "productName": "Grease Tube (Grease Nipple)",
+    "variantName": "No variantName",
+    "variantPrice": "330.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 470,
+    "handle": "grounding-screws",
+    "tags": "ELGS",
+    "productName": "Grounding Screws",
+    "variantName": "No variantName",
+    "variantPrice": "15.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 471,
+    "handle": "handy-box-metal-",
+    "tags": "ELHB",
+    "productName": "Handy Box (Metal)",
+    "variantName": "No variantName",
+    "variantPrice": "240.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 472,
+    "handle": "handy-box-pvc-",
+    "tags": "ELHBPVC",
+    "productName": "Handy Box (PVC)",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 473,
+    "handle": "junction-box-small",
+    "tags": "ELJBS",
+    "productName": "Junction Box Small",
+    "variantName": "No variantName",
+    "variantPrice": "350.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 474,
+    "handle": "jack-plug-connector",
+    "tags": "ELJPC",
+    "productName": "Jack Plug Connector",
+    "variantName": "No variantName",
+    "variantPrice": "440.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 475,
+    "handle": "telephone-jack-wall-mounted-",
+    "tags": "ELJTP",
+    "productName": "Telephone Jack (Wall Mounted)",
+    "variantName": "No variantName",
+    "variantPrice": "230.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 476,
+    "handle": "telephone-jack-expander",
+    "tags": "ELJTPE2W",
+    "productName": "Telephone Jack Expander",
+    "variantName": " 2way",
+    "variantPrice": "190.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 477,
+    "handle": "telephone-jack-expander",
+    "tags": "ELJTPE3W",
+    "productName": "Telephone Jack Expander",
+    "variantName": " 3way",
+    "variantPrice": "190.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 478,
+    "handle": "vhs-cable-jack",
+    "tags": "ELJVHSC",
+    "productName": "VHS Cable Jack",
+    "variantName": "No variantName",
+    "variantPrice": "475.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 479,
+    "handle": "map-light",
+    "tags": "ELMAPL",
+    "productName": "Map Light",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 480,
+    "handle": "mem-box-3-4-gang",
+    "tags": "ELMB3-4GDPVC",
+    "productName": "Mem Box 3-4 Gang",
+    "variantName": " (Double Mem) PVC",
+    "variantPrice": "480.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 481,
+    "handle": "mem-box-3-4-gang",
+    "tags": "ELMB3-4GM",
+    "productName": "Mem Box 3-4 Gang",
+    "variantName": " 9 (Double Mem) Metal",
+    "variantPrice": "390.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 482,
+    "handle": "mem-box-single",
+    "tags": "ELMB3-4GPVC",
+    "productName": "Mem Box Single",
+    "variantName": " (PVC)",
+    "variantPrice": "300.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 483,
+    "handle": "mem-box-single",
+    "tags": "ELMBS",
+    "productName": "Mem Box Single",
+    "variantName": " (Metal) 110v",
+    "variantPrice": "230.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 484,
+    "handle": "motion-detector-light",
+    "tags": "ELMDL",
+    "productName": "Motion Detector Light",
+    "variantName": "No variantName",
+    "variantPrice": "7900.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 485,
+    "handle": "male-plug",
+    "tags": "ELMP2",
+    "productName": "Male Plug",
+    "variantName": " 2 Pin",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 486,
+    "handle": "male-plug",
+    "tags": "ELMP3",
+    "productName": "Male Plug",
+    "variantName": " 3 Pin",
+    "variantPrice": "400.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 487,
+    "handle": "meter-socket",
+    "tags": "ELMS100A",
+    "productName": "Meter Socket",
+    "variantName": " 100 Amp",
+    "variantPrice": "2580.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 488,
+    "handle": "meter-socket",
+    "tags": "ELMS200A",
+    "productName": "Meter Socket",
+    "variantName": " 200 Amp",
+    "variantPrice": "8250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 489,
+    "handle": "network-ends",
+    "tags": "ELNE5E",
+    "productName": "Network Ends",
+    "variantName": "No variantName",
+    "variantPrice": "80.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 490,
+    "handle": "one-bolt-clamp",
+    "tags": "ELOBC",
+    "productName": "One Bolt Clamp",
+    "variantName": "No variantName",
+    "variantPrice": "490.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 491,
+    "handle": "octagonal-box",
+    "tags": "ELOBM",
+    "productName": "Octagonal Box",
+    "variantName": " (Metal)",
+    "variantPrice": "240.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 492,
+    "handle": "octagonal-box",
+    "tags": "ELOBPVC",
+    "productName": "Octagonal Box",
+    "variantName": " (PVC)",
+    "variantPrice": "270.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 493,
+    "handle": "panel-box",
+    "tags": "ELPB12",
+    "productName": "Panel Box",
+    "variantName": " 12 Way",
+    "variantPrice": "9800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 494,
+    "handle": "panel-box",
+    "tags": "ELPB16W",
+    "productName": "Panel Box",
+    "variantName": " 16 Way",
+    "variantPrice": "15300.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 495,
+    "handle": "panel-box",
+    "tags": "ELPB20W",
+    "productName": "Panel Box",
+    "variantName": " 20 Way",
+    "variantPrice": "18000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 496,
+    "handle": "panel-box",
+    "tags": "ELPB24W",
+    "productName": "Panel Box",
+    "variantName": " 24 Way",
+    "variantPrice": "20000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 497,
+    "handle": "panel-box",
+    "tags": "ELPB32W",
+    "productName": "Panel Box",
+    "variantName": " 32 Way",
+    "variantPrice": "27000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 498,
+    "handle": "panel-box",
+    "tags": "ELPB4",
+    "productName": "Panel Box",
+    "variantName": " 4 Way",
+    "variantPrice": "3000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 499,
+    "handle": "panel-box",
+    "tags": "ELPB6",
+    "productName": "Panel Box",
+    "variantName": " 6 Way",
+    "variantPrice": "3700.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 500,
+    "handle": "panel-box",
+    "tags": "ELPB8",
+    "productName": "Panel Box",
+    "variantName": " 8 Way",
+    "variantPrice": "6500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 501,
+    "handle": "panel-box",
+    "tags": "ELPBP36W",
+    "productName": "Panel Box",
+    "variantName": " 3Phase (6 Way)",
+    "variantPrice": "17780.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 502,
+    "handle": "photo-cell",
+    "tags": "ELPCB",
+    "productName": "Photo Cell",
+    "variantName": " Botton",
+    "variantPrice": "1400.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 503,
+    "handle": "photo-cell",
+    "tags": "ELPCT",
+    "productName": "Photo Cell",
+    "variantName": " Top",
+    "variantPrice": "1670.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 504,
+    "handle": "pot-head",
+    "tags": "ELPH1",
+    "productName": "Pot Head",
+    "variantName": " 1''",
+    "variantPrice": "550.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 505,
+    "handle": "pot-head",
+    "tags": "ELPH112",
+    "productName": "Pot Head",
+    "variantName": " 11/2''",
+    "variantPrice": "900.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 506,
+    "handle": "pot-head",
+    "tags": "ELPH114",
+    "productName": "Pot Head",
+    "variantName": " 11/4''",
+    "variantPrice": "750.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 507,
+    "handle": "pot-head",
+    "tags": "ELPH34",
+    "productName": "Pot Head",
+    "variantName": " 3/4''",
+    "variantPrice": "500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 508,
+    "handle": "pipe-straps",
+    "tags": "ELPS112",
+    "productName": "Pipe Straps",
+    "variantName": " 38mm or 11/2''",
+    "variantPrice": "65.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 509,
+    "handle": "pipe-straps",
+    "tags": "ELPS114",
+    "productName": "Pipe Straps",
+    "variantName": " 32mm or 1''",
+    "variantPrice": "55.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 510,
+    "handle": "pipe-straps",
+    "tags": "ELPS2",
+    "productName": "Pipe Straps",
+    "variantName": " 50mm or 2''",
+    "variantPrice": "75.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 511,
+    "handle": "pipe-straps",
+    "tags": "ELPS20MM",
+    "productName": "Pipe Straps",
+    "variantName": " 20mm or 1/2''",
+    "variantPrice": "35.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 512,
+    "handle": "pipe-straps",
+    "tags": "ELPS25MM",
+    "productName": "Pipe Straps",
+    "variantName": " 25mm or 3/4",
+    "variantPrice": "45.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 513,
+    "handle": "broad-base-reciptacle-regular-",
+    "tags": "ELRBB",
+    "productName": "Broad Base Reciptacle (regular)",
+    "variantName": "No variantName",
+    "variantPrice": "375.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 514,
+    "handle": "porcelain-receptacle-with-chain",
+    "tags": "ELRBBPwC",
+    "productName": "Porcelain Receptacle with chain",
+    "variantName": "No variantName",
+    "variantPrice": "550.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 515,
+    "handle": "broad-based-reciptacle-shrowded",
+    "tags": "ELRBBS",
+    "productName": "Broad Based Reciptacle Shrowded",
+    "variantName": "No variantName",
+    "variantPrice": "400.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 516,
+    "handle": "recipticle-broad-base-w-chain",
+    "tags": "ELRBBWC",
+    "productName": "Recipticle Broad Base w/chain",
+    "variantName": "No variantName",
+    "variantPrice": "380.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 517,
+    "handle": "florescent-receptacle",
+    "tags": "ELRFDL2",
+    "productName": "Florescent Receptacle",
+    "variantName": " Double 2'",
+    "variantPrice": "3220.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 518,
+    "handle": "florescent-receptacle",
+    "tags": "ELRFDL4",
+    "productName": "Florescent Receptacle",
+    "variantName": " Double 4'",
+    "variantPrice": "4295.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 519,
+    "handle": "florescent-receptacle",
+    "tags": "ELRFSL2",
+    "productName": "Florescent Receptacle",
+    "variantName": " Single 2'",
+    "variantPrice": "2855.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 520,
+    "handle": "florescent-receptacle",
+    "tags": "ELRFSL4'",
+    "productName": "Florescent Receptacle",
+    "variantName": " Single 4'",
+    "variantPrice": "3585.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 521,
+    "handle": "receptacle-pull-chain",
+    "tags": "ELRPC",
+    "productName": "Receptacle pull Chain",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 522,
+    "handle": "plug-in-recepticle",
+    "tags": "ELRPI",
+    "productName": "Plug In Recepticle",
+    "variantName": "No variantName",
+    "variantPrice": "150.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 523,
+    "handle": "stand-alone-reciptacle-with-bulb",
+    "tags": "ELRSAWB",
+    "productName": "Stand alone Reciptacle with Bulb",
+    "variantName": "No variantName",
+    "variantPrice": "565.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 524,
+    "handle": "socket-adapter",
+    "tags": "ELSA",
+    "productName": "Socket Adapter",
+    "variantName": "No variantName",
+    "variantPrice": "110.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 525,
+    "handle": "square-box-4x4",
+    "tags": "ELSB4X4",
+    "productName": "Square Box 4x4",
+    "variantName": "No variantName",
+    "variantPrice": "195.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 526,
+    "handle": "2-to-3-way-socket-converter",
+    "tags": "ELSC2-3W",
+    "productName": "2 To 3 Way Socket Converter",
+    "variantName": "No variantName",
+    "variantPrice": "200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 527,
+    "handle": "dimmer-switch",
+    "tags": "ELSD",
+    "productName": "Dimmer Switch",
+    "variantName": "No variantName",
+    "variantPrice": "990.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 528,
+    "handle": "6-way-socket-expander",
+    "tags": "ELSE6W",
+    "productName": "6 Way Socket Expander",
+    "variantName": "No variantName",
+    "variantPrice": "660.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 529,
+    "handle": "flush-socket",
+    "tags": "ELSF",
+    "productName": "Flush Socket",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 530,
+    "handle": "flush-switch",
+    "tags": "ELSF7/11",
+    "productName": "Flush Switch",
+    "variantName": " 7/11",
+    "variantPrice": "500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 531,
+    "handle": "flush-switch",
+    "tags": "ELSF7/11D",
+    "productName": "Flush Switch",
+    "variantName": " 7/11 Decora",
+    "variantPrice": "1700.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 532,
+    "handle": "-flush-switch",
+    "tags": "ELSFD",
+    "productName": " Flush Switch",
+    "variantName": " Double Pole",
+    "variantPrice": "350.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 533,
+    "handle": "flush-switch",
+    "tags": "ELSFDD",
+    "productName": "Flush Switch",
+    "variantName": " Decora Double",
+    "variantPrice": "660.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 534,
+    "handle": "flush-switch",
+    "tags": "ELSFS",
+    "productName": "Flush Switch",
+    "variantName": " Single Pole",
+    "variantPrice": "280.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 535,
+    "handle": "flush-switch",
+    "tags": "ELSFSD",
+    "productName": "Flush Switch",
+    "variantName": " Decora Single",
+    "variantPrice": "495.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 536,
+    "handle": "flush-socket-decora",
+    "tags": "ELSFDe",
+    "productName": "Flush Socket Decora",
+    "variantName": "No variantName",
+    "variantPrice": "450.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 537,
+    "handle": "gfi-plug-socket",
+    "tags": "ELSFGFCIP",
+    "productName": "GFI Plug Socket",
+    "variantName": "No variantName",
+    "variantPrice": "4500.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 538,
+    "handle": "3-way-socket-double-",
+    "tags": "ELSOS3WSDFMB",
+    "productName": "3 Way Socket (Double)",
+    "variantName": "No variantName",
+    "variantPrice": "1800.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 539,
+    "handle": "3-way-socket-for-mem-box-double-w-switch",
+    "tags": "ELSOS3WSDwS",
+    "productName": "3 Way Socket for Mem Box (Double) w switch",
+    "variantName": "No variantName",
+    "variantPrice": "1960.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 540,
+    "handle": "3-way-socket-w-switch-p-light-double-",
+    "tags": "ELSOS3WSDwSFMB",
+    "productName": "3 Way Socket w/switch & p light (Double)",
+    "variantName": "No variantName",
+    "variantPrice": "2100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 541,
+    "handle": "3-way-socket-for-mem-box-single-",
+    "tags": "ELSOS3WSSFMB",
+    "productName": "3 Way Socket for Mem Box (Single)",
+    "variantName": "No variantName",
+    "variantPrice": "950.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 542,
+    "handle": "3-way-socket-w-switch-pilot-light-single-",
+    "tags": "ELSOS3WSwPLFMB",
+    "productName": "3 Way Socket w/switch & pilot light (Single)",
+    "variantName": "No variantName",
+    "variantPrice": "1200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 543,
+    "handle": "3-way-socket-w-switch-single-",
+    "tags": "ELSOS3WSwSFMB",
+    "productName": "3 Way Socket w/Switch (Single)",
+    "variantName": "No variantName",
+    "variantPrice": "1100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 544,
+    "handle": "heater-switch-for-mem-box-",
+    "tags": "ELSOSHSDFMB",
+    "productName": "Heater Switch for Mem Box ",
+    "variantName": "(Double)",
+    "variantPrice": "4900.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 545,
+    "handle": "heater-switch-for-mem-box-",
+    "tags": "ELSOSHSSFMB",
+    "productName": "Heater Switch for Mem Box ",
+    "variantName": "(Single)",
+    "variantPrice": "3100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 546,
+    "handle": "single-switch-for-mem-box-single-",
+    "tags": "ELSOSSSFMB",
+    "productName": "Single Switch for Mem Box (Single)",
+    "variantName": "No variantName ",
+    "variantPrice": "950.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 547,
+    "handle": "double-switch-for-single-mem-2-switches-",
+    "tags": "ELSOSSSFMB2s",
+    "productName": "Double Switch for Single Mem (2 switches)",
+    "variantName": "No variantName",
+    "variantPrice": "1000.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 548,
+    "handle": "surge-pro-4-outlet",
+    "tags": "ELSP40",
+    "productName": "Surge PRO 4 OUTLET",
+    "variantName": "No variantName",
+    "variantPrice": "5600.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 549,
+    "handle": "surface-plug-socket",
+    "tags": "ELSPS",
+    "productName": "Surface Plug Socket",
+    "variantName": "No variantName",
+    "variantPrice": "330.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 550,
+    "handle": "pig-tail-socket",
+    "tags": "ELSPT",
+    "productName": "Pig Tail Socket",
+    "variantName": "No variantName",
+    "variantPrice": "245.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 551,
+    "handle": "surface-switch",
+    "tags": "ELSS",
+    "productName": "Surface Switch",
+    "variantName": "No variantName",
+    "variantPrice": "275.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 552,
+    "handle": "swivel-socket-3-outlet-base",
+    "tags": "ELSS3OB",
+    "productName": "Swivel Socket 3 Outlet Base",
+    "variantName": "No variantName",
+    "variantPrice": "450.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 553,
+    "handle": "swivel-socket-outdoor",
+    "tags": "ELSSO",
+    "productName": "Swivel Socket Outdoor",
+    "variantName": "No variantName",
+    "variantPrice": "560.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 554,
+    "handle": "trunking",
+    "tags": "ELT16X16",
+    "productName": "Trunking",
+    "variantName": " 16x16mm",
+    "variantPrice": "750.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 555,
+    "handle": "trunking",
+    "tags": "ELT16X25",
+    "productName": "Trunking",
+    "variantName": " 16x25mm",
+    "variantPrice": "950.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 556,
+    "handle": "trunking",
+    "tags": "ELT25X38",
+    "productName": "Trunking",
+    "variantName": " 25x38mm",
+    "variantPrice": "1650.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 557,
+    "handle": "electrical-tape",
+    "tags": "ELTAPE34",
+    "productName": "Electrical Tape",
+    "variantName": " 3/4''",
+    "variantPrice": "240.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 558,
+    "handle": "electrical-tape",
+    "tags": "ELTC",
+    "productName": "Electrical Tape",
+    "variantName": " (Coloured)",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 559,
+    "handle": "tower-clip",
+    "tags": "ELTC15",
+    "productName": "Tower Clip",
+    "variantName": " 1.5mm",
+    "variantPrice": "350.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 560,
+    "handle": "tower-clip",
+    "tags": "ELTC25",
+    "productName": "Tower Clip",
+    "variantName": " 2.5mm",
+    "variantPrice": "390.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 561,
+    "handle": "telephone-coiled-cord",
+    "tags": "ELTCC",
+    "productName": "Telephone Coiled Cord",
+    "variantName": "No variantName",
+    "variantPrice": "275.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 562,
+    "handle": "telephone-cord",
+    "tags": "ELTPC15",
+    "productName": "Telephone Cord",
+    "variantName": " 15'",
+    "variantPrice": "275.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 563,
+    "handle": "telephone-cord",
+    "tags": "ELTPC25",
+    "productName": "Telephone Cord",
+    "variantName": " 25'",
+    "variantPrice": "375.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 564,
+    "handle": "t-v-antenna",
+    "tags": "ELTVA",
+    "productName": "T.V.Antenna",
+    "variantName": "No variantName",
+    "variantPrice": "2685.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 565,
+    "handle": "push-on-tv-antenna-adapter",
+    "tags": "ELTVPOA",
+    "productName": "Push on TV Antenna Adapter",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 566,
+    "handle": "wire-6-twisted",
+    "tags": "ELW#6T",
+    "productName": "Wire # 6 Twisted",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 567,
+    "handle": "wire-10mm-single-red-black-yellow-green-ft-53700-per-roll",
+    "tags": "ELW10MM",
+    "productName": "Wire 10mm Single (red:black:yellow:green) (ft) $53700 per roll",
+    "variantName": "No variantName",
+    "variantPrice": "185.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 568,
+    "handle": "wire-16mm-single-red-black-yellow-green-ft-57850-per-roll",
+    "tags": "ELW16MM",
+    "productName": "Wire 16mm Single (red:black:yellow:green) (ft) $57850 per roll",
+    "variantName": "No variantName",
+    "variantPrice": "330.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 569,
+    "handle": "wire-bare-copper",
+    "tags": "ELWBC2.5MM",
+    "productName": "Wire Bare Copper",
+    "variantName": " 2.5mm",
+    "variantPrice": "25.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 570,
+    "handle": "wire-bare-copper",
+    "tags": "ELWBC6MM",
+    "productName": "Wire Bare Copper",
+    "variantName": " 6mm",
+    "variantPrice": "70.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 571,
+    "handle": "wood-block-round",
+    "tags": "ELWBRL",
+    "productName": "Wood Block Round",
+    "variantName": " (Large)",
+    "variantPrice": "275.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 572,
+    "handle": "wood-block-round",
+    "tags": "ELWBRs",
+    "productName": "Wood Block Round",
+    "variantName": " (Small)",
+    "variantPrice": "165.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 573,
+    "handle": "wood-block-square",
+    "tags": "ELWBS",
+    "productName": "Wood Block Square",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 574,
+    "handle": "wall-case-sectional-box-",
+    "tags": "ELWC",
+    "productName": "Wall Case (Sectional Box)",
+    "variantName": "No variantName",
+    "variantPrice": "240.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 575,
+    "handle": "cat-5-network-wire",
+    "tags": "ELWCAT5N",
+    "productName": "Cat 5 / Network wire",
+    "variantName": "No variantName",
+    "variantPrice": "75.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 576,
+    "handle": "wire-cable-ft-rg-6",
+    "tags": "ELWCB",
+    "productName": "Wire Cable (ft) RG-6",
+    "variantName": "No variantName",
+    "variantPrice": "85.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 577,
+    "handle": "wire-connectors-plastic",
+    "tags": "ELWCP",
+    "productName": "Wire Connectors Plastic",
+    "variantName": "No variantName",
+    "variantPrice": "25.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 578,
+    "handle": "wire-holder",
+    "tags": "ELWHDI",
+    "productName": "Wire Holder",
+    "variantName": " D Iron",
+    "variantPrice": "2290.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 579,
+    "handle": "wire-holder",
+    "tags": "ELWHPR",
+    "productName": "Wire Holder",
+    "variantName": " Pipe Rider",
+    "variantPrice": "1950.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 580,
+    "handle": "wire-holder",
+    "tags": "ELWHR",
+    "productName": "Wire Holder",
+    "variantName": " Regular",
+    "variantPrice": "795.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 581,
+    "handle": "3-core-wire",
+    "tags": "ELWR2.53C",
+    "productName": "3 Core Wire",
+    "variantName": "2.5mm(ft)",
+    "variantPrice": "120.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 582,
+    "handle": "3-core-wire",
+    "tags": "ELWR6-3C",
+    "productName": "3 Core Wire",
+    "variantName": "6mm(ft)",
+    "variantPrice": "200.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 583,
+    "handle": "wire-soldering-tube-",
+    "tags": "ELWS",
+    "productName": "Wire Soldering (tube)",
+    "variantName": "No variantName",
+    "variantPrice": "275.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 584,
+    "handle": "wire-1-5mm",
+    "tags": "ELWS1.5MMS",
+    "productName": "Wire 1.5mm",
+    "variantName": " Single (red:black:yellow:green) (ft) $8500 per roll",
+    "variantPrice": "30.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 585,
+    "handle": "wire-2-5mm",
+    "tags": "ELWS2.5MMS",
+    "productName": "Wire 2.5mm",
+    "variantName": " Single (red:black:yellow:green) (ft) $9500per roll",
+    "variantPrice": "35.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 586,
+    "handle": "wire-6mm",
+    "tags": "ELWS6MM",
+    "productName": "Wire 6mm",
+    "variantName": " Single (red:black:yellow:green) (ft) $29300 per roll",
+    "variantPrice": "100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 587,
+    "handle": "soldering-wire-ft-",
+    "tags": "ELWSF",
+    "productName": "Soldering Wire (ft)",
+    "variantName": "No variantName",
+    "variantPrice": "45.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 588,
+    "handle": "wire-75mm-twin-speakeror-bell-wire-",
+    "tags": "ELWT.75mm",
+    "productName": "Wire .75mm Twin (Speakeror Bell Wire)",
+    "variantName": "No variantName",
+    "variantPrice": "50.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 589,
+    "handle": "twin-flat-wire",
+    "tags": "ELWT1.5mm",
+    "productName": "Twin Flat Wire",
+    "variantName": " 1.5mm (ft) $22000 per roll",
+    "variantPrice": "70.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 590,
+    "handle": "twin-flat-wire",
+    "tags": "ELWT2.5",
+    "productName": "Twin Flat Wire",
+    "variantName": "2.5mm (ft) $24500 per roll",
+    "variantPrice": "95.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 591,
+    "handle": "twin-flat-wire",
+    "tags": "ELWTE1.5",
+    "productName": "Twin Flat Wire",
+    "variantName": " 1.5mm with earth (ft) $25000 per roll",
+    "variantPrice": "100.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 592,
+    "handle": "twin-flat-wire",
+    "tags": "ELWTE2.5",
+    "productName": "Twin Flat Wire",
+    "variantName": " 2.5mm with earth (ft) $29700 per roll",
+    "variantPrice": "110.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 593,
+    "handle": "telephone-wire",
+    "tags": "ELWTP2P",
+    "productName": "Telephone Wire",
+    "variantName": " 2 Pair (ft)",
+    "variantPrice": "30.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 594,
+    "handle": "telephone-wire",
+    "tags": "ELWTP3P",
+    "productName": "Telephone Wire",
+    "variantName": " 3 Pair (ft)",
+    "variantPrice": "40.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 595,
+    "handle": "wire-antenna-ft-",
+    "tags": "ELWTV",
+    "productName": "Wire Antenna (ft)",
+    "variantName": "No variantName",
+    "variantPrice": "50.00",
+    "category": "Electrical"
+  },
+  {
+    "id": 596,
+    "handle": "bolt",
+    "tags": "FTB1/4X1",
+    "productName": "Bolt",
+    "variantName": " 1/4 x 1",
+    "variantPrice": "7.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 597,
+    "handle": "bolt",
+    "tags": "FTB1/4X11/2",
+    "productName": "Bolt",
+    "variantName": " 1/4 x 11/2",
+    "variantPrice": "10.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 598,
+    "handle": "bolt",
+    "tags": "FTB1/4X3/4",
+    "productName": "Bolt",
+    "variantName": " 1/4 x 3/4",
+    "variantPrice": "7.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 599,
+    "handle": "bolt",
+    "tags": "FTB12X6wN",
+    "productName": "Bolt",
+    "variantName": " 1/2 ''x 6'' w/nut",
+    "variantPrice": "90.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 600,
+    "handle": "bolt",
+    "tags": "FTB14X2",
+    "productName": "Bolt",
+    "variantName": " 1/4 x 2",
+    "variantPrice": "15.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 601,
+    "handle": "bolt",
+    "tags": "FTB3/8X1",
+    "productName": "Bolt",
+    "variantName": " 3/8 x 1",
+    "variantPrice": "20.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 602,
+    "handle": "bolt",
+    "tags": "FTB3/8x11/2",
+    "productName": "Bolt",
+    "variantName": " 3/8 x11/2",
+    "variantPrice": "35.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 603,
+    "handle": "bolt",
+    "tags": "FTB3/8X2",
+    "productName": "Bolt",
+    "variantName": " 3/8 x 2",
+    "variantPrice": "30.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 604,
+    "handle": "bolt",
+    "tags": "FTB5/16X1",
+    "productName": "Bolt",
+    "variantName": " 5/16 x 1",
+    "variantPrice": "30.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 605,
+    "handle": "bolt",
+    "tags": "FTB5/16X11/2",
+    "productName": "Bolt",
+    "variantName": " 5/16 x 11/2",
+    "variantPrice": "35.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 606,
+    "handle": "bolt",
+    "tags": "FTB5/16X2",
+    "productName": "Bolt",
+    "variantName": " 5/16 x 2",
+    "variantPrice": "25.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 607,
+    "handle": "bolt",
+    "tags": "FTB6X16MM",
+    "productName": "Bolt",
+    "variantName": " 6 x 16mm",
+    "variantPrice": "15.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 608,
+    "handle": "bolt",
+    "tags": "FTB6X25MM",
+    "productName": "Bolt",
+    "variantName": " 6x 25mm",
+    "variantPrice": "25.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 609,
+    "handle": "bolt",
+    "tags": "FTB6X30MM",
+    "productName": "Bolt",
+    "variantName": " 6x 30 mm",
+    "variantPrice": "30.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 610,
+    "handle": "bolt",
+    "tags": "FTB6X40MM",
+    "productName": "Bolt",
+    "variantName": " 6 x 40mm",
+    "variantPrice": "30.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 611,
+    "handle": "bolt",
+    "tags": "FTB7/16X112",
+    "productName": "Bolt",
+    "variantName": " 7/16 x 11/2",
+    "variantPrice": "35.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 612,
+    "handle": "bolt",
+    "tags": "FTB8X100MM",
+    "productName": "Bolt",
+    "variantName": " 8 x 100mm",
+    "variantPrice": "140.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 613,
+    "handle": "bolt",
+    "tags": "FTB8X20MM",
+    "productName": "Bolt",
+    "variantName": " 8 x 20mm",
+    "variantPrice": "35.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 614,
+    "handle": "bolt",
+    "tags": "FTB8X40MM",
+    "productName": "Bolt",
+    "variantName": " 8 x 40mm",
+    "variantPrice": "35.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 615,
+    "handle": "centre-bolt-for-trucks",
+    "tags": "FTBCB1/2",
+    "productName": "Centre Bolt for Trucks",
+    "variantName": " 1/2 x 10",
+    "variantPrice": "1500.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 616,
+    "handle": "centre-bolt-for-trucks",
+    "tags": "FTBCB5/8",
+    "productName": "Centre Bolt for Trucks",
+    "variantName": " 5/8 x 12",
+    "variantPrice": "1950.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 617,
+    "handle": "centre-bolt-for-trucks",
+    "tags": "FTBCB7/16",
+    "productName": "Centre Bolt for Trucks",
+    "variantName": " 7/16 x 10",
+    "variantPrice": "1000.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 618,
+    "handle": "chain-link-fence-bolts",
+    "tags": "FTBCH",
+    "productName": "Chain Link Fence Bolts",
+    "variantName": "No variantName",
+    "variantPrice": "15.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 619,
+    "handle": "log-bolt",
+    "tags": "FTBL14X1",
+    "productName": "Log Bolt",
+    "variantName": " 1/4 x 1",
+    "variantPrice": "10.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 620,
+    "handle": "log-bolt",
+    "tags": "FTBL14X112",
+    "productName": "Log Bolt",
+    "variantName": " 1/4 x 11/2",
+    "variantPrice": "15.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 621,
+    "handle": "log-bolt",
+    "tags": "FTBL14X2",
+    "productName": "Log Bolt",
+    "variantName": " 1/4 x 2",
+    "variantPrice": "20.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 622,
+    "handle": "log-bolt",
+    "tags": "FTBL14X3",
+    "productName": "Log Bolt",
+    "variantName": " 1/4 x 3",
+    "variantPrice": "25.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 623,
+    "handle": "log-bolt",
+    "tags": "FTBL3/8X4",
+    "productName": "Log Bolt",
+    "variantName": " 3/8 x 4",
+    "variantPrice": "0.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 624,
+    "handle": "log-bolt",
+    "tags": "FTBL38X112",
+    "productName": "Log Bolt",
+    "variantName": " 3/8 X 11/2",
+    "variantPrice": "25.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 625,
+    "handle": "log-bolt",
+    "tags": "FTBL38X2",
+    "productName": "Log Bolt",
+    "variantName": " 3/8 x 2",
+    "variantPrice": "30.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 626,
+    "handle": "log-bolt",
+    "tags": "FTBL38X212",
+    "productName": "Log Bolt",
+    "variantName": " 3/8 X 21/2",
+    "variantPrice": "30.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 627,
+    "handle": "log-bolt",
+    "tags": "FTBL38X4",
+    "productName": "Log Bolt",
+    "variantName": " 3/8 x 4",
+    "variantPrice": "45.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 628,
+    "handle": "log-bolt",
+    "tags": "FTBL516X112",
+    "productName": "Log Bolt",
+    "variantName": " 5/16 x 11/2",
+    "variantPrice": "15.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 629,
+    "handle": "log-bolt",
+    "tags": "FTBL516X2",
+    "productName": "Log Bolt",
+    "variantName": " 5/16 x 2",
+    "variantPrice": "20.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 630,
+    "handle": "log-bolt",
+    "tags": "FTBL516X212",
+    "productName": "Log Bolt",
+    "variantName": " 5/16 x 21/2",
+    "variantPrice": "25.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 631,
+    "handle": "log-bolt",
+    "tags": "FTBL516X4",
+    "productName": "Log Bolt",
+    "variantName": " 5/16 x 4",
+    "variantPrice": "25.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 632,
+    "handle": "barb-wire-staples",
+    "tags": "FTBWSL",
+    "productName": "Barb Wire Staples",
+    "variantName": " (Large)",
+    "variantPrice": "280.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 633,
+    "handle": "barb-wire-staples",
+    "tags": "FTBWSS",
+    "productName": "Barb Wire Staples",
+    "variantName": " (Small)",
+    "variantPrice": "300.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 634,
+    "handle": "tie-strap-cable-ties",
+    "tags": "FTCTL",
+    "productName": "Tie Strap/Cable Ties",
+    "variantName": " (Large)",
+    "variantPrice": "25.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 635,
+    "handle": "tie-strap-cable-ties",
+    "tags": "FTCTM",
+    "productName": "Tie Strap/Cable Ties",
+    "variantName": " (Medium)",
+    "variantPrice": "20.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 636,
+    "handle": "tie-strap-cable-ties",
+    "tags": "FTCTS",
+    "productName": "Tie Strap/Cable Ties",
+    "variantName": " (Small)",
+    "variantPrice": "10.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 637,
+    "handle": "furniture-tacks-pk-",
+    "tags": "FTFT",
+    "productName": "Furniture Tacks (pk)",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 638,
+    "handle": "galvonized-nut-and-bolt-for-chain-link-fence-11-4-x-",
+    "tags": "FTNBGCLF114x5/16",
+    "productName": "Galvonized Nut and Bolt for Chain Link Fence 11/4 x ...",
+    "variantName": "No variantName",
+    "variantPrice": "100.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 639,
+    "handle": "concrete-nails",
+    "tags": "FTNC1",
+    "productName": "Concrete Nails",
+    "variantName": " 1''",
+    "variantPrice": "370.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 640,
+    "handle": "concrete-nails",
+    "tags": "FTNC1.5",
+    "productName": "Concrete Nails",
+    "variantName": " 1.5''",
+    "variantPrice": "370.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 641,
+    "handle": "concrete-nails",
+    "tags": "FTNC2",
+    "productName": "Concrete Nails",
+    "variantName": " 2''",
+    "variantPrice": "370.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 642,
+    "handle": "concrete-nails",
+    "tags": "FTNC2.5",
+    "productName": "Concrete Nails",
+    "variantName": " 2.5''",
+    "variantPrice": "370.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 643,
+    "handle": "concrete-nails",
+    "tags": "FTNC3",
+    "productName": "Concrete Nails",
+    "variantName": " 3''",
+    "variantPrice": "370.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 644,
+    "handle": "concrete-nails",
+    "tags": "FTNC4",
+    "productName": "Concrete Nails",
+    "variantName": " 4''",
+    "variantPrice": "400.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 645,
+    "handle": "decra-tile-roof-nails",
+    "tags": "FTND",
+    "productName": "Decra Tile Roof Nails",
+    "variantName": "No variantName",
+    "variantPrice": "520.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 646,
+    "handle": "finishing-nails",
+    "tags": "FTNF1",
+    "productName": "Finishing Nails",
+    "variantName": " 1'' (Brads)",
+    "variantPrice": "300.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 647,
+    "handle": "finishing-nails",
+    "tags": "FTNF1.5",
+    "productName": "Finishing Nails",
+    "variantName": " 1.5''",
+    "variantPrice": "280.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 648,
+    "handle": "finishing-nails",
+    "tags": "FTNF2",
+    "productName": "Finishing Nails",
+    "variantName": " 2''",
+    "variantPrice": "300.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 649,
+    "handle": "finishing-nails",
+    "tags": "FTNF2.5",
+    "productName": "Finishing Nails",
+    "variantName": " 2.5''",
+    "variantPrice": "300.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 650,
+    "handle": "finishing-nails",
+    "tags": "FTNF3''",
+    "productName": "Finishing Nails",
+    "variantName": " 3''",
+    "variantPrice": "300.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 651,
+    "handle": "galvanized-nails",
+    "tags": "FTNG2",
+    "productName": "Galvanized Nails",
+    "variantName": " 2''",
+    "variantPrice": "350.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 652,
+    "handle": "galvanized-nails",
+    "tags": "FTNG2.5",
+    "productName": "Galvanized Nails",
+    "variantName": " 2.5''",
+    "variantPrice": "350.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 653,
+    "handle": "galvanized-nails",
+    "tags": "FTNG3",
+    "productName": "Galvanized Nails",
+    "variantName": " 3''",
+    "variantPrice": "350.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 654,
+    "handle": "galvanized-nails",
+    "tags": "FTNG4",
+    "productName": "Galvanized Nails",
+    "variantName": " 4''",
+    "variantPrice": "350.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 655,
+    "handle": "head-nail",
+    "tags": "FTNH1.5",
+    "productName": "Head Nail",
+    "variantName": " 1.5''",
+    "variantPrice": "250.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 656,
+    "handle": "head-nail",
+    "tags": "FTNH2",
+    "productName": "Head Nail",
+    "variantName": " 2''",
+    "variantPrice": "220.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 657,
+    "handle": "head-nail",
+    "tags": "FTNH4",
+    "productName": "Head Nail",
+    "variantName": " 4''",
+    "variantPrice": "300.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 658,
+    "handle": "head-nails",
+    "tags": "FTNH1",
+    "productName": "Head Nails",
+    "variantName": " 1''",
+    "variantPrice": "250.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 659,
+    "handle": "head-nails",
+    "tags": "FTNH3",
+    "productName": "Head Nails",
+    "variantName": " 3''",
+    "variantPrice": "220.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 660,
+    "handle": "head-nails",
+    "tags": "FTNH2.5",
+    "productName": "Head Nails",
+    "variantName": " 2.5''",
+    "variantPrice": "220.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 661,
+    "handle": "nut",
+    "tags": "FTNUT1/4",
+    "productName": "Nut",
+    "variantName": " 1/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 662,
+    "handle": "nut",
+    "tags": "FTNUT3/8",
+    "productName": "Nut",
+    "variantName": " 3/8",
+    "variantPrice": "10.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 663,
+    "handle": "nut",
+    "tags": "FTNUT5/16",
+    "productName": "Nut",
+    "variantName": " 5/16",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 664,
+    "handle": "nut",
+    "tags": "FTNUT6MM",
+    "productName": "Nut",
+    "variantName": " 6mm",
+    "variantPrice": "10.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 665,
+    "handle": "nut",
+    "tags": "FTNUT7/16",
+    "productName": "Nut",
+    "variantName": " 7/16",
+    "variantPrice": "15.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 666,
+    "handle": "nut",
+    "tags": "FTNUT8MM",
+    "productName": "Nut",
+    "variantName": " 8mm",
+    "variantPrice": "15.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 667,
+    "handle": "zinc-nails",
+    "tags": "FTNZ",
+    "productName": "Zinc Nails",
+    "variantName": "No variantName",
+    "variantPrice": "370.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 668,
+    "handle": "rivets-1-8-",
+    "tags": "FTR18",
+    "productName": "Rivets 1/8''",
+    "variantName": "No variantName",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 669,
+    "handle": "rawl-bolt",
+    "tags": "FTRB.25X2",
+    "productName": "Rawl Bolt",
+    "variantName": " 1/4 x 2''",
+    "variantPrice": "65.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 670,
+    "handle": "-m6-rawl-bolt",
+    "tags": "FTRB.25X2.5",
+    "productName": "(M6) Rawl Bolt",
+    "variantName": " 1/4 x 2.5 (M6)",
+    "variantPrice": "65.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 671,
+    "handle": "-m10-rawl-bolt",
+    "tags": "FTRB.38x3",
+    "productName": "(M10) Rawl Bolt",
+    "variantName": " .38 x 3 (M10)",
+    "variantPrice": "150.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 672,
+    "handle": "-m12-rawl-bolt",
+    "tags": "FTRB.5x4",
+    "productName": "(M12) Rawl Bolt",
+    "variantName": " .5 x 4 (M12)",
+    "variantPrice": "180.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 673,
+    "handle": "-m8-rawl-bolt",
+    "tags": "FTRB5/16x2.5",
+    "productName": "(M8) Rawl Bolt",
+    "variantName": " 5/16 x 2.5 (M8)",
+    "variantPrice": "85.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 674,
+    "handle": "screws",
+    "tags": "FTS-LB",
+    "productName": "Screws",
+    "variantName": " 1/2'' L/B",
+    "variantPrice": "50.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 675,
+    "handle": "screws",
+    "tags": "FTS-LJ",
+    "productName": "Screws",
+    "variantName": " 11/4'' L/J (1doz)",
+    "variantPrice": "50.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 676,
+    "handle": "screws",
+    "tags": "FTS.25-1.5",
+    "productName": "Screws",
+    "variantName": " .25-1.5'' Wood (1doz)",
+    "variantPrice": "50.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 677,
+    "handle": "screws",
+    "tags": "FTS2''",
+    "productName": "Screws",
+    "variantName": " 2'' Wood",
+    "variantPrice": "65.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 678,
+    "handle": "screws",
+    "tags": "FTS3''",
+    "productName": "Screws",
+    "variantName": " 3''",
+    "variantPrice": "65.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 679,
+    "handle": "concrete-screws",
+    "tags": "FTSC1",
+    "productName": "Concrete Screws",
+    "variantName": " 1''",
+    "variantPrice": "30.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 680,
+    "handle": "concrete-screws",
+    "tags": "FTSC2.25''",
+    "productName": "Concrete Screws",
+    "variantName": " 2 .25''",
+    "variantPrice": "35.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 681,
+    "handle": "concrete-screws",
+    "tags": "FTSC2.75''",
+    "productName": "Concrete Screws",
+    "variantName": " 2.75''",
+    "variantPrice": "40.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 682,
+    "handle": "concrete-screws",
+    "tags": "FTSC3.25''",
+    "productName": "Concrete Screws",
+    "variantName": " 3.25''",
+    "variantPrice": "45.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 683,
+    "handle": "concrete-screws",
+    "tags": "FTSC3.75",
+    "productName": "Concrete Screws",
+    "variantName": " 3.75''",
+    "variantPrice": "50.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 684,
+    "handle": "concrete-screws",
+    "tags": "FTSC4",
+    "productName": "Concrete Screws",
+    "variantName": " 4''",
+    "variantPrice": "55.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 685,
+    "handle": "dry-wall-screws",
+    "tags": "FTSDW1",
+    "productName": "Dry Wall Screws",
+    "variantName": " 1'' (doz)",
+    "variantPrice": "50.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 686,
+    "handle": "dry-wall-screws",
+    "tags": "FTSDW1.5",
+    "productName": "Dry Wall Screws",
+    "variantName": " 1.5''",
+    "variantPrice": "70.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 687,
+    "handle": "dry-wall-screws",
+    "tags": "FTSDW2",
+    "productName": "Dry Wall Screws",
+    "variantName": " 2'' (doz)",
+    "variantPrice": "80.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 688,
+    "handle": "dry-wall-screws",
+    "tags": "FTSDW2.5''",
+    "productName": "Dry Wall Screws",
+    "variantName": " 2.5''",
+    "variantPrice": "90.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 689,
+    "handle": "dry-wall-screws",
+    "tags": "FTSDW3",
+    "productName": "Dry Wall Screws",
+    "variantName": " 3''",
+    "variantPrice": "100.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 690,
+    "handle": "self-tapping",
+    "tags": "FTSST10X112",
+    "productName": "Self Tapping",
+    "variantName": " 10 x 11/2",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 691,
+    "handle": "self-tapping",
+    "tags": "FTSST10x12",
+    "productName": "Self Tapping",
+    "variantName": " 10 x 1/2",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 692,
+    "handle": "self-tapping",
+    "tags": "FTSST10X34",
+    "productName": "Self Tapping",
+    "variantName": " 10 x 3/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 693,
+    "handle": "self-tapping",
+    "tags": "FTSST12X1",
+    "productName": "Self Tapping",
+    "variantName": " 12x 1",
+    "variantPrice": "6.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 694,
+    "handle": "self-tapping",
+    "tags": "FTSST12X112",
+    "productName": "Self Tapping",
+    "variantName": " 12 x 11/2",
+    "variantPrice": "7.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 695,
+    "handle": "self-tapping",
+    "tags": "FTSST12x34",
+    "productName": "Self Tapping",
+    "variantName": " 12x3/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 696,
+    "handle": "self-tapping",
+    "tags": "FTSST12X58",
+    "productName": "Self Tapping",
+    "variantName": " 12 x 5/8",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 697,
+    "handle": "self-tapping",
+    "tags": "FTSST14X34",
+    "productName": "Self Tapping",
+    "variantName": " 14 x 3/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 698,
+    "handle": "self-tapping",
+    "tags": "FTSST6X1",
+    "productName": "Self Tapping",
+    "variantName": " 6 x 1",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 699,
+    "handle": "self-tapping",
+    "tags": "FTSST6X114",
+    "productName": "Self Tapping",
+    "variantName": " 6x 11/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 700,
+    "handle": "self-tapping",
+    "tags": "FTSST6X12",
+    "productName": "Self Tapping",
+    "variantName": " 6x 1/2",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 701,
+    "handle": "self-tapping",
+    "tags": "FTSST6X34",
+    "productName": "Self Tapping",
+    "variantName": " 6x3/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 702,
+    "handle": "self-tapping",
+    "tags": "FTSST8X1",
+    "productName": "Self Tapping",
+    "variantName": " 8 x1",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 703,
+    "handle": "self-tapping",
+    "tags": "FTSST8X112",
+    "productName": "Self Tapping",
+    "variantName": " 8 x 11/2",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 704,
+    "handle": "self-tapping",
+    "tags": "FTSST8X34",
+    "productName": "Self Tapping",
+    "variantName": " 8 x 3/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 705,
+    "handle": "self-tapping",
+    "tags": "FTSST8X58",
+    "productName": "Self Tapping",
+    "variantName": " 8x5/8",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 706,
+    "handle": "zinc-screws",
+    "tags": "FTSZ",
+    "productName": "Zinc Screws",
+    "variantName": "No variantName",
+    "variantPrice": "35.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 707,
+    "handle": "upholstry-staples-3-8-1-2-",
+    "tags": "FTUS38&12",
+    "productName": "Upholstry Staples 3/8 & 1/2''",
+    "variantName": "No variantName",
+    "variantPrice": "800.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 708,
+    "handle": "flat-washer",
+    "tags": "FTWF1/4",
+    "productName": "Flat Washer",
+    "variantName": " 1/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 709,
+    "handle": "flat-washer",
+    "tags": "FTWF3/8",
+    "productName": "Flat Washer",
+    "variantName": " 3/8",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 710,
+    "handle": "flat-large-washer-large-",
+    "tags": "FTWFLM",
+    "productName": "Flat Large Washer (large)",
+    "variantName": "No variantName",
+    "variantPrice": "10.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 711,
+    "handle": "giant-wall-hooks",
+    "tags": "FTWHG",
+    "productName": "Giant Wall Hooks",
+    "variantName": "No variantName",
+    "variantPrice": "170.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 712,
+    "handle": "lock-washer",
+    "tags": "FTWL",
+    "productName": "Lock Washer",
+    "variantName": " 3/8",
+    "variantPrice": "7.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 713,
+    "handle": "lock-washer",
+    "tags": "FTWL1/2",
+    "productName": "Lock Washer",
+    "variantName": " 1/2",
+    "variantPrice": "7.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 714,
+    "handle": "lock-washer",
+    "tags": "FTWL1/4",
+    "productName": "Lock Washer",
+    "variantName": " 1/4",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 715,
+    "handle": "wall-plug",
+    "tags": "FTWP",
+    "productName": "Wall Plug",
+    "variantName": "No variantName",
+    "variantPrice": "5.00",
+    "category": "Fasteners"
+  },
+  {
+    "id": 716,
+    "handle": "barrel-bolt",
+    "tags": "FXBB2.5",
+    "productName": "Barrel Bolt",
+    "variantName": " 2.5'' Brass",
+    "variantPrice": "325.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 717,
+    "handle": "barrel-bolt",
+    "tags": "FXBB2C",
+    "productName": "Barrel Bolt",
+    "variantName": " 2'' Chrome",
+    "variantPrice": "300.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 718,
+    "handle": "barrel-bolt",
+    "tags": "FXBB3B",
+    "productName": "Barrel Bolt",
+    "variantName": " 3'' Brass",
+    "variantPrice": "400.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 719,
+    "handle": "barrel-bolt",
+    "tags": "FXBB3C",
+    "productName": "Barrel Bolt",
+    "variantName": " 3'' Chrome",
+    "variantPrice": "410.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 720,
+    "handle": "barrel-bolt",
+    "tags": "FXBB4B",
+    "productName": "Barrel Bolt",
+    "variantName": " 4'' Brass",
+    "variantPrice": "500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 721,
+    "handle": "barrel-bolt",
+    "tags": "FXBB4C",
+    "productName": "Barrel Bolt",
+    "variantName": " 4'' Chrome",
+    "variantPrice": "550.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 722,
+    "handle": "cupboard-handle-pull",
+    "tags": "FXCHP",
+    "productName": "Cupboard Handle Pull",
+    "variantName": "No variantName",
+    "variantPrice": "205.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 723,
+    "handle": "cupboard-handle-pull",
+    "tags": "FXCHPP",
+    "productName": "Cupboard Handle Pull",
+    "variantName": " (porcelain)",
+    "variantPrice": "340.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 724,
+    "handle": "cupboard-handle-pull",
+    "tags": "FXCHPW",
+    "productName": "Cupboard Handle Pull",
+    "variantName": " (wood)",
+    "variantPrice": "255.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 725,
+    "handle": "cupboard-knobs",
+    "tags": "FXCK",
+    "productName": "Cupboard Knobs",
+    "variantName": "No variantName",
+    "variantPrice": "135.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 726,
+    "handle": "cupboard-knobs",
+    "tags": "FXCKP",
+    "productName": "Cupboard Knobs",
+    "variantName": " (porcelain)",
+    "variantPrice": "145.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 727,
+    "handle": "cupboard-roller-catch",
+    "tags": "FXCRC",
+    "productName": "Cupboard Roller Catch",
+    "variantName": "No variantName",
+    "variantPrice": "75.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 728,
+    "handle": "casement-stays",
+    "tags": "FXCS",
+    "productName": "Casement Stays",
+    "variantName": "No variantName",
+    "variantPrice": "340.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 729,
+    "handle": "bi-fold-doors",
+    "tags": "FXDBi",
+    "productName": "Bi- Fold Doors",
+    "variantName": "No variantName",
+    "variantPrice": "10000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 730,
+    "handle": "pine-wood-cathedral-door",
+    "tags": "FXDC",
+    "productName": "Pine Wood Cathedral Door",
+    "variantName": "No variantName",
+    "variantPrice": "27500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 731,
+    "handle": "ply-door",
+    "tags": "FXDH28ply",
+    "productName": "Ply Door",
+    "variantName": " 28 (Hollow)",
+    "variantPrice": "8200.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 732,
+    "handle": "ply-door",
+    "tags": "FXDH30ply",
+    "productName": "Ply Door",
+    "variantName": " 30 (hollow)",
+    "variantPrice": "8200.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 733,
+    "handle": "ply-door",
+    "tags": "FXDH32ply",
+    "productName": "Ply Door",
+    "variantName": " 32 (hollow)",
+    "variantPrice": "8200.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 734,
+    "handle": "ply-door",
+    "tags": "FXDH36ply",
+    "productName": "Ply Door",
+    "variantName": " 36 (Hollow)",
+    "variantPrice": "8200.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 735,
+    "handle": "door-hollow",
+    "tags": "FXDHfab28",
+    "productName": "Door Hollow",
+    "variantName": " Fabricated 28''",
+    "variantPrice": "12500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 736,
+    "handle": "door-hollow",
+    "tags": "FXDHfab30",
+    "productName": "Door Hollow",
+    "variantName": " Fabricated 30''",
+    "variantPrice": "12500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 737,
+    "handle": "door-hollow",
+    "tags": "FXDHfab32",
+    "productName": "Door Hollow",
+    "variantName": " Fabricated 32''",
+    "variantPrice": "12500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 738,
+    "handle": "door-hollow",
+    "tags": "FXDHfab36",
+    "productName": "Door Hollow",
+    "variantName": " Fabricated 36''",
+    "variantPrice": "12500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 739,
+    "handle": "half-french-door",
+    "tags": "FXDHFD",
+    "productName": "Half French Door",
+    "variantName": "No variantName",
+    "variantPrice": "25000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 740,
+    "handle": "door-hollow-fabricated-white-panel",
+    "tags": "FXDHFWP30",
+    "productName": "Door Hollow Fabricated White Panel",
+    "variantName": " 30''",
+    "variantPrice": "13000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 741,
+    "handle": "door-hollow-fabricated-white-panel",
+    "tags": "FXDHFWP32",
+    "productName": "Door Hollow Fabricated White Panel",
+    "variantName": " 32''",
+    "variantPrice": "13000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 742,
+    "handle": "door-hollow-fabricated-white-panel",
+    "tags": "FXDHFWP36",
+    "productName": "Door Hollow Fabricated White Panel",
+    "variantName": " 36''",
+    "variantPrice": "13000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 743,
+    "handle": "metal-panel-door",
+    "tags": "FXDM30",
+    "productName": "Metal Panel Door",
+    "variantName": " 30",
+    "variantPrice": "23500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 744,
+    "handle": "metal-panel-door",
+    "tags": "FXDM32",
+    "productName": "Metal Panel Door",
+    "variantName": " 32''",
+    "variantPrice": "23500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 745,
+    "handle": "metal-panel-door",
+    "tags": "FXDM36",
+    "productName": "Metal Panel Door",
+    "variantName": "  36''",
+    "variantPrice": "23500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 746,
+    "handle": "metal-cathedral-door",
+    "tags": "FXDMC30",
+    "productName": "Metal Cathedral Door",
+    "variantName": " 30''",
+    "variantPrice": "32500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 747,
+    "handle": "metal-cathedral-door",
+    "tags": "FXDMC32",
+    "productName": "Metal Cathedral Door",
+    "variantName": " 32''",
+    "variantPrice": "32500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 748,
+    "handle": "metal-cathedral-door",
+    "tags": "FXDMC36",
+    "productName": "Metal Cathedral Door",
+    "variantName": " 36''",
+    "variantPrice": "32500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 749,
+    "handle": "metal-door-with-oval-glass",
+    "tags": "FXDMWOG",
+    "productName": "Metal Door with Oval Glass",
+    "variantName": "No variantName",
+    "variantPrice": "58000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 750,
+    "handle": "grand-olympia-door",
+    "tags": "FXDO",
+    "productName": "Grand Olympia Door",
+    "variantName": "No variantName",
+    "variantPrice": "33050.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 751,
+    "handle": "pine-panel-door",
+    "tags": "FXDP30",
+    "productName": "Pine Panel Door",
+    "variantName": " 30'' (Wood)",
+    "variantPrice": "19860.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 752,
+    "handle": "pine-panel-door",
+    "tags": "FXDP32",
+    "productName": "Pine Panel Door",
+    "variantName": " 32'' (Wood)",
+    "variantPrice": "19860.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 753,
+    "handle": "pine-panel-door",
+    "tags": "FXDP36",
+    "productName": "Pine Panel Door",
+    "variantName": " 36'' (Wood)",
+    "variantPrice": "19860.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 754,
+    "handle": "door-stop",
+    "tags": "FXDS",
+    "productName": "Door Stop",
+    "variantName": "No variantName",
+    "variantPrice": "600.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 755,
+    "handle": "draw-slides",
+    "tags": "FXDS14",
+    "productName": "Draw Slides",
+    "variantName": " 14''",
+    "variantPrice": "380.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 756,
+    "handle": "draw-slides",
+    "tags": "FXDS16",
+    "productName": "Draw Slides",
+    "variantName": " 16''",
+    "variantPrice": "440.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 757,
+    "handle": "draw-slides",
+    "tags": "FXDS18",
+    "productName": "Draw Slides",
+    "variantName": " 18''",
+    "variantPrice": "500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 758,
+    "handle": "draw-slides",
+    "tags": "FXDSB16",
+    "productName": "Draw Slides",
+    "variantName": " (with bearings) 16\"",
+    "variantPrice": "1050.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 759,
+    "handle": "draw-slides",
+    "tags": "FXDSB18",
+    "productName": "Draw Slides",
+    "variantName": " (with bearings) 18\"",
+    "variantPrice": "1100.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 760,
+    "handle": "strips-for-bottom-of-metal-doors-door-sweeps-",
+    "tags": "FXDSM",
+    "productName": "Strips for bottom of metal doors (Door Sweeps)",
+    "variantName": "No variantName",
+    "variantPrice": "1500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 761,
+    "handle": "v-joint-door",
+    "tags": "FXDVJ30",
+    "productName": "V.Joint Door",
+    "variantName": " 30''",
+    "variantPrice": "15000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 762,
+    "handle": "v-joint-door",
+    "tags": "FXDVJ32",
+    "productName": "V.Joint Door",
+    "variantName": " 32''",
+    "variantPrice": "15000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 763,
+    "handle": "v-joint-door",
+    "tags": "FXDVJ36",
+    "productName": "V.Joint Door",
+    "variantName": " 36''",
+    "variantPrice": "11000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 764,
+    "handle": "dresser-mirror-glass",
+    "tags": "FXGD",
+    "productName": "Dresser Mirror Glass",
+    "variantName": "No variantName",
+    "variantPrice": "2150.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 765,
+    "handle": "wardrobe-glass",
+    "tags": "FXGW",
+    "productName": "Wardrobe Glass",
+    "variantName": "No variantName",
+    "variantPrice": "2150.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 766,
+    "handle": "hinge-brass",
+    "tags": "FXHB1.5",
+    "productName": "Hinge Brass",
+    "variantName": " 1.5''",
+    "variantPrice": "130.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 767,
+    "handle": "hinge-brass",
+    "tags": "FXHB2.5",
+    "productName": "Hinge Brass",
+    "variantName": " 2.5''",
+    "variantPrice": "150.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 768,
+    "handle": "hinge-brass",
+    "tags": "FXHB3",
+    "productName": "Hinge Brass",
+    "variantName": " 3''",
+    "variantPrice": "380.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 769,
+    "handle": "hinge-brass",
+    "tags": "FXHBHD4",
+    "productName": "Hinge Brass",
+    "variantName": " Heavy Duty 4''",
+    "variantPrice": "450.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 770,
+    "handle": "hinge-4-fancy",
+    "tags": "FXHBHD4F",
+    "productName": "Hinge 4\" Fancy",
+    "variantName": "No variantName",
+    "variantPrice": "800.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 771,
+    "handle": "cupboard-hinge-all-",
+    "tags": "FXHCa",
+    "productName": "Cupboard Hinge (all)",
+    "variantName": "No variantName",
+    "variantPrice": "250.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 772,
+    "handle": "concealed-hinges",
+    "tags": "FXHCAC",
+    "productName": "Concealed Hinges",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 773,
+    "handle": "hinge-heavy-duty",
+    "tags": "FXHHD3",
+    "productName": "Hinge Heavy Duty",
+    "variantName": " 3''",
+    "variantPrice": "300.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 774,
+    "handle": "hinge-heavy-duty",
+    "tags": "FXHHD4",
+    "productName": "Hinge Heavy Duty",
+    "variantName": " 4'''",
+    "variantPrice": "350.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 775,
+    "handle": "light-hinge",
+    "tags": "FXHL112",
+    "productName": "Light Hinge",
+    "variantName": " 11/2''",
+    "variantPrice": "120.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 776,
+    "handle": "light-hinge",
+    "tags": "FXHL2",
+    "productName": "Light Hinge",
+    "variantName": " 2''",
+    "variantPrice": "150.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 777,
+    "handle": "light-hinge",
+    "tags": "FXHL3",
+    "productName": "Light Hinge",
+    "variantName": " 3''",
+    "variantPrice": "130.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 778,
+    "handle": "light-hinge",
+    "tags": "FXHL4",
+    "productName": "Light Hinge",
+    "variantName": " 4''",
+    "variantPrice": "200.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 779,
+    "handle": "light-brass-hinge-21-2-",
+    "tags": "FXHLB212",
+    "productName": "Light Brass Hinge 21/2''",
+    "variantName": "No variantName",
+    "variantPrice": "150.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 780,
+    "handle": "handle-pull-general-",
+    "tags": "FXHPg",
+    "productName": "Handle Pull (General)",
+    "variantName": "No variantName",
+    "variantPrice": "700.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 781,
+    "handle": "door-handle-pulls-metal-",
+    "tags": "FXHPm",
+    "productName": "Door Handle Pulls (Metal)",
+    "variantName": "No variantName",
+    "variantPrice": "1600.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 782,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS2.5HD",
+    "productName": "Hasp and Staple",
+    "variantName": " 2.5 Heavy Duty",
+    "variantPrice": "350.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 783,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS2.5L",
+    "productName": "Hasp and Staple",
+    "variantName": " 2.5''L",
+    "variantPrice": "220.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 784,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS2HD",
+    "productName": "Hasp and Staple",
+    "variantName": " 2'' H/D",
+    "variantPrice": "270.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 785,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS3HD",
+    "productName": "Hasp and Staple",
+    "variantName": " 3 H/D",
+    "variantPrice": "400.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 786,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS3L",
+    "productName": "Hasp and Staple",
+    "variantName": " 3 (light)",
+    "variantPrice": "220.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 787,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS4.5HD",
+    "productName": "Hasp and Staple",
+    "variantName": " 4.5'' (H/D)",
+    "variantPrice": "450.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 788,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS4L",
+    "productName": "Hasp and Staple",
+    "variantName": " 4''(light)",
+    "variantPrice": "300.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 789,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS6HD",
+    "productName": "Hasp and Staple",
+    "variantName": " 6'' (H/D)",
+    "variantPrice": "550.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 790,
+    "handle": "hasp-and-staple",
+    "tags": "FXHS6L",
+    "productName": "Hasp and Staple",
+    "variantName": " 6'' (light)",
+    "variantPrice": "285.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 791,
+    "handle": "tee-hinge-8-",
+    "tags": "FXHT8",
+    "productName": "Tee Hinge 8''",
+    "variantName": "No variantName",
+    "variantPrice": "680.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 792,
+    "handle": "bathroom-lockless-handle-",
+    "tags": "FXLB",
+    "productName": "Bathroom (Lockless Handle)",
+    "variantName": "No variantName",
+    "variantPrice": "1000.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 793,
+    "handle": "louvre-blade-glass",
+    "tags": "FXLBG24''",
+    "productName": "Louvre Blade Glass",
+    "variantName": " 2'",
+    "variantPrice": "315.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 794,
+    "handle": "louvre-blade-glass",
+    "tags": "FXLBG30''",
+    "productName": "Louvre Blade Glass",
+    "variantName": " 2' 6''",
+    "variantPrice": "350.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 795,
+    "handle": "louvre-glass-used-various-sizes-",
+    "tags": "FXLBGUV",
+    "productName": "Louvre Glass (Used Various Sizes)",
+    "variantName": "No variantName",
+    "variantPrice": "300.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 796,
+    "handle": "louvre-blade-wood",
+    "tags": "FXLBW24''",
+    "productName": "Louvre Blade Wood",
+    "variantName": " 24''",
+    "variantPrice": "395.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 797,
+    "handle": "louvre-blade-wood",
+    "tags": "FXLBW30''",
+    "productName": "Louvre Blade Wood",
+    "variantName": " 30''",
+    "variantPrice": "425.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 798,
+    "handle": "louvre-blade-wood",
+    "tags": "FXLBW36",
+    "productName": "Louvre Blade Wood",
+    "variantName": " 36''",
+    "variantPrice": "455.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 799,
+    "handle": "combo-lockset",
+    "tags": "FXLCLS",
+    "productName": "Combo Lockset",
+    "variantName": "No variantName",
+    "variantPrice": "3500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 800,
+    "handle": "dead-bolt",
+    "tags": "FXLD",
+    "productName": "Dead Bolt",
+    "variantName": "No variantName",
+    "variantPrice": "1850.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 801,
+    "handle": "drawer-lock",
+    "tags": "FXLDas",
+    "productName": "Drawer Lock",
+    "variantName": " 1/2''",
+    "variantPrice": "500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 802,
+    "handle": "drawer-lock",
+    "tags": "FXLDas",
+    "productName": "Drawer Lock",
+    "variantName": " 3/4''",
+    "variantPrice": "500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 803,
+    "handle": "drawer-lock",
+    "tags": "FXLDas",
+    "productName": "Drawer Lock",
+    "variantName": " 5/8''",
+    "variantPrice": "500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 804,
+    "handle": "drawer-lock",
+    "tags": "FXLDas",
+    "productName": "Drawer Lock",
+    "variantName": " 7/8''",
+    "variantPrice": "500.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 805,
+    "handle": "entrance-lock",
+    "tags": "FXLE",
+    "productName": "Entrance Lock",
+    "variantName": "No variantName",
+    "variantPrice": "1890.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 806,
+    "handle": "louvre-jam-4-blade-glass",
+    "tags": "FXLJG4",
+    "productName": "Louvre Jam 4 Blade Glass",
+    "variantName": "No variantName",
+    "variantPrice": "2195.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 807,
+    "handle": "louvre-jam-7-blade-glass",
+    "tags": "FXLJG7",
+    "productName": "Louvre Jam 7 Blade Glass",
+    "variantName": "No variantName",
+    "variantPrice": "2690.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 808,
+    "handle": "louvre-jam-8-blade-glass",
+    "tags": "FXLJG8",
+    "productName": "Louvre Jam 8 Blade Glass",
+    "variantName": "No variantName",
+    "variantPrice": "2875.00",
+    "category": "Fixtures"
+  },
+  {
+    "id": 809,
+    "handle": "louvre-jam-9-blade-glass",
+    "tags": "FXLJG9",
+    "productName": "Louvre Jam 9 Blade Glass",
+    "variantName": "No variantName",
+    "variantPrice": "3275.00",
+    "category": "Fixtures"
   }
 ]

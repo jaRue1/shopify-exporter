@@ -2,8 +2,8 @@ import * as fs from "fs"
 import { assignCategory } from "../utils"
 
 console.log("JSON Exporter Initialized")
-const inputText = fs.readFileSync("../import/ideal-format.txt", "utf-8")
-// const inputText = fs.readFileSync("../tests/import.txt", "utf-8")
+// const inputText = fs.readFileSync("../import/ideal-format.txt", "utf-8")
+const inputText = fs.readFileSync("../tests/input.txt", "utf-8") // for testing
 
 const lines = inputText.split("\n")
 
@@ -25,6 +25,6 @@ for (const [index, line] of lines.entries()) {
   })
 }
 
-fs.writeFileSync("../export/export.json", JSON.stringify(output))
-// fs.writeFileSync("../tests/output.json", JSON.stringify(output))
+// fs.writeFileSync("../export/export.json", JSON.stringify(output))
+fs.writeFileSync("../tests/output.json", JSON.stringify(output)) // for testing
 console.log("Output to JSON File Complete")

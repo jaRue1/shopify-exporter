@@ -1,805 +1,813 @@
-B/HOE-TRAC;Backhoe / Tractor Work;2000.00
-CCF;ChequeChangingFee;200.00
-DCCT;Debit/CreditCard (LD2.5%) (LC5%) and(FD/CC/C...;500.00
-DEL;Delivery;2000.00
-638110401341;KITCHEN;2000.00
-ADBG;Bondcrete (Gallon);3230.00
-ADBQ;Bondcrete (Quart);1750.00
-ADC;Cement & ($30PERLBRETAIL);1580.00
-ADCAL;Latex;600.00
-ADCAS;Silicone Sealant (100%);1370.00
-ADCAS+L;Silicone + Latex;900.00
-ADCG;Crazy Glue;250.00
-ADCTTB;Silicone Tube(Black);720.00
-ADCTTC;Silicone Tube(Clear);750.00
-ADCTTG;Silicone TUBE(Grey);770.00
-ADCTTR;Silicone Tube(Red);830.00
-ADCTTW;Silicone TUBE(White);730.00
-ADCW;Cement White(lb);80.00
-ADDG236ml;Dap Glue (236ml)/8OZ;1000.00
-ADDGP;Dap Glue (PINT);1875.00
-ADDGQ;Dap Glue (QUART);2800.00
-ADE4;Epoxy #4;900.00
-ADE5;Epoxy #5;950.00
-ADFF;Filling Foam;1500.00
-ADGCLT;Loctite Glue;250.00
-ADGOP;Office Glue Pritt Tube;410.00
-ADGRTs;Grout (Sanded);4500.00
-ADGRTU;Grout (Unsanded);4800.00
-ADGS11G;GlueStick (11gram);150.00
-ADJC5G;Joint Compound 5Gallon;6900.00
-ADJCG;JointCompoundGallon;2400.00
-ADJCQ;JointCompoundQuart;350.00
-ADJCT250f;Joint Tape2'' x 300 ft Roll;1850.00
-ADJCT500f;JointTape2'' x 500 ft Roll;2500.00
-ADPC1;PVC Pipe Cleaner (1Pint);2910.00
-ADPC1/2;PVC Pipe Cleaner 1/2pt (8oz);1500.00
-ADPC1/4;PipeCleaner (1/4pint);850.00
-ADPg;Ponal (gal);4295.00
-ADPQ;Ponal (quart);1500.00
-ADPSQ;Ponal Super3 (quart);1700.00
-ADPT;Ponal (tube120g) pattex;500.00
-ADPTW/D1/4;Tangit (Wet & Dry 1/ 4PT);1550.00
-ADPTW/D.5;Tangit (Wet & Dry 1/2 PT);1700.00
-ADPTW/D1;Tangit(Wet and Dry 1pint);3450.00
-ADPVCC12;PVC Cement (1/2 pint);1730.00
-ADPVCC14;PVCCement(1/4pint);1220.00
-ADPVCCLT25ML;Tangit Tube 25ml;380.00
-ADPVCCLT50ml;Tangit Tube 50ml;430.00
+B/HOE-TRAC;Backhoe / Tractor Work;No variantName;2000.00
+CCF;ChequeChangingFee;No variantName;200.00
+DCCT;Debit/CreditCard (LD2.5%) (LC5%) and(FD/CC/C...;No variantName;500.00
+DEL;Delivery;No variantName;2000.00
+638110401341;KITCHEN;No variantName;2000.00
+ADBG;Bondcrete ;(Gallon);3230.00
+ADBQ;Bondcrete ;(Quart);1750.00
+ADC;Cement & ($30PERLBRETAIL);No variantName;1580.00
+ADCAL;Latex;No variantName;600.00
+ADCAS;Silicone Sealant (100%);No variantName;1370.00
+ADCAS+L;Silicone + Latex;No variantName;900.00
+ADCG;Crazy Glue;No variantName;250.00
+ADCTTB;Silicone Tube;(Black);720.00
+ADCTTC;Silicone Tube;(Clear);750.00
+ADCTTG;Silicone TUBE;(Grey);770.00
+ADCTTR;Silicone Tube;(Red);830.00
+ADCTTW;Silicone TUBE;(White);730.00
+ADCW;Cement White(lb);No variantName;80.00
+ADDG236ml;Dap Glue ;(236ml)/8OZ;1000.00
+ADDGP;Dap Glue ;(PINT);1875.00
+ADDGQ;Dap Glue ;(QUART);2800.00
+ADE4;Epoxy ;#4;900.00
+ADE5;Epoxy ;#5;950.00
+ADFF;Filling Foam;No variantName;1500.00
+ADGCLT;Loctite Glue;No variantName;250.00
+ADGOP;Office Glue Pritt Tube;No variantName;410.00
+ADGRTs;Grout ;(Sanded);4500.00
+ADGRTU;Grout ;(Unsanded);4800.00
+ADGS11G;GlueStick ;(11gram);150.00
+ADJC5G;Joint Compound;5Gallon;6900.00
+ADJCG;Joint Compound;Gallon;2400.00
+ADJCQ;Joint Compound;Quart;350.00
+ADJCT250f;Joint Tape;2'' x 300 ft Roll;1850.00
+ADJCT500f;Joint Tape;2'' x 500 ft Roll;2500.00
+ADPC1;PVC Pipe Cleaner;(1Pint);2910.00
+ADPC1/2;PVC Pipe Cleaner;1/2pt (8oz);1500.00
+ADPC1/4;Pipe Cleaner;(1/4pint);850.00
+ADPg;Ponal;(gal);4295.00
+ADPQ;Ponal;(quart);1500.00
+ADPSQ;Ponal;Super3(quart);1700.00
+ADPT;Ponal;(tube120g) pattex;500.00
+ADPTW/D1/4;Tangit; (Wet & Dry 1/ 4PT);1550.00
+ADPTW/D.5;Tangit; (Wet & Dry 1/2 PT);1700.00
+ADPTW/D1;Tangit;(Wet and Dry 1pint);3450.00
+ADPVCC12;PVC Cement; (1/2 pint);1730.00
+ADPVCC14;PVC Cement; (1/4pint);1220.00
+ADPVCCLT25ML;Tangit Tube; 25ml;380.00
+ADPVCCLT50ml;Tangit Tube; 50ml;430.00
 ADPVCHW1/4;Tangit 1/4 PINT (HotWater);985.00
-ADPVVC1;PVC Cement (pint);3360.00
-ADPXPT;Pattex (1/2Pint);1200.00
-ADPXQT;Pattex (Quart);2875.00
-ADPXTU;Pattex Tube;650.00
-ADSAX;Saxit (qt);600.00
-ADSC22;Sure Coat 22lb;1100.00
-ADSG;Shoe Glue / Super Glue;300.00
-ADTB;Box Tape (PackagingTape) ClearandBrown;290.00
-ADTC1'';Cello Tape1'' (72yds);370.00
-ADTC1/2'';Cello Tape1/2''(72yds);200.00
-ADTC2;Cello Tape2''(72yds);500.00
-ADTC3/4'';Cello Tape 3/4'' (72yds);270.00
-ADTDL;Duct Tape (Large);1370.00
-ADTDM-30y;Duct Tape Medium (2'' x 30yds);850.00
-ADTDS-10y;Duck Tape (Small) 2''x 10yds;500.00
-ADTM.75'';Masking Tape 3/4'';470.00
-ADTM1'';Masking Tape1'';550.00
-ADTM1.5;Masking Tape1.5'';680.00
-ADTM2'';Masking Tape2'';735.00
+ADPVVC1;PVC Cement; (pint);3360.00
+ADPXPT;Pattex; (1/2Pint);1200.00
+ADPXQT;Pattex; (Quart);2875.00
+ADPXTU;Pattex; Tube;650.00
+ADSAX;Saxit;(qt);600.00
+ADSC22;Sure Coat; 22lb;1100.00
+ADSG;Shoe Glue / Super Glue;No variantName;300.00
+ADTB;Box Tape (PackagingTape) Clear and Brown;No variantName;290.00
+ADTC1'';Cello Tape; 1'' (72yds);370.00
+ADTC1/2'';Cello Tape; 1/2''(72yds);200.00
+ADTC2;Cello Tape; 2''(72yds);500.00
+ADTC3/4'';Cello Tape; 3/4'' (72yds);270.00
+ADTDL;Duct Tape; (Large);1370.00
+ADTDM-30y;Duct Tape; Medium (2'' x 30yds);850.00
+ADTDS-10y;Duct Tape; (Small) 2''x 10yds;500.00
+ADTM.75'';Masking Tape; 3/4'';470.00
+ADTM1'';Masking Tape;1'';550.00
+ADTM1.5;Masking Tape;1.5'';680.00
+ADTM2'';Masking Tape;2'';735.00
 ADTMP2;Painters Tape 2;850.00
 ADTMP34;PaintersTape 3/4;650.00
-ADTS;Thinset Dyna 300 (Regular) $75 PER LB;1100.00
-ADTSAL;Thinset Dyna 600 (All purpose) $100 PER LB;3300.00
-ADTSW;Thinset Dyna 400 (Wall) $80PER LB;2400.00
-ADWGQ;Wood Glue (qt);560.00
-AGAFBRP/C; Brioler Ration (Pellet/Crumble);1650.00
+ADTS;Thinset Dyna; 300 (Regular) $75 PER LB;1100.00
+ADTSAL;Thinset Dyna; 600 (All purpose) $100 PER LB;3300.00
+ADTSW;Thinset Dyna; 400 (Wall) $80PER LB;2400.00
+ADWGQ;Wood Glue;(qt);560.00
+AGAFBRP/C; Brioler Ration (Pellet/Crumble);No variantName;1650.00
 AGAFCC;Crush Corn (lb);70.00
-AGAFLR;Layer Ration;1695.00
-AGAFPG;Pig Grower;1640.00
-AGAFSR;Sow and Boar Ration;1435.00
-AGAFWM;Wheat Midds;1435.00
-AGC14S;Cutlass Short 14'';1000.00
-AGC20S;Sow Cutlass 20'';1450.00
-AGC22S;Cutlass 22'';1500.00
-AGCB/CK;Bill Cutlass Crocodile (Cane Knife);2000.00
-AGCF;Cutlass File;230.00
-AGCFbw;Flair Cutlass (Belly Woman);1500.00
-AGCH;Hookie Cutlass;1700.00
-AGF;Fork Heavy Duty Agri.;14600.00
-AGF14-28-14VL;Fertilizer 14-28-14 (Vegetable) Large;6205.00
-AGF14-28-14VS;Fertilizer 14-28-14 (Vegetable) Small;3300.00
-AGF16-9-18APL;Fertilizer 16-9-18 (All Purpose) Large;5720.00
-AGF16-9-18APS;Fertilizer 16-9-18 (All Purpose) Small;2935.00
-AGF1SAL;Fertilizer Sulphate of Amonia (Salt) Large;4510.00
-AGF1SAS;Fertilizer Sulphate of Amonia (Salt) Small;2310.00
-AGFC;Champion fungicide (lb);1600.00
-AGFD;Diothane Fungicide 500g;1400.00
-AGFF;Fusilade (Fungicide) pint;3110.00
-AGFK;Kocide (lb);1360.00
-AGFMK;Man Kocide (lb);800.00
-AGFT;Topsin Fungicide (lb);1400.00
-AGGH100;Garden Hose 100';7800.00
-AGGH50;Garden Hose 50';4700.00
-AGGH75;Garden Hose 75';5400.00
-AGGHM;Garden Hose Mender (ALL);290.00
-AGGRHD;Hvy Duty Gden Rake;1500.00
-AGGRM;Garden Rake Metal;1050.00
-AGGRP;Plastic Garden Rake;1100.00
-AGGSC;Garden Shade Cloth (Greenhouse Mesh) (peryd);470.00
-AGGT;Seed Tray (Germination);250.00
-AGGW;Grass Whip (50 feet);750.00
-AGGWBHD;Grass Whip Black Heavy Duty (ft);25.00
-AGGWTH;Grass Whip Trim Head;3390.00
-AGH1;Hoe #1;1940.00
-AGH2;Hoe #2;2150.00
-AGH3;Hoe #3;2460.00
-AGMA;Antistress;385.00
-AGMAA;Amprofur Antibiotic;1650.00
-AGMAT;Trisulvitrim Antibiotic;1650.00
-AGMCB;Chicken Booster;545.00
-AGMDC;Cleansing Drench;220.00
-AGMDRS;Red Salt Drench....;220.00
-AGMFO/LOL;Fish Oil / Lamp Oil (250ml);650.00
-AGMFO/LOS;Lamp Oil/ Fish Oil (60);330.00
-AGMGF;Gaseous Fluid;500.00
-AGMH;Hiprovit;500.00
-AGMNCP;Neo Chlor Plus (Chicken Booster);1860.00
-AGMWCP;Chicken Wormer (Parazine);300.00
-AGMWD;Wormex (Wormer for Dogs);250.00
-AGMWGS;Safersan General Wormer 400g;625.00
-AGMWL150ml;Levox Wormer 150ml;500.00
-AGMWL450ml;Levox Wormer 450 ml;880.00
-AGMWOS;Wound Oil Spray;550.00
-AGMWP85g;Wound Powder 85g;430.00
-AGMWPC;Pig Wormer (Carlo) 24g;300.00
-AGMWV;Valbazen (125ml);550.00
-AGP119;119 Insect Killer;200.00
-AGPAPP;Ant Powder (Pack);250.00
-AGPB;Potting Bag;15.00
-AGPB260ml;Bagon 260ml;545.00
-AGPB400ML;Baygon 400ml;885.00
-AGPB600ML;Baygon 600ml;1275.00
-AGPCP;Cockroach Powder;120.00
-AGPCX250ML;Caratrax 250ml;1500.00
-AGPD;Diazinon (pint);1130.00
-AGPD250ml;Diazanon 250ml;850.00
-AGPDD100ML;Dianex100ml (Diazanon);500.00
-AGPDIPEL;Dipel (oz);200.00
-AGPFH;Poultry Feeder Hanging;2205.00
-AGPFIG;Fly and Insect Glue;80.00
-AGPFR;Fly Ribbon;55.00
-AGPFTPS;Silvertone Flea and Tick Killer;565.00
-AGPJF12oz;Jeyes Fluid (half flask);800.00
-AGPK250ml;Karate 250ml;2500.00
-AGPM;Malathion 250ml;1000.00
-AGPP285;Pyro Spray 285 ml;650.00
-AGPP350;Pyro Spray 350ml;700.00
-AGPP450;Pyro Spray 450ml;800.00
-AGPP600;Pyro Spray 600ml;980.00
-AGPPX200;Protox 200ml Spray;420.00
-AGPPX400;Protox 400ml spray;540.00
-AGPPX600;Protex 600ml Spray;750.00
-AGPROP12;Rid-O-Pest (12 OZ);770.00
-AGPSP;Slug Pellets (lb);550.00
-AGPSWC200ml;Carlo Screw Worm Spray 200ml;650.00
-AGPT;Triatix;500.00
-AGPTWA;Asuntol Tick Wash;480.00
-AGPTWS150ML;Supermethrin (tick and flea) 150ml;275.00
-AGPTWS240ml;Supermetrin Tick Killer 240ml;670.00
-AGPV400;Vape Insect Spray 400ml;810.00
-AGPV600;Vape Insect Spray 600ml;1100.00
-AGPW1;Poultry Waterer (1Gal);1000.00
-AGPW2;Poultry Waterer (2 Gal);1865.00
-AGPWPTK;Wood Preservative and Termite Killer;750.00
-AGR;Rope (lb);580.00
-AGRCL;Clothes Line Rope/Fine Rope (lb);650.00
-AGRSEXL;Swivle Extra Large;650.00
-AGRSL;Swivel Large;570.00
-AGRSLF;Rope Swivle Large (Factory Made);600.00
-AGRSM;Swivel Medium;530.00
-AGRSMF;Rope Swivle Medium (Factory Made);580.00
-AGRSS;Swivel Small;450.00
-AGRSSF;Rope Swivle Small (Factory Made);500.00
-AGSB;Broccoli;815.00
-AGSC;Cucumber Seed (PANDIA) 100G;1350.00
-AGSCAL;Callallo Seed;115.00
-AGSCau;Cauliflower;565.00
-AGSCgp;Carrot Seed (tin 100g);1500.00
-AGSCRCP;Cabbage Resist Crown (pack);550.00
-AGSCT2000;Cabbage Trop. 2000 seeds;1470.00
-AGSLgl;Lettuce (great lakes);1690.00
-AGSLi;Lettuce (iceberg);1450.00
-AGSO;Okra Seed;680.00
-AGSP;Pruning Scissors;1000.00
-AGSP15L;Spray Pan 15 litre;6000.00
-AGSP16LF;Spray Pan 16 Litre Federalli;5935.00
-AGSP19L;Spray Pan 19 Litre;7000.00
-AGSP20L;Spray Pan (20 Litre);10000.00
-AGSPB;Spray Bottle Federali 1 litre;1000.00
-AGSPCp;Pac Choy (tin);1600.00
-AGSPCP200g;Pac Choy (200 GRAM PACK);1000.00
-AGSPO6L;Spray Pan Osatu 6 litre;5000.00
-AGSRP;Red Peas;225.00
-AGSS;Spreader Sticker (qt);500.00
-AGSSB;String Beans;300.00
-AGSSBP;Scotch Bonnet Pepper Seed (oz);85.00
-AGSSPcw;Sweet Pepper Seeds (calif wonder);1760.00
-AGSSPKH;Sweet Pepper (King Henry) oz;2060.00
-AGSTF;Tomato Seed (Florodale) oz;300.00
-AGSTR;Tomato Seed (Roma) oz.;275.00
-AGWB200M;Barb Wire (200 Meteres);9000.00
-AGWB400M;Barb Wire (400 Meters);14500.00
-AGWH4;Hog Wire 4';19875.00
-AGWM3;Mesh Wire (yd) 3' $19500per roll;520.00
-AGWM4;Mesh Wire (yd) 4' $22000 per roll;580.00
-AGWS24D1L;2-4 D Weedicide 1L;1050.00
-AGWS24D3;.8L 2-4D Weedicide (gal);3300.00
-AGWS6D;6 D Amine (1 Litre);2000.00
-AGWSAC;Atrimet Combi (qt);1220.00
-AGWSD;Diuron (1 litre);2000.00
-AGWSG1L;Glyphos 1L;1800.00
-AGWSG3;.8L Glyphos 3.8 L;6780.00
-AGWSGL;Glyphosate (Litre);2200.00
-AGWSGQ1L;Gai Quat (1 Litre);1600.00
-AGWSGS1L;Gramoxone Super (1 litre);1875.00
-AGWSGS250ml;Gromoxone Super 250 ml;800.00
-AGWSK;Krismat (Lb);2125.00
-AGWSKar;Karmex (lb);1415.00
-AGWSLG;Lavax (Gallon);4500.00
-AGWSLq;Lavox (quart);1300.00
-AGWSP;Pilardir;1800.00
-AGWSP1L;Paraquat 1L;1770.00
-AGWSP3;.8L Paraquat (3.8L);4120.00
-AGWSR;Water Sprinkler Rotating;745.00
-AGWSRG;Riddown (GALLON Systemic spray);4700.00
-AGWSRQ;Riddown QUART (Systemic Weed Killer);1400.00
-AGWSRU1L;Round Up (1 Litre);2300.00
-AGWSV1L;Velzone (1Litre);2375.00
-AGWTD;Touchdown (qt);1355.00
-AUBF;Break Fluid;520.00
-AUBT;Battery Terminal;100.00
-AUBTC;Battery Terminal Cleaner;320.00
-AUF;Fuse;30.00
-AUFIP;Fix It Pro;115.00
-AUIL;Inspection Lamp;505.00
-AUJCLt;Jumper Cable (Light Auto);1245.00
-AULT4W;Lug Tool 4 Way;1380.00
-AUML;Map Light;180.00
-AUO15;/40D Motor Oil 15 w 40 (quart) diesel;865.00
-AUO2S;Oil.....2 Stroke;345.00
-AUO40;Motor Oil 40;575.00
-AUOF;Oil Filter;500.00
-AUOT;Transmision Oil;690.00
-AUPAA;Armor All;400.00
-AUPF2001;Formula 2001;435.00
-AUPSF;Power Steering Fluid;305.00
-AUS;Shamois;125.00
-AUSP;Spark Plugs;115.00
-AUSWC;Steering Wheel Cover;500.00
-AUTRK;Tyre Repair Kit;1200.00
-AUWD40;-5.5oz WD 40 Lubricant 5.5oz;840.00
-AUWD40;-8oz WD 40 Lubricant 8oz;925.00
-BPAC;Axle (Centre);515.00
-BPAF;Axle (Front);265.00
-BPAG;Axle (Gear) Back;265.00
-BPBS;Break Set;1310.00
-BPBSh;Break Shoes;160.00
-BPBSS;Balls small (doz);35.00
-BPBSS1;/4 Balls 1/4'';55.00
-BPC;Cables (all types);245.00
-BPCCL;Centre Cup (large);600.00
-BPCCS;Centre Cup (Small);550.00
-BPCG;Chain Gear;1400.00
-BPCR;Crank (all);610.00
-BPD;Derailer (all speeds);965.00
-BPF24;-26'' Fork 24-26'';2695.00
-BPFR;Fork Rambo;2220.00
-BPFW5S;Free Wheel 5 Speed;1350.00
-BPFW6S;Free Wheel 6 Sped;1400.00
-BPFW8S;Free Wheel 8 Speed;1820.00
-BPFWS;Free Wheel Star;545.00
-BPG;Generator;2005.00
-BPGS;Gear Shifter;935.00
-BPH;Handle;1930.00
-BPHF;Hub Front;970.00
-BPHFR;Hub (Front Rambo);1350.00
-BPHGo;Hand Grip (Regular);370.00
-BPHGR;Hand Grip (Rambo);400.00
-BPHL;Head Lamp;1400.00
-BPHPg;Head Parts (green box);675.00
-BPHPr;Head Parts (red);510.00
-BPHR;Hub Rear;1210.00
-BPHRR;Hub (Rambo Rear);1710.00
-BPL;Lock;840.00
-BPN;Neck;1550.00
-BPP;Pedals;725.00
-BPPC;Pump Connectors;265.00
-BPPL;Patch (large);30.00
-BPPS;Patch (small);20.00
-BPPU;Pump;1710.00
-BPRC;Chopper Rim;1340.00
-BPRCE;Reflector (cat eye);105.00
-BPRL;Reflector (Large);340.00
-BPRS;Reflector (small);280.00
-BPSC;S.Crank;2015.00
-BPSCLD;Sprocket...Cotterless Double;2970.00
-BPSCLT;Sprocket....Cotterless Triple;3025.00
-BPSCPD;Sprocket ..Cotter Pin Double;2745.00
-BPSCPT;Sprocket...Cotter Pin Triple;3120.00
-BPSEBMX;Seat BMX;1120.00
-BPSER;Seat Regular;1360.00
-BPSL;Solution Large;245.00
-BPSP;Seat Pole;685.00
-BPSPOKES;Spokes;35.00
-BPSRS;Seat Spring;2300.00
-BPSS;Solution Small;130.00
-BPSSCD;Sprocket SCrank Double;2015.00
-BPSSCS;Sprocket...S Crank Single;1210.00
-BPSSCT;Sprocket ...S Crank Triple;2210.00
-BPST;Stand (all);1295.00
-BPTC;Tyres Chopper;1210.00
-BPTR;Tyre Regular;1415.00
-BPTU20'';Bicycle Tube 20'';485.00
-BPTU24&26;Bicycle Tube 24'' & 26'';965.00
-CDLLB;Diaper Large (Little Berry) c/s 990;1260.00
-CDMLB;Diaper Medium (Little Berry) c/s 980;1250.00
-CDSLB;Diaper Small (Little Berry) c/s 970;1240.00
-CDXLLB;Diaper Extra Large (Little Berry) c/s 1000;1270.00
-CMPCN95;Mask (Corona / N95 Virus);250.00
-CMPD;Dust Mask;70.00
-CMPRc;Reusable Cotton Mask;300.00
-CMPS;Surgical Masks;200.00
-CPPWs;Workman Pants (Snickers);2500.00
-CPWBSB;Back Strap Brace;4500.00
-CPWCH;Construction Helmet;1200.00
-CPWGGS;Safety Glasses;700.00
-CPWGSc;Goggles Safety Clear;650.00
-CPWGSW;Welding Goggles;915.00
-CPWRCI;Rain Coat (Industrial);1130.00
-CPWSVR;Safety Vest (Reflective);990.00
-CPWWBC&L;Water Boot (Calf Length) and Laced Boots;3000.00
-CPWWBK;Water Boot (knee length);3500.00
-CPWWBKST;Water Boot Knee Lenght Steel Toe;4000.00
-CSCF;Chinese Slippers (Female);100.00
-DUP;RFZ7 Zinc 7';3810.00
-ELALNB;Amp Lug Nut and Bolt;160.00
-ELALS;Amp Lug Solderless 70A;700.00
-ELALS125;Amp Lug Solderless 125A;1100.00
-ELALS175;Amp Lug Solderless 175A;1400.00
-ELALS225;Amp Lug Solderless 225A;2125.00
-ELALS300;-500 Amp Lug Solderless 300-500A;3640.00
-ELAPC;Appliance Power Cord;125.00
-ELB;Regular Light Bulbs;100.00
-ELB100ADP;Breaker 100 Amp Double Pole;3500.00
-ELB15DP;Breaker 15amp DP;1750.00
-ELB15DU;Breaker 15amp Duplex;3900.00
-ELB15SP;Breaker 15A SP;760.00
-ELB20ADP;Breaker 20 Amp DP;2200.00
-ELB20ADU;Breaker 20 Amp Duplex;3950.00
-ELB20AGFCI;GFCI Breaker 20a Single Pole;15200.00
-ELB20ASP;Breaker 20 Amp SP;780.00
-ELB30SP;Breaker 30A SP;780.00
-ELB3OADP;Breaker 30A DP;2600.00
-ELB40ADP;Breaker 40 Amp Double Pole;2800.00
-ELB40ASP;Breaker 40A SP;850.00
-ELB50ADP;Breaker 50 Amp DP;2900.00
-ELB60DP;Breaker 60a Double Pole;3000.00
-ELB70DP;Breaker 70 Amp Double Pole;3300.00
-ELBB2W20M;BASA Box 2 Way 20mm;130.00
-ELBB3W20M;Besa Box 3 Way 20mm;160.00
-ELBB3W25M;Basa Box 3 Way 25mm;180.00
-ELBB4W20M;Besa Box 4 Way 20mm;200.00
-ELBB4W25M;Besa Box 4 Way 25mm;220.00
-ELBBC;Besa Box Covers;50.00
-ELBBIW20M;Basa Box 1 Way 20mm;120.00
-ELBCR;Regular Bulb (Coloured);120.00
-ELBF20W;Florescent Bulb Energy Saver 20W;500.00
-ELBF23W;Florescent Bulb Energy Saver 23W;550.00
-ELBF26W;Florescent Bulb Energy Saver 26W;580.00
-ELBF36W;Florescent Bulb Energy Saver 36W;600.00
-ELBFCR;Circular Florescent Bulb (Refill);565.00
-ELBFL;Flood Light Bulb;690.00
-ELBFLB;Flash Light Bulb;40.00
-ELBFLLED;LED Flood Light Bulb;2800.00
-ELBFRBC;Circular Florescent Recp & Bulb;875.00
-ELBLED;LED Bulb;500.00
-ELBLEDT2;LED Tube 2';850.00
-ELBLEDT4;LEDTube 4';1500.00
-ELBN20;Bonding Nipples 20mm;100.00
-ELBN25;Bonding Nipple 25mm;180.00
-ELBN32MM;Bonding Nipples 32mm;210.00
-ELBN38;Bonding Nipples 38mm;220.00
-ELBNL;Night Light Bulbs;45.00
-ELBS9VDE;Battery 9 Volt Duracell/ Energizer;500.00
-ELBSAAADE;Battery AAA Duracell/Energizer;130.00
-ELBSAADE;Battery AA Duracell/Energizer;140.00
-ELBSCDE;Battery Size C Duracell/Energizer;250.00
-ELBSCPD;Duracell Battery Carging Pack;5000.00
-ELBSDDE;Battery Size D Duracell/Energizer;280.00
-ELC20;Electrical Conduit 20mm;340.00
-ELC25;Electrical Conduit 25mm;400.00
-ELC32mm;Electrical Conduit 32mm;600.00
-ELC38mm;Electrical Conduit 38mm;880.00
-ELC50;Electrical Conduit 50mm;1400.00
-ELCB20M;Electrical Bend 20m;140.00
-ELCB25M;Electrical Bend 25mm;170.00
-ELCB32mm;Electrical Bend 32mm;230.00
-ELCB38mm;Electrical Bend 38mm;280.00
-ELCB50mm;Electrical Bend 50mm;550.00
-ELCBL;Connector Bars (large);30.00
-ELCBS;Connector Bar (small);20.00
-ELCC20;Elec.Conduit Coupling 20mm;35.00
-ELCC25;Elec Conduit Coupling 25mm;45.00
-ELCC32mm;Elec.Conduit Coupling 32mm;85.00
-ELCC38mm;Elec. Conduit Coupling 38mm;100.00
-ELCC50;Elec Conduit Copling 50 mm;125.00
-ELCCOGS5;5 Gang Switch Cover;800.00
-ELCE;Cable Ends;45.00
-ELCS2W;2 Way Cable Splitter;190.00
-ELCS3W;3 Way Cable Splitter;215.00
-ELCWT10;-20A Wire Twist Connector10-20amps;35.00
-ELCWT40A;Wire Twist Connector 40amp;40.00
-ELDBM4X4;Draw Box 4x4 Metal;880.00
-ELDBM6X6;Draw Box 6X6 Galvonized....;1540.00
-ELDBP10X12;Draw Box PVC 10X12;4500.00
-ELDBP4X4;Draw Box PVC 4X4;1400.00
-ELDBP6X6;Draw Box PVC 6X6;2800.00
-ELDT;Danger Tag;190.00
-ELE20M;Electrical Ends 20mm;55.00
-ELE25M;Electrical Ends 25mm;90.00
-ELE32M;Electrical Ends 32mm;200.00
-ELEC2P12;Extention Cord 12' (2 Pin);750.00
-ELEC2P15;Extention Cord 15' (2 Pin);950.00
-ELEC2P20;Extention Cord 20' (2 Pin);1085.00
-ELEC3P12;Extention Cord 12 ft (3 Pin);1150.00
-ELEC3P15;Extention Cord 15 ft (3 pin);1500.00
-ELEC3P20;Extention Cord 20 ft (3 Pin);1300.00
-ELECO100;Extention Cord 100' Outdoor;5800.00
-ELECO50;Extention Cord 50' Outdoor;4500.00
-ELECPS6O;Extention Cord with 6 Outlet Power Strip;1850.00
-ELECSE4OSP;Extention Cord with 4 Outlet Surge Protector;4900.00
-ELECTL;Ext.Cord Trouble Light;4300.00
-ELERC;Earth Rod Clamp;330.00
-ELERC4;' Earth Rod Copper 4';2600.00
-ELERG4;' Earth Rod Galvonized 4';2800.00
-ELFCCD1G;1 Gang Switch Cover Decora;170.00
-ELFCCD2G;2 Gang Switch Cover Decora;200.00
-ELFCCD3G;3 Gang Switch Cover Decora;265.00
-ELFCCD4G;4 Gang Switch Cover Decora;320.00
-ELFCCD5G;5 Gang Switch Cover Decora;375.00
-ELFCCOGS1;1 Gang Switch Cover;70.00
-ELFCCOGS2;2 Gang Switch Cover;190.00
-ELFCCOGS3;3 Gang Switch Cover;230.00
-ELFCCOGS4;4 Gang Switch Cover;290.00
-ELFCCOGS5;5 Gang Switch Cover;350.00
-ELFCDB4;Draw Box 4x4 covers;140.00
-ELFCOBC;Octogonal Box Covers;100.00
-ELFCSCM;Socket Cover(Metal);120.00
-ELFCSCP;Socket Cover Plastic (All Single);100.00
-ELFCT;Telephone Flush Cover Assembly;200.00
-ELFCT&C;Telephone & Cable Flush Cover Assembly;275.00
-ELFES;Female Extention Socket;175.00
-ELFG21P;Fridge Guard Large;4300.00
-ELFGS;Fridge Guard Super;5000.00
-ELFSCWP;Socket Cover Weather Proof;510.00
-ELGN/T;Grease Tube (Grease Nipple);330.00
-ELGS;Grounding Screws;15.00
-ELHB;Handy Box (Metal);240.00
-ELHBPVC;Handy Box (PVC);250.00
-ELJBS;Junction Box Small;350.00
-ELJPC;Jack Plug Connector;440.00
-ELJTP;Telephone Jack (Wall Mounted);230.00
-ELJTPE2W;Telephone Jack Expander 2way;190.00
-ELJTPE3W;Telephone Jack Expander 3way;190.00
-ELJVHSC;VHS Cable Jack;475.00
-ELMAPL;Map Light;200.00
-ELMB3-4GDPVC;Mem Box 3-4 Gang (Double Mem) PVC;480.00
-ELMB3-4GM;Mem Box 3-4 Gang 9 (Double Mem) Metal;390.00
-ELMB3-4GPVC;Mem Box Single (PVC);300.00
-ELMBS;Mem Box Single (Metal) 110v;230.00
-ELMDL;Motion Detector Light;7900.00
-ELMP2;Male Plug 2 Pin;250.00
-ELMP3;Male Plug 3 Pin;400.00
-ELMS100A;Meter Socket 100 Amp;2580.00
-ELMS200A;Meter Soctet 200 Amp;8250.00
-ELNE5E;Network Ends;80.00
-ELOBC;One Bolt Clamp;490.00
-ELOBM;Octagonal Box (Metal);240.00
-ELOBPVC;Octogonal Box (PVC);270.00
-ELPB12;Panel Box 12 Way;9800.00
-ELPB16W;Panel Box 16 Way;15300.00
-ELPB20W;Panel Box 20 Way;18000.00
-ELPB24W;Panel Box 24 Way;20000.00
-ELPB32W;Panel Box 32 Way;27000.00
-ELPB4;Panel Box 4 Way;3000.00
-ELPB6;Panel Box 6 Way;3700.00
-ELPB8;Panel Box 8 Way;6500.00
-ELPBP36W;Panel Box 3Phase (6 Way);17780.00
-ELPCB;Photo Cell Botton;1400.00
-ELPCT;Photo Cell Top;1670.00
-ELPH1;Pot Head 1'';550.00
-ELPH112;Pot Head 11/2'';900.00
-ELPH114;Pot Head 11/4'';750.00
-ELPH34;Pot Head 3/4'';500.00
-ELPS112;or 50mm Pipe Strap 38mm or 11/2'';65.00
-ELPS114;or 32mm Pipe Straps 32mm or 1'';55.00
-ELPS2;Pipe Straps 50mm or 2'';75.00
-ELPS20MM;Pipe Straps 20mm or 1/2'';35.00
-ELPS25MM;Pipe Straps 25mm or 3/4;45.00
-ELRBB;Broad Base Reciptacle (regular);375.00
-ELRBBPwC;Porcelain Receptacle with chain;550.00
-ELRBBS;Broad Based Reciptacle Shrowded;400.00
-ELRBBWC;Recipticle Broad Base w/chain;380.00
-ELRFDL2;Florescent Receptacle Double 2';3220.00
-ELRFDL4;Florescent Receptacle Double 4';4295.00
-ELRFSL2;Florescent Receptacle Single 2';2855.00
-ELRFSL4';Florescent Receptacle Single 4';3585.00
-ELRPC;Receptacle pull Chain;250.00
-ELRPI;Plug In Recepticle;150.00
-ELRSAWB;Stand alone Reciptacle with Bulb;565.00
-ELSA;Socket Adapter;110.00
-ELSB4X4;Square Box 4x4;195.00
-ELSC2-3W;2 To 3 Way Socket Converter;200.00
-ELSD;Dimmer Switch;990.00
-ELSE6W;6 Way Socket Expander;660.00
-ELSF;Flush Socket;300.00
-ELSF7/11;Flush Switch 7/11;500.00
-ELSF7/11D;Flush Switch 7/11 Decora;1700.00
-ELSFD; Flush Switch Double Pole;350.00
-ELSFDD;Flush Switch Decora Double;660.00
-ELSFDe;Flush Socket Decora;450.00
-ELSFGFCIP;GFI Plug Socket;4500.00
-ELSFS;Flush Switch Single Pole;280.00
-ELSFSD;Flush Switch Decora Single;495.00
-ELSOS3WSDFMB;3 Way Socket (Double);1800.00
-ELSOS3WSDwS;3 Way Socket for Mem Box (Double) w switch;1960.00
-ELSOS3WSDwSFMB;3 Way Socket w/switch & p light (Double);2100.00
-ELSOS3WSSFMB;3 Way Socket for Mem Box (Single);950.00
-ELSOS3WSwPLFMB;3 Way Socket w/switch & pilot light (Single);1200.00
-ELSOS3WSwSFMB;3 Way Socket w/Switch (Single);1100.00
-ELSOSHSDFMB;Heater Switch for (Double) Mem Box;4900.00
-ELSOSHSSFMB;Heater Switch for (Single) Mem Box;3100.00
-ELSOSSSFMB;Single Switch for (Single) mem Box;950.00
-ELSOSSSFMB2s;Double Switch for Single Mem (2 switches);1000.00
-ELSP40;Surge PRO 4 OUTLET;5600.00
-ELSPS;Surface Plug Socket;330.00
-ELSPT;Pig Tail Socket;245.00
-ELSS;Surface Switch;275.00
-ELSS3OB;Swivel Socket 3 Outlet Base;450.00
-ELSSO;Swivel Socket Outdoor;560.00
-ELT16X16;Trunking 16x16mm;750.00
-ELT16X25;Trunking 16x25mm;950.00
-ELT25X38;Trunking 25x38mm;1650.00
-ELTAPE34;Electrical Tape 3/4'';240.00
-ELTC;Electrical Tape (Coloured);250.00
-ELTC15;Tower Clip 1.5mm;350.00
-ELTC25;Tower Clip 2.5mm;390.00
-ELTCC;Telephone Coiled Cord;275.00
-ELTPC15;Telephone Cord 15';275.00
-ELTPC25;Telephone Cord 25';375.00
-ELTVA;T.V.Antenna;2685.00
-ELTVPOA;Push on TV Antenna Adapter;250.00
-ELW#6T;Wire # 6 Twisted;250.00
-ELW10MM;Wire 10mm Single (red:black:yellow:green) (ft) $53700 per roll;185.00
-ELW16MM;Wire 16mm Single (red:black:yellow:green) (ft) $57850 per roll;330.00
-ELWBC2.5MM;Wire Bare Copper 2.5mm;25.00
-ELWBC6MM;Wire Bare Copper 6mm;70.00
-ELWBRL;Wood Block Round (Large);275.00
-ELWBRs;Wood Block Round (Small);165.00
-ELWBS;Wood Block Square;250.00
-ELWC;Wall Case (Sectional Box);240.00
-ELWCAT5N;Cat 5 / Network wire;75.00
-ELWCB;Wire Cable (ft) RG-6;85.00
-ELWCP;Wire Connectors Plastic;25.00
-ELWHDI;Wire Holder D Iron;2290.00
-ELWHPR;Wire Holder Pipe Rider;1950.00
-ELWHR;Wire Holder Regular;795.00
-ELWR2.53C;Wire 2.5mm 3 Core (ft);120.00
-ELWR6-3C;Wire 6mm 3 Core (ft);200.00
-ELWS;Wire Soldering (tube);275.00
-ELWS1.5MMS;Wire 1.5mm Single (red:black:yellow:green) (ft) $8500 per roll;30.00
-ELWS2.5MMS;Wire 2.5mm Single (red:black:yellow:green) (ft) $9500per roll;35.00
-ELWS6MM;Wire 6mm Single (red:black:yellow:green) (ft) $29300 per roll;100.00
-ELWSF;Soldering Wire (ft);45.00
-ELWT.75mm;Wire .75mm Twin (Speakeror Bell Wire);50.00
-ELWT1.5mm;Wire 1.5mm Twin Flat (ft) $22000 per roll;70.00
-ELWT2.5;Wire 2.5mm Twin Flat (ft) $24500 per roll;95.00
-ELWTE1.5;Wire 1.5mm Twin Flat with earth (ft) $25000 per roll;100.00
-ELWTE2.5;Wire 2.5mm Twin Flat with earth (ft) $29700 per roll;110.00
-ELWTP2P;Telephone Wire 2 Pair (ft);30.00
-ELWTP3P;Telephone Wire 3 Pair (ft);40.00
-ELWTV;Wire Antenna (ft);50.00
-FTB1/4X1;Bolt 1/4 x 1;7.00
-FTB1/4X11/2;Bolt 1/4 x 11/2;10.00
-FTB1/4X3/4;Bolt 1/4 x 3/4;7.00
-FTB12X6wN;Bolt 1/2 ''x 6'' w/nut;90.00
-FTB14X2;Bolt 1/4 x 2;15.00
-FTB3/8X1;Bolt 3/8 x 1;20.00
-FTB3/8x11/2;Bolt 3/8 x11/2;35.00
-FTB3/8X2 Bolt;3/8 x 2;30.00
-FTB5/16X1 Bolt;5/16 x 1;30.00
-FTB5/16X11/2;Bolt 5/16 x 11/2;35.00
-FTB5/16X2;Bolt 5/16 x 2;25.00
-FTB6X16MM;Bolt 6 x 16mm;15.00
-FTB6X25MM;Bolt 6x 25mm;25.00
-FTB6X30MM;Bolt 6x 30 mm;30.00
-FTB6X40MM;Bolt 6 x 40mm;30.00
-FTB7/16X112;Bolt 7/16 x 11/2;35.00
-FTB8X100MM;Bolt 8 x 100mm;140.00
-FTB8X20MM;Bolt 8 x 20mm;35.00
-FTB8X40MM;Bolt 8 x 40mm;35.00
-FTBCB1/2;Centre Bolt for Trucks 1/2 x 10;1500.00
-FTBCB5/8;Centre Bolt for Trucks 5/8 x 12;1950.00
-FTBCB7/16;Centre Bolt for Trucks 7/16 x 10;1000.00
-FTBCH;Chain Link Fence Bolts;15.00
-FTBL14X1;Log Bolt 1/4 x 1;10.00
-FTBL14X112;Log Bolt 1/4 x 11/2;15.00
-FTBL14X2;Log Bolt 1/4 x 2;20.00
-FTBL14X3;Log Bolt 1/4 x 3;25.00
-FTBL3/8X4;Log Bolt 3/8 x 4;0.00
-FTBL38X112;Log Bolt 3/8 X 11/2;25.00
-FTBL38X2;Log Bolt 3/8 x 2;30.00
-FTBL38X212;Log Bolt 3/8 X 21/2;30.00
-FTBL38X4;Log Bolt 3/8 x 4;45.00
-FTBL516X112;Log Bolt 5/16 x 11/2;15.00
-FTBL516X2;Log Bolt 5/16 x 2;20.00
-FTBL516X212;Log Bolt 5/16 x 21/2;25.00
-FTBL516X4;Log Bolt 5/16 x 4;25.00
-FTBWSL;Barb Wire Staples (Large);280.00
-FTBWSS;Barb Wire Staples (Small);300.00
-FTCTL;Tie Strap/Cable Ties (Large);25.00
-FTCTM;Tie Strap/Cable Ties (Medium);20.00
-FTCTS;Tie Strap/Cable Ties (Small);10.00
-FTFT;Furniture Tacks (pk);300.00
-FTNBGCLF114x5/16;Galvonized Nut and Bolt for Chain Link Fence 11/4 x ...;100.00
-FTNC1;Concrete Nails 1'';370.00
-FTNC1.5;Concrete Nails 1.5'';370.00
-FTNC2;Concrete Nails 2'';370.00
-FTNC2.5;Concrete Nails 2.5'';370.00
-FTNC3;Concrete Nails 3'';370.00
-FTNC4;Concrete Nails 4'';400.00
-FTND;Decra Tile Roof Nails;520.00
-FTNF1;Finishing Nails 1'' (Brads);300.00
-FTNF1.5;Finishing Nails 1.5'';280.00
-FTNF2;Finishing Nails 2'';300.00
-FTNF2.5;Finishing Nails 2.5'';300.00
-FTNF3'';Finishing Nails 3'';300.00
-FTNG2;Galvanized Nails 2'';350.00
-FTNG2.5;Galvanized Nails 2.5'';350.00
-FTNG3;Galvonized Nails 3'';350.00
-FTNG4;Galvonized Nails 4'';350.00
-FTNH1;Head Nails 1'';250.00
-FTNH1.5;Head Nail 1.5'';250.00
-FTNH2;Head Nail 2'';220.00
-FTNH2.5;Head Nails 2.5'';220.00
-FTNH3;Head Nails 3'';220.00
-FTNH4;Head Nail 4'';300.00
-FTNUT1/4;Nut 1/4;5.00
-FTNUT3/8;Nut 3/8;10.00
-FTNUT5/16;Nut 5/16;5.00
-FTNUT6MM;Nut 6mm;10.00
-FTNUT7/16;Nut 7/16;15.00
-FTNUT8MM;Nut 8mm;15.00
-FTNZ;Zinc Nails;370.00
-FTR18;Rivets 1/8'';5.00
-FTRB.25X2;Rawl Bolt 1/4 x 2'';65.00
-FTRB.25X2.5;(M6) Rawl Bolt 1/4 x 2.5 (M6);65.00
-FTRB.38x3;(M10) RawlBolt .38 x 3 (M10);150.00
-FTRB.5x4;(M12) Rawl Bolt .5 x 4 (M12);180.00
-FTRB5/16x2.5;(M8) Rawl Bolt 5/16 x 2.5 (M8);85.00
-FTS-LB;Screws 1/2'' L/B;50.00
-FTS-LJ;Screws 11/4'' L/J (1doz);50.00
-FTS.25-1.5;Screws .25-1.5'' Wood (1doz);50.00
-FTS2'';Screws 2'' Wood;65.00
-FTS3'';Screws 3'';65.00
-FTSC1;Concrete Screws 1'';30.00
-FTSC2.25'';Concrete Screws 2 .25'';35.00
-FTSC2.75'';Concrete Screws 2.75'';40.00
-FTSC3.25'';Concrete Screws 3.25'';45.00
-FTSC3.75;Concrete Screws 3.75'';50.00
-FTSC4;Concrete Screws 4'';55.00
-FTSDW1;Dry Wall Screws 1'' (doz);50.00
-FTSDW1.5;Dry Wall Screws 1.5'';70.00
-FTSDW2;Dry Wall Screws 2'' (doz);80.00
-FTSDW2.5'';Dry Wall Screws 2.5'';90.00
-FTSDW3;Dry Wall Screws 3'';100.00
-FTSST10X112;Self Tapping 10 x 11/2;5.00
-FTSST10x12;Self Tapping 10 x 1/2;5.00
-FTSST10X34;Self Tapping 10 x 3/4;5.00
-FTSST12X1;Self Tapping 12x 1;6.00
-FTSST12X112;Self Tapping 12 x 11/2;7.00
-FTSST12x34;Self Tapping 12x3/4;5.00
-FTSST12X58;Self Tapping 12 x 5/8;5.00
-FTSST14X34;Self Tapping 14 x 3/4;5.00
-FTSST6X1;Self Tapping 6 x 1;5.00
-FTSST6X114;Self Tapping 6x 11/4;5.00
-FTSST6X12;Self Tapping 6x 1/2;5.00
-FTSST6X34;Self Tapping 6x3/4;5.00
-FTSST8X1;Self Tapping 8 x1;5.00
-FTSST8X112;Self Tapping 8 x 11/2;5.00
-FTSST8X34;Self Tapping 8 x 3/4;5.00
-FTSST8X58;Self Tapping 8x5/8;5.00
-FTSZ;Zinc Screws;35.00
-FTUS38&12;Upholstry Staples 3/8 & 1/2'';800.00
-FTWF1/4;Flat Washer 1/4;5.00
-FTWF3/8;Flat Washer 3/8;5.00
-FTWFLM;Flat Large Washer (large);10.00
-FTWHG;Giant Wall Hooks;170.00
-FTWL;Lock Washer 3/8;7.00
-FTWL1/2;Lock Washer 1/2;7.00
-FTWL1/4;Lock Washer 1/4;5.00
-FTWP;Wall Plug;5.00
-FXBB2.5;B Barrel Bolt 2.5'' Brass;325.00
-FXBB2C;Barell Bolt 2'' Chrome;300.00
-FXBB3B;Barrel Bolt 3'' Brass;400.00
-FXBB3C;Barell Bolt 3'' Chrome;410.00
-FXBB4B;Barrel Bolt 4'' Brass;500.00
-FXBB4C;Barell Bolt 4'' Chrome;550.00
-FXCHP;Cupboard Handle Pulls;205.00
-FXCHPP;Cupboard Handle Pull (porcelain);340.00
-FXCHPW;Cupboard Handle Pull (wood);255.00
-FXCK;Cupboard Knobs;135.00
-FXCKP;Cupboard Knobs (porcelain);145.00
-FXCRC;Cupboard Roller Catch;75.00
-FXCS;Casement Stays;340.00
-FXDBi;Bi- Fold Doors;10000.00
-FXDC;Pine Wood Cathedral Door;27500.00
-FXDH28ply;Ply Door 28 (Hollow);8200.00
-FXDH30ply;Ply Door 30 (hollow);8200.00
-FXDH32ply;Ply Door 32 (hollow);8200.00
-FXDH36ply;Ply Door 36 (Hollow);8200.00
-FXDHfab28;Door Hollow Fabricated 28'';12500.00
-FXDHfab30;Door Hollow Fabricated 30'';12500.00
-FXDHfab32;Door Hollow Fabricated 32'';12500.00
-FXDHfab36;Door Hollow Fabricated 36'';12500.00
-FXDHFD;Half French Door;25000.00
-FXDHFWP30;Door Hollow Fabricated White Panel 30'';13000.00
-FXDHFWP32;Door Hollow Fabricated White Panel 32'';13000.00
-FXDHFWP36;Door Hollow Fabricated White Panel 36'';13000.00
-FXDM30;Metal Panel Door 30;23500.00
-FXDM32;Metal Panel Door 32'';23500.00
-FXDM36;Metal Door Panel 36'';23500.00
-FXDMC30;Metal Cathedral Door 30'';32500.00
-FXDMC32;Metal Cathedral Door 32'';32500.00
-FXDMC36;Metal Cathedral Door 36'';32500.00
-FXDMWOG;Metal Door with Oval Glass;58000.00
-FXDO;Grand Olympia Door;33050.00
-FXDP30;Pine Panel Door 30'' (Wood);19860.00
-FXDP32;Pine Panel Door 32'' (Wood);19860.00
-FXDP36;Pine Panel Door 36'' (Wood);19860.00
-FXDS;Door Stop;600.00
-FXDS14;Draw Slides 14'';380.00
-FXDS16;Draw Slides 16'';440.00
-FXDS18;Draw Slides 18'';500.00
-FXDSB16;Draw Slides (with bearings) 16";1050.00
-FXDSB18;Draw Slides (with bearings) 18";1100.00
-FXDSM;Strips for bottom of metal doors (Door Sweeps);1500.00
-FXDVJ30;V.Joint Door 30'';15000.00
-FXDVJ32;V.Joint Door 32'';15000.00
-FXDVJ36;V.Joint Door 36'';11000.00
-FXGD;Dresser Mirror Glass;2150.00
-FXGW;Wardrobe Glass;2150.00
-FXHB1.5;Hinge Brass 1.5'';130.00
-FXHB2.5;Hinge Brass 2.5'';150.00
-FXHB3;Hinge Brass 3'';380.00
-FXHBHD4;Hinge Brass Heavy Duty 4'';450.00
-FXHBHD4F;Hinge 4" Fancy;800.00
-FXHCa;Cupboard Hinge (all);250.00
-FXHCAC;Concealed Hinges;300.00
-FXHHD3;Hinge Heave Duty 3'';300.00
-FXHHD4;Hinge Heavy Duty 4''';350.00
-FXHL112;Light Hinge 11/2'';120.00
-FXHL2;Light Hinge 2'';150.00
-FXHL3;Light Hinge 3'';130.00
-FXHL4;Light Hinge 4'';200.00
-FXHLB212;Light Brass Hinge 21/2'';150.00
-FXHPg;Handle Pull (General);700.00
-FXHPm;Door Handle Pulls (Metal);1600.00
-FXHS2.5HD;Hasp and Staple 2.5 Heavy Duty;350.00
-FXHS2.5L;Hasp and Staple 2.5''L;220.00
-FXHS2HD;Hasp and Staple 2'' H/D;270.00
-FXHS3HD;Hasp and Staple 3 H/D;400.00
-FXHS3L;Hasp and Staple 3 (light);220.00
-FXHS4.5HD;Hasp and Staple 4.5'' (H/D);450.00
-FXHS4L;Hasp and Staple 4''(light);300.00
-FXHS6HD;Hasp and Staple 6'' (H/D);550.00
-FXHS6L;Hasp and Staple 6'' (light);285.00
-FXHT8;Tee Hinge 8'';680.00
-FXLB;Bathroom (Lockless Handle);1000.00
-FXLBG24'';Louvre Blade Glass 2';315.00
-FXLBG30'';Louvre Blade Glass 2' 6'';350.00
-FXLBGUV;Louvre Glass (Used Various Sizes);300.00
-FXLBW24'';Louvre Blade Wood 24'';395.00
-FXLBW30'';Louvre Blade Wood 30'';425.00
-FXLBW36;Louvre Blade Wood 36'';455.00
-FXLCLS;Combo Lockset;3500.00
-FXLD;Dead Bolt;1850.00
-FXLDas;Drawer Lock 1/2'' 3/4'' 5/8'' 7/8'' (All Sizes);500.00
-FXLE;Entrance Lock;1890.00
-FXLJG4;Louvre Jam 4 Blade Glass;2195.00
-FXLJG7;Louvre Jam 7 Blade Glass;2690.00
-FXLJG8;Louvre Jam 8 Blade Glass;2875.00
-FXLJG9;Louvre Jam 9 Blade Glass;3275.00
+AGAFLR;Layer Ration;No variantName;1695.00
+AGAFPG;Pig Grower;No variantName;1640.00
+AGAFSR;Sow and Boar Ration;No variantName;1435.00
+AGAFWM;Wheat Midds;No variantName;1435.00
+AGC14S;Cutlass Short 14'';No variantName;1000.00
+AGC20S;Sow Cutlass 20'';No variantName;1450.00
+AGC22S;Cutlass 22'';No variantName;1500.00
+AGCB/CK;Bill Cutlass Crocodile (Cane Knife);No variantName;2000.00
+AGCF;Cutlass File;No variantName;230.00
+AGCFbw;Flair Cutlass (Belly Woman);No variantName;1500.00
+AGCH;Hookie Cutlass;No variantName;1700.00
+AGF;Fork Heavy Duty Agri.;No variantName;14600.00
+AGF14-28-14VL;Fertilizer 14-28-14 (Vegetable); Large;6205.00
+AGF14-28-14VS;Fertilizer 14-28-14 (Vegetable); Small;3300.00
+AGF16-9-18APL;Fertilizer 16-9-18 (All Purpose); Large;5720.00
+AGF16-9-18APS;Fertilizer 16-9-18 (All Purpose); Small;2935.00
+AGF1SAL;Fertilizer Sulphate of Amonia (Salt); Large;4510.00
+AGF1SAS;Fertilizer Sulphate of Amonia (Salt); Small;2310.00
+AGFC;Champion fungicide (lb);No variantName;1600.00
+AGFD;Diothane Fungicide 500g;No variantName;1400.00
+AGFF;Fusilade (Fungicide) pint;No variantName;3110.00
+AGFK;Kocide (lb);No variantName;1360.00
+AGFMK;Man Kocide (lb);No variantName;800.00
+AGFT;Topsin Fungicide (lb);No variantName;1400.00
+AGGH100;Garden Hose ;100';7800.00
+AGGH50;Garden Hose ;50';4700.00
+AGGH75;Garden Hose ;75';5400.00
+AGGHM;Garden Hose Mender (ALL);No variantName;290.00
+AGGRHD;Hvy Duty Gden Rake;No variantName;1500.00
+AGGRM;Garden Rake Metal;No variantName;1050.00
+AGGRP;Plastic Garden Rake;No variantName;1100.00
+AGGSC;Garden Shade Cloth (Greenhouse Mesh) (peryd);No variantName;470.00
+AGGT;Seed Tray (Germination);No variantName;250.00
+AGGW;Grass Whip (50 feet);No variantName;750.00
+AGGWBHD;Grass Whip Black Heavy Duty (ft);No variantName;25.00
+AGGWTH;Grass Whip Trim Head;No variantName;3390.00
+AGH1;Hoe ;#1;1940.00
+AGH2;Hoe ;#2;2150.00
+AGH3;Hoe ;#3;2460.00
+AGMA;Antistress;No variantName;385.00
+AGMAA;Amprofur Antibiotic;No variantName;1650.00
+AGMAT;Trisulvitrim Antibiotic;No variantName;1650.00
+AGMCB;Chicken Booster;No variantName;545.00
+AGMDC;Cleansing Drench;No variantName;220.00
+AGMDRS;Red Salt Drench....;No variantName;220.00
+AGMFO/LOL;Fish Oil / Lamp Oil ;(250ml);650.00
+AGMFO/LOS;Lamp Oil/ Fish Oil ;(60);330.00
+AGMGF;Gaseous Fluid;No variantName;500.00
+AGMH;Hiprovit;No variantName;500.00
+AGMNCP;Neo Chlor Plus (Chicken Booster);No variantName;1860.00
+AGMWCP;Chicken Wormer (Parazine);No variantName;300.00
+AGMWD;Wormex (Wormer for Dogs);No variantName;250.00
+AGMWGS;Safersan General Wormer; 400g;625.00
+AGMWL150ml;Levox Wormer ;150ml;500.00
+AGMWL450ml;Levox Wormer ;450 ml;880.00
+AGMWOS;Wound Oil Spray;No variantName;550.00
+AGMWP85g;Wound Powder ;85g;430.00
+AGMWPC;Pig Wormer (Carlo); 24g;300.00
+AGMWV;Valbazen ;(125ml);550.00
+AGP119;119 Insect Killer;No variantName;200.00
+AGPAPP;Ant Powder (Pack);No variantName;250.00
+AGPB;Potting Bag;No variantName;15.00
+AGPB260ml;Bagon ;260ml;545.00
+AGPB400ML;Baygon ;400ml;885.00
+AGPB600ML;Baygon ;600ml;1275.00
+AGPCP;Cockroach Powder;No variantName;120.00
+AGPCX250ML;Caratrax ;250ml;1500.00
+AGPD;Diazinon ;(pint);1130.00
+AGPD250ml;Diazanon; 250ml;850.00
+AGPDD100ML;Diazanon; 100ml ;500.00
+AGPDIPEL;Dipel (oz);No variantName;200.00
+AGPFH;Poultry Feeder Hanging;No variantName;2205.00
+AGPFIG;Fly and Insect Glue;No variantName;80.00
+AGPFR;Fly Ribbon;No variantName;55.00
+AGPFTPS;Silvertone Flea and Tick Killer;No variantName;565.00
+AGPJF12oz;Jeyes Fluid (half flask);No variantName;800.00
+AGPK250ml;Karate 250ml;No variantName;2500.00
+AGPM;Malathion 250ml;No variantName;1000.00
+AGPP285;Pyro Spray; 285 ml;650.00
+AGPP350;Pyro Spray; 350ml;700.00
+AGPP450;Pyro Spray; 450ml;800.00
+AGPP600;Pyro Spray; 600ml;980.00
+AGPPX200;Protox Spray; 200ml Spray;420.00
+AGPPX400;Protox Spray; 400ml spray;540.00
+AGPPX600;Protex Spray; 600ml ;750.00
+AGPROP12;Rid-O-Pest (12 OZ);No variantName;770.00
+AGPSP;Slug Pellets (lb);No variantName;550.00
+AGPSWC200ml;Carlo Screw Worm Spray ;200ml;650.00
+AGPT;Triatix;No variantName;500.00
+AGPTWA;Asuntol Tick Wash;No variantName;480.00
+AGPTWS150ML;Cypermethrin; 150ml;275.00
+AGPTWS240ml;Cypermethrin; 240ml;670.00
+AGPV400;Vape Insect Spray; 400ml;810.00
+AGPV600;Vape Insect Spray; 600ml;1100.00
+AGPW1;Poultry Waterer ;(1Gal);1000.00
+AGPW2;Poultry Waterer ;(2 Gal);1865.00
+AGPWPTK;Wood Preservative and Termite Killer;No variantName;750.00
+AGR;Rope (lb);No variantName;580.00
+AGRCL;Clothes Line Rope/Fine Rope (lb);No variantName;650.00
+AGRSEXL;Swivle; Extra Large;650.00
+AGRSL;Swivel; Large;570.00
+AGRSM;Swivel; Medium;530.00
+AGRSS;Swivel ;Small;450.00
+AGRSLF;Rope Swivle ;Large (Factory Made);600.00
+AGRSMF;Rope Swivle ;Medium (Factory Made);580.00
+AGRSSF;Rope Swivle ;Small (Factory Made);500.00
+AGSB;Broccoli;No variantName;815.00
+AGSC;Cucumber Seed (PANDIA) 100G;No variantName;1350.00
+AGSCAL;Callallo Seed;No variantName;115.00
+AGSCau;Cauliflower;No variantName;565.00
+AGSCgp;Carrot Seed (tin 100g);No variantName;1500.00
+AGSCRCP;Cabbage Resist Crown (pack);No variantName;550.00
+AGSCT2000;Cabbage Trop. 2000 seeds;No variantName;1470.00
+AGSLgl;Lettuce ;(great lakes);1690.00
+AGSLi;Lettuce ;(iceberg);1450.00
+AGSO;Okra Seed;No variantName;680.00
+AGSP;Pruning Scissors;No variantName;1000.00
+AGSP15L;Spray Pan; 15 litre;6000.00
+AGSP16LF;Spray Pan; 16 Litre Federalli;5935.00
+AGSP19L;Spray Pan; 19 Litre;7000.00
+AGSP20L;Spray Pan; (20 Litre);10000.00
+AGSPB;Spray Bottle Federali 1 litre;No variantName;1000.00
+AGSPCp;Pac Choy ;(tin);1600.00
+AGSPCP200g;Pac Choy ;(200 GRAM PACK);1000.00
+AGSPO6L;Spray Pan; Osatu 6 litre;5000.00
+AGSRP;Red Peas;No variantName;225.00
+AGSS;Spreader Sticker (qt);No variantName;500.00
+AGSSB;String Beans;No variantName;300.00
+AGSSBP;Scotch Bonnet Pepper Seed (oz);No variantName;85.00
+AGSSPcw;Sweet Pepper Seeds (calif wonder);No variantName;1760.00
+AGSSPKH;Sweet Pepper (King Henry) oz;No variantName;2060.00
+AGSTF;Tomato Seed ;(Florodale) oz;300.00
+AGSTR;Tomato Seed ;(Roma) oz.;275.00
+AGWB200M;Barb Wire ;(200 Meteres);9000.00
+AGWB400M;Barb Wire ;(400 Meters);14500.00
+AGWH4;Hog Wire 4';No variantName;19875.00
+AGWM3;Mesh Wire ;(yd) 3' $19500per roll;520.00
+AGWM4;Mesh Wire ;(yd) 4' $22000 per roll;580.00
+AGWS24D1L;2-4 D Weedicide; 1L;1050.00
+AGWS24D3;.8L 2-4D Weedicide; (gal);3300.00
+AGWS6D;6 D Amine (1 Litre);No variantName;2000.00
+AGWSAC;Atrimet Combi (qt);No variantName;1220.00
+AGWSD;Diuron (1 litre);No variantName;2000.00
+AGWSG1L;Glyphos 1L;No variantName;1800.00
+AGWSG3;.8L Glyphos 3.8 L;No variantName;6780.00
+AGWSGL;Glyphosate (Litre);No variantName;2200.00
+AGWSGQ1L;Gai Quat (1 Litre);No variantName;1600.00
+AGWSGS1L;Gramoxone Super ;(1 litre);1875.00
+AGWSGS250ml;Gromoxone Super ;250 ml;800.00
+AGWSK;Krismat (Lb);No variantName;2125.00
+AGWSKar;Karmex (lb);No variantName;1415.00
+AGWSLG;Lavax ;(Gallon);4500.00
+AGWSLq;Lavox ;(quart);1300.00
+AGWSP;Pilardir;No variantName;1800.00
+AGWSP1L;Paraquat;1L;1770.00
+AGWSP3;.8L Paraquat; (3.8L);4120.00
+AGWSR;Water Sprinkler Rotating;No variantName;745.00
+AGWSRG;Riddown ;(GALLON Systemic spray);4700.00
+AGWSRQ;Riddown ;QUART (Systemic Weed Killer);1400.00
+AGWSRU1L;Round Up ;(1 Litre);2300.00
+AGWSV1L;Velzone ;(1Litre);2375.00
+AGWTD;Touchdown ;(qt);1355.00
+AUBF;Break Fluid;No variantName;520.00
+AUBT;Battery Terminal;No variantName;100.00
+AUBTC;Battery Terminal Cleaner;No variantName;320.00
+AUF;Fuse;No variantName;30.00
+AUFIP;Fix It Pro;No variantName;115.00
+AUIL;Inspection Lamp;No variantName;505.00
+AUJCLt;Jumper Cable (Light Auto);No variantName;1245.00
+AULT4W;Lug Tool 4 Way;No variantName;1380.00
+AUML;Map Light;No variantName;180.00
+AUO15;40D Motor Oil 15 w 40 (quart) diesel;No variantName;865.00
+AUO2S;Oil.....2 Stroke;No variantName;345.00
+AUO40;Motor Oil 40;No variantName;575.00
+AUOF;Oil Filter;No variantName;500.00
+AUOT;Transmision Oil;No variantName;690.00
+AUPAA;Armor All;No variantName;400.00
+AUPF2001;Formula 2001;No variantName;435.00
+AUPSF;Power Steering Fluid;No variantName;305.00
+AUS;Shamois;No variantName;125.00
+AUSP;Spark Plugs;No variantName;115.00
+AUSWC;Steering Wheel Cover;No variantName;500.00
+AUTRK;Tyre Repair Kit;No variantName;1200.00
+AUWD40;WD 40 Lubricant; 5.5oz;840.00
+AUWD40;WD 40 Lubricant; 8oz;925.00
+BPAC;Axle ;(Centre);515.00
+BPAF;Axle ;(Front);265.00
+BPAG;Axle ;(Gear) Back;265.00
+BPBS;Break Set;No variantName;1310.00
+BPBSh;Break Shoes;No variantName;160.00
+BPBSS;Balls small (doz);No variantName;35.00
+BPBSS1;/4 Balls 1/4'';No variantName;55.00
+BPC;Cables (all types);No variantName;245.00
+BPCCL;Centre Cup: (large);600.00
+BPCCS;Centre Cup; (Small);550.00
+BPCG;Chain Gear;No variantName;1400.00
+BPCR;Crank (all);No variantName;610.00
+BPD;Derailer (all speeds);No variantName;965.00
+BPF24;-26'' Fork 24-26'';No variantName;2695.00
+BPFR;Fork Rambo;No variantName;2220.00
+BPFW5S;Free Wheel; 5 Speed;1350.00
+BPFW6S;Free Wheel; 6 Sped;1400.00
+BPFW8S;Free Wheel; 8 Speed;1820.00
+BPFWS;Free Wheel; Star;545.00
+BPG;Generator;No variantName;2005.00
+BPGS;Gear Shifter;No variantName;935.00
+BPH;Handle;No variantName;1930.00
+BPHF;Hub; Front;970.00
+BPHR;Hub; Rear;1210.00
+BPHFR;Hub; (Front Rambo);1350.00
+BPHRR;Hub; (Rambo Rear);1710.00
+BPHGo;Hand Grip;(Regular);370.00
+BPHGR;Hand Grip ;(Rambo);400.00
+BPHL;Head Lamp;No variantName;1400.00
+BPHPg;Head Parts; (green box);675.00
+BPHPr;Head Parts; (red);510.00
+BPL;Lock;No variantName;840.00
+BPN;Neck;No variantName;1550.00
+BPP;Pedals;No variantName;725.00
+BPPC;Pump Connectors;No variantName;265.00
+BPPL;Patch; (large);30.00
+BPPS;Patch; (small);20.00
+BPPU;Pump;No variantName;1710.00
+BPRC;Chopper Rim;No variantName;1340.00
+BPRCE;Reflector; (cat eye);105.00
+BPRL;Reflector; (Large);340.00
+BPRS;Reflector; (small);280.00
+BPSC;S.Crank;No variantName;2015.00
+BPSCLD;Sprocket;...Cotterless Double;2970.00
+BPSCLT;Sprocket;....Cotterless Triple;3025.00
+BPSCPD;Sprocket; ..Cotter Pin Double;2745.00
+BPSCPT;Sprocket;...Cotter Pin Triple;3120.00
+BPSEBMX;Seat; BMX;1120.00
+BPSER;Seat; Regular;1360.00
+BPSS;Solution; Small;130.00
+BPSL;Solution; Large;245.00
+BPSP;Seat Pole;No variantName;685.00
+BPSPOKES;Spokes;No variantName;35.00
+BPSRS;Seat Spring;No variantName;2300.00
+BPSSCD;Sprocket; SCrank Double;2015.00
+BPSSCS;Sprocket;...S Crank Single;1210.00
+BPSSCT;Sprocket; ...S Crank Triple;2210.00
+BPST;Stand (all);No variantName;1295.00
+BPTC;Tyres; Chopper;1210.00
+BPTR;Tyres; Regular;1415.00
+BPTU20'';Bicycle Tube; 20'';485.00
+BPTU24&26;Bicycle Tube; 24'' & 26'';965.00
+CDLLB;Diaper; Large (Little Berry) c/s 990;1260.00
+CDMLB;Diaper; Medium (Little Berry) c/s 980;1250.00
+CDSLB;Diaper; Small (Little Berry) c/s 970;1240.00
+CDXLLB;Diaper; Extra Large (Little Berry) c/s 1000;1270.00
+CMPCN95;Mask (Corona / N95 Virus);No variantName;250.00
+CMPD;Dust Mask;No variantName;70.00
+CMPRc;Reusable Cotton Mask;No variantName;300.00
+CMPS;Surgical Masks;No variantName;200.00
+CPPWs;Workman Pants (Snickers);No variantName;2500.00
+CPWBSB;Back Strap Brace;No variantName;4500.00
+CPWCH;Construction Helmet;No variantName;1200.00
+CPWGGS;Safety Glasses;No variantName;700.00
+CPWGSc;Goggles Safety Clear;No variantName;650.00
+CPWGSW;Welding Goggles;No variantName;915.00
+CPWRCI;Rain Coat (Industrial);No variantName;1130.00
+CPWSVR;Safety Vest (Reflective);No variantName;990.00
+CPWWBC&L;Water Boot (Calf Length) and Laced Boots;No variantName;3000.00
+CPWWBK;Water Boot;(knee length);3500.00
+CPWWBKST;Water Boot; Knee Lenght Steel Toe;4000.00
+CSCF;Chinese Slippers (Female);No variantName;100.00
+DUP;RFZ7 Zinc 7';No variantName;3810.00
+ELALNB;Amp Lug Nut and Bolt;No variantName;160.00
+ELALS;Amp Lug Solderless ;70A;700.00
+ELALS125;Amp Lug Solderless ;125A;1100.00
+ELALS175;Amp Lug Solderless ;175A;1400.00
+ELALS225;Amp Lug Solderless ;225A;2125.00
+ELALS300;Amp Lug Solderless ;300-500A;3640.00
+ELAPC;Appliance Power Cord;No variantName;125.00
+ELB;Regular Light Bulbs;No variantName;100.00
+ELB100ADP;Breaker; 100 Amp Double Pole;3500.00
+ELB15DP;Breaker; 15amp DP;1750.00
+ELB15DU;Breaker; 15amp Duplex;3900.00
+ELB15SP;Breaker; 15A SP;760.00
+ELB20ADP;Breaker; 20 Amp DP;2200.00
+ELB20ADU;Breaker; 20 Amp Duplex;3950.00
+ELB20AGFCI;GFCI Breaker 20a Single Pole;No variantName;15200.00
+ELB20ASP;Breaker; 20 Amp SP;780.00
+ELB30SP;Breaker; 30A SP;780.00
+ELB3OADP;Breaker; 30A DP;2600.00
+ELB40ADP;Breaker; 40 Amp Double Pole;2800.00
+ELB40ASP;Breaker; 40A SP;850.00
+ELB50ADP;Breaker; 50 Amp DP;2900.00
+ELB60DP;Breaker; 60a Double Pole;3000.00
+ELB70DP;Breaker; 70 Amp Double Pole;3300.00
+ELBB2W20M;BASA Box 2 Way; 20mm;130.00
+ELBB3W20M;Besa Box 3 Way; 20mm;160.00
+ELBB3W25M;Basa Box 3 Way; 25mm;180.00
+ELBB4W20M;Besa Box 4 Way; 20mm;200.00
+ELBB4W25M;Besa Box 4 Way; 25mm;220.00
+ELBBC;Besa Box Covers;No variantName;50.00
+ELBBIW20M;Basa Box 1 Way; 20mm;120.00
+ELBCR;Regular Bulb (Coloured);No variantName;120.00
+ELBF20W;Florescent Bulb Energy Saver; 20W;500.00
+ELBF23W;Florescent Bulb Energy Saver; 23W;550.00
+ELBF26W;Florescent Bulb Energy Saver; 26W;580.00
+ELBF36W;Florescent Bulb Energy Saver; 36W;600.00
+ELBFCR;Circular Florescent Bulb (Refill);No variantName;565.00
+ELBFL;Flood Light Bulb;No variantName;690.00
+ELBFLB;Flash Light Bulb;No variantName;40.00
+ELBFLLED;LED Flood Light Bulb;No variantName;2800.00
+ELBFRBC;Circular Florescent Recp & Bulb;No variantName;875.00
+ELBLED;LED Bulb;No variantName;500.00
+ELBLEDT2;LED Tube; 2';850.00
+ELBLEDT4;LED Tube; 4';1500.00
+ELBN25;Bonding Nipples; 25mm;180.00
+ELBN20;Bonding Nipples; 20mm;100.00
+ELBN32MM;Bonding Nipples; 32mm;210.00
+ELBN38;Bonding Nipples; 38mm;220.00
+ELBNL;Night Light Bulbs;No variantName;45.00
+ELBS9VDE; Duracell Battery; 9 Volt Duracell;500.00
+ELBSAAADE;Duracell Battery; AAA Duracell;130.00
+ELBSAADE;Duracell Battery; AA Duracell;140.00
+ELBSCDE;Duracell Battery; Size C Duracell;250.00
+ELBSDDE;Duracell Battery; Size D Duracell;280.00
+ELBS9VDE;Energizer Battery; 9 Volt Energizer;500.00
+ELBSAAADE;Energizer Battery; AAA Energizer;130.00
+ELBSAADE;Energizer Battery; AA Energizer;140.00
+ELBSCDE;Energizer Battery; Size C Energizer;250.00
+ELBSDDE;Energizer Battery; Size D Energizer;280.00
+ELBSCPD;Duracell Battery Carging Pack;No variantName;5000.00
+ELC20;Electrical Conduit; 20mm;340.00
+ELC25;Electrical Conduit; 25mm;400.00
+ELC32mm;Electrical Conduit; 32mm;600.00
+ELC38mm;Electrical Conduit; 38mm;880.00
+ELC50;Electrical Conduit; 50mm;1400.00
+ELCB20M;Electrical Bend; 20m;140.00
+ELCB25M;Electrical Bend; 25mm;170.00
+ELCB32mm;Electrical Bend; 32mm;230.00
+ELCB38mm;Electrical Bend; 38mm;280.00
+ELCB50mm;Electrical Bend; 50mm;550.00
+ELCBL;Connector Bars; (large);30.00
+ELCBS;Connector Bars; (small);20.00
+ELCC20;Electrical Conduit Coupling; 20mm;35.00
+ELCC25;Electrical Conduit Coupling; 25mm;45.00
+ELCC32mm;Electrical Conduit Coupling; 32mm;85.00
+ELCC38mm;Electrical Conduit Coupling; 38mm;100.00
+ELCC50;Electrical Conduit Copling; 50 mm;125.00
+ELCCOGS5;5 Gang Switch Cover;No variantName;800.00
+ELCE;Cable Ends;No variantName;45.00
+ELCS2W;2 Way Cable Splitter;No variantName;190.00
+ELCS3W;3 Way Cable Splitter;No variantName;215.00
+ELCWT10;Wire Twist Connector; 10-20amps;35.00
+ELCWT40A;Wire Twist Connector;40amp;40.00
+ELDBM4X4;Draw Box; 4x4 Metal;880.00
+ELDBM6X6;Draw Box; 6X6 Galvonized....;1540.00
+ELDBP10X12;Draw Box;PVC 10X12;4500.00
+ELDBP4X4;Draw Box; PVC 4X4;1400.00
+ELDBP6X6;Draw Box; PVC 6X6;2800.00
+ELDT;Danger Tag;No variantName;190.00
+ELE20M;Electrical Ends; 20mm;55.00
+ELE25M;Electrical Ends; 25mm;90.00
+ELE32M;Electrical Ends; 32mm;200.00
+ELEC2P12;Extention Cord; 12' (2 Pin);750.00
+ELEC2P15;Extention Cord; 15' (2 Pin);950.00
+ELEC2P20;Extention Cord; 20' (2 Pin);1085.00
+ELEC3P12;Extention Cord; 12 ft (3 Pin);1150.00
+ELEC3P15;Extention Cord; 15 ft (3 pin);1500.00
+ELEC3P20;Extention Cord; 20 ft (3 Pin);1300.00
+ELECO100;Extention Cord; 100' Outdoor;5800.00
+ELECO50;Extention Cord; 50' Outdoor;4500.00
+ELECPS6O;Extention Cord; with 6 Outlet Power Strip;1850.00
+ELECSE4OSP;Extention Cord; with 4 Outlet Surge Protector;4900.00
+ELECTL;Extention Cord Trouble Light;No variantName;4300.00
+ELERC;Earth Rod; Clamp;330.00
+ELERC4;Earth Rod; Copper 4';2600.00
+ELERG4;Earth Rod; Galvonized 4';2800.00
+ELFCCD1G;1 Gang Switch Cover Decora;No variantName;170.00
+ELFCCD2G;2 Gang Switch Cover Decora;No variantName;200.00
+ELFCCD3G;3 Gang Switch Cover Decora;No variantName;265.00
+ELFCCD4G;4 Gang Switch Cover Decora;No variantName;320.00
+ELFCCD5G;5 Gang Switch Cover Decora;No variantName;375.00
+ELFCCOGS1;1 Gang Switch Cover;No variantName;70.00
+ELFCCOGS2;2 Gang Switch Cover;No variantName;190.00
+ELFCCOGS3;3 Gang Switch Cover;No variantName;230.00
+ELFCCOGS4;4 Gang Switch Cover;No variantName;290.00
+ELFCCOGS5;5 Gang Switch Cover;No variantName;350.00
+ELFCDB4;Draw Box 4x4 covers;No variantName;140.00
+ELFCOBC;Octogonal Box Covers;No variantName;100.00
+ELFCSCM;Socket Cover; (Metal);120.00
+ELFCSCP;Socket Cover; Plastic (All Single);100.00
+ELFCT;Telephone Flush Cover Assembly;No variantName;200.00
+ELFCT&C;Telephone & Cable Flush Cover Assembly;No variantName;275.00
+ELFES;Female Extention Socket;No variantName;175.00
+ELFG21P;Fridge Guard; Large;4300.00
+ELFGS;Fridge Guard; Super;5000.00
+ELFSCWP;Socket Cover Weather Proof;No variantName;510.00
+ELGN/T;Grease Tube (Grease Nipple);No variantName;330.00
+ELGS;Grounding Screws;No variantName;15.00
+ELHB;Handy Box (Metal);No variantName;240.00
+ELHBPVC;Handy Box (PVC);No variantName;250.00
+ELJBS;Junction Box Small;No variantName;350.00
+ELJPC;Jack Plug Connector;No variantName;440.00
+ELJTP;Telephone Jack (Wall Mounted);No variantName;230.00
+ELJTPE2W;Telephone Jack Expander; 2way;190.00
+ELJTPE3W;Telephone Jack Expander; 3way;190.00
+ELJVHSC;VHS Cable Jack;No variantName;475.00
+ELMAPL;Map Light;No variantName;200.00
+ELMB3-4GDPVC;Mem Box 3-4 Gang; (Double Mem) PVC;480.00
+ELMB3-4GM;Mem Box 3-4 Gang; 9 (Double Mem) Metal;390.00
+ELMB3-4GPVC;Mem Box Single; (PVC);300.00
+ELMBS;Mem Box Single; (Metal) 110v;230.00
+ELMDL;Motion Detector Light;No variantName;7900.00
+ELMP2;Male Plug; 2 Pin;250.00
+ELMP3;Male Plug; 3 Pin;400.00
+ELMS100A;Meter Socket; 100 Amp;2580.00
+ELMS200A;Meter Socket; 200 Amp;8250.00
+ELNE5E;Network Ends;No variantName;80.00
+ELOBC;One Bolt Clamp;No variantName;490.00
+ELOBM;Octagonal Box; (Metal);240.00
+ELOBPVC;Octagonal Box; (PVC);270.00
+ELPB12;Panel Box; 12 Way;9800.00
+ELPB16W;Panel Box; 16 Way;15300.00
+ELPB20W;Panel Box; 20 Way;18000.00
+ELPB24W;Panel Box; 24 Way;20000.00
+ELPB32W;Panel Box; 32 Way;27000.00
+ELPB4;Panel Box; 4 Way;3000.00
+ELPB6;Panel Box; 6 Way;3700.00
+ELPB8;Panel Box; 8 Way;6500.00
+ELPBP36W;Panel Box; 3Phase (6 Way);17780.00
+ELPCB;Photo Cell; Botton;1400.00
+ELPCT;Photo Cell; Top;1670.00
+ELPH1;Pot Head; 1'';550.00
+ELPH112;Pot Head; 11/2'';900.00
+ELPH114;Pot Head; 11/4'';750.00
+ELPH34;Pot Head; 3/4'';500.00
+ELPS112;Pipe Straps; 38mm or 11/2'';65.00
+ELPS114;Pipe Straps; 32mm or 1'';55.00
+ELPS2;Pipe Straps; 50mm or 2'';75.00
+ELPS20MM;Pipe Straps; 20mm or 1/2'';35.00
+ELPS25MM;Pipe Straps; 25mm or 3/4;45.00
+ELRBB;Broad Base Reciptacle (regular);No variantName;375.00
+ELRBBPwC;Porcelain Receptacle with chain;No variantName;550.00
+ELRBBS;Broad Based Reciptacle Shrowded;No variantName;400.00
+ELRBBWC;Recipticle Broad Base w/chain;No variantName;380.00
+ELRFDL2;Florescent Receptacle; Double 2';3220.00
+ELRFDL4;Florescent Receptacle; Double 4';4295.00
+ELRFSL2;Florescent Receptacle; Single 2';2855.00
+ELRFSL4';Florescent Receptacle; Single 4';3585.00
+ELRPC;Receptacle pull Chain;No variantName;250.00
+ELRPI;Plug In Recepticle;No variantName;150.00
+ELRSAWB;Stand alone Reciptacle with Bulb;No variantName;565.00
+ELSA;Socket Adapter;No variantName;110.00
+ELSB4X4;Square Box 4x4;No variantName;195.00
+ELSC2-3W;2 To 3 Way Socket Converter;No variantName;200.00
+ELSD;Dimmer Switch;No variantName;990.00
+ELSE6W;6 Way Socket Expander;No variantName;660.00
+ELSF;Flush Socket;No variantName;300.00
+ELSF7/11;Flush Switch; 7/11;500.00
+ELSF7/11D;Flush Switch; 7/11 Decora;1700.00
+ELSFD; Flush Switch; Double Pole;350.00
+ELSFDD;Flush Switch; Decora Double;660.00
+ELSFS;Flush Switch; Single Pole;280.00
+ELSFSD;Flush Switch; Decora Single;495.00
+ELSFDe;Flush Socket Decora;No variantName;450.00
+ELSFGFCIP;GFI Plug Socket;No variantName;4500.00
+ELSOS3WSDFMB;3 Way Socket (Double);No variantName;1800.00
+ELSOS3WSDwS;3 Way Socket for Mem Box (Double) w switch;No variantName;1960.00
+ELSOS3WSDwSFMB;3 Way Socket w/switch & p light (Double);No variantName;2100.00
+ELSOS3WSSFMB;3 Way Socket for Mem Box (Single);No variantName;950.00
+ELSOS3WSwPLFMB;3 Way Socket w/switch & pilot light (Single);No variantName;1200.00
+ELSOS3WSwSFMB;3 Way Socket w/Switch (Single);No variantName;1100.00
+ELSOSHSDFMB;Heater Switch for Mem Box ;(Double);4900.00
+ELSOSHSSFMB;Heater Switch for Mem Box ;(Single);3100.00
+ELSOSSSFMB;Single Switch for Mem Box (Single);No variantName ;950.00
+ELSOSSSFMB2s;Double Switch for Single Mem (2 switches);No variantName;1000.00
+ELSP40;Surge PRO 4 OUTLET;No variantName;5600.00
+ELSPS;Surface Plug Socket;No variantName;330.00
+ELSPT;Pig Tail Socket;No variantName;245.00
+ELSS;Surface Switch;No variantName;275.00
+ELSS3OB;Swivel Socket 3 Outlet Base;No variantName;450.00
+ELSSO;Swivel Socket Outdoor;No variantName;560.00
+ELT16X16;Trunking; 16x16mm;750.00
+ELT16X25;Trunking; 16x25mm;950.00
+ELT25X38;Trunking; 25x38mm;1650.00
+ELTAPE34;Electrical Tape; 3/4'';240.00
+ELTC;Electrical Tape; (Coloured);250.00
+ELTC15;Tower Clip; 1.5mm;350.00
+ELTC25;Tower Clip; 2.5mm;390.00
+ELTCC;Telephone Coiled Cord;No variantName;275.00
+ELTPC15;Telephone Cord; 15';275.00
+ELTPC25;Telephone Cord; 25';375.00
+ELTVA;T.V.Antenna;No variantName;2685.00
+ELTVPOA;Push on TV Antenna Adapter;No variantName;250.00
+ELW#6T;Wire # 6 Twisted;No variantName;250.00
+ELW10MM;Wire 10mm Single (red:black:yellow:green) (ft) $53700 per roll;No variantName;185.00
+ELW16MM;Wire 16mm Single (red:black:yellow:green) (ft) $57850 per roll;No variantName;330.00
+ELWBC2.5MM;Wire Bare Copper; 2.5mm;25.00
+ELWBC6MM;Wire Bare Copper; 6mm;70.00
+ELWBRL;Wood Block Round; (Large);275.00
+ELWBRs;Wood Block Round; (Small);165.00
+ELWBS;Wood Block Square;No variantName;250.00
+ELWC;Wall Case (Sectional Box);No variantName;240.00
+ELWCAT5N;Cat 5 / Network wire;No variantName;75.00
+ELWCB;Wire Cable (ft) RG-6;No variantName;85.00
+ELWCP;Wire Connectors Plastic;No variantName;25.00
+ELWHDI;Wire Holder; D Iron;2290.00
+ELWHPR;Wire Holder; Pipe Rider;1950.00
+ELWHR;Wire Holder; Regular;795.00
+ELWR2.53C;3 Core Wire;2.5mm(ft);120.00
+ELWR6-3C;3 Core Wire;6mm(ft);200.00
+ELWS;Wire Soldering (tube);No variantName;275.00
+ELWS1.5MMS;Wire 1.5mm; Single (red:black:yellow:green) (ft) $8500 per roll;30.00
+ELWS2.5MMS;Wire 2.5mm; Single (red:black:yellow:green) (ft) $9500per roll;35.00
+ELWS6MM;Wire 6mm; Single (red:black:yellow:green) (ft) $29300 per roll;100.00
+ELWSF;Soldering Wire (ft);No variantName;45.00
+ELWT.75mm;Wire .75mm Twin (Speakeror Bell Wire);No variantName;50.00
+ELWT1.5mm;Twin Flat Wire; 1.5mm (ft) $22000 per roll;70.00
+ELWT2.5;Twin Flat Wire;2.5mm (ft) $24500 per roll;95.00
+ELWTE1.5;Twin Flat Wire; 1.5mm with earth (ft) $25000 per roll;100.00
+ELWTE2.5;Twin Flat Wire; 2.5mm with earth (ft) $29700 per roll;110.00
+ELWTP2P;Telephone Wire; 2 Pair (ft);30.00
+ELWTP3P;Telephone Wire; 3 Pair (ft);40.00
+ELWTV;Wire Antenna (ft);No variantName;50.00
+FTB1/4X1;Bolt; 1/4 x 1;7.00
+FTB1/4X11/2;Bolt; 1/4 x 11/2;10.00
+FTB1/4X3/4;Bolt; 1/4 x 3/4;7.00
+FTB12X6wN;Bolt; 1/2 ''x 6'' w/nut;90.00
+FTB14X2;Bolt; 1/4 x 2;15.00
+FTB3/8X1;Bolt; 3/8 x 1;20.00
+FTB3/8x11/2;Bolt; 3/8 x11/2;35.00
+FTB3/8X2;Bolt; 3/8 x 2;30.00
+FTB5/16X1;Bolt; 5/16 x 1;30.00
+FTB5/16X11/2;Bolt; 5/16 x 11/2;35.00
+FTB5/16X2;Bolt; 5/16 x 2;25.00
+FTB6X16MM;Bolt; 6 x 16mm;15.00
+FTB6X25MM;Bolt; 6x 25mm;25.00
+FTB6X30MM;Bolt; 6x 30 mm;30.00
+FTB6X40MM;Bolt; 6 x 40mm;30.00
+FTB7/16X112;Bolt; 7/16 x 11/2;35.00
+FTB8X100MM;Bolt; 8 x 100mm;140.00
+FTB8X20MM;Bolt; 8 x 20mm;35.00
+FTB8X40MM;Bolt; 8 x 40mm;35.00
+FTBCB1/2;Centre Bolt for Trucks; 1/2 x 10;1500.00
+FTBCB5/8;Centre Bolt for Trucks; 5/8 x 12;1950.00
+FTBCB7/16;Centre Bolt for Trucks; 7/16 x 10;1000.00
+FTBCH;Chain Link Fence Bolts;No variantName;15.00
+FTBL14X1;Log Bolt; 1/4 x 1;10.00
+FTBL14X112;Log Bolt; 1/4 x 11/2;15.00
+FTBL14X2;Log Bolt; 1/4 x 2;20.00
+FTBL14X3;Log Bolt; 1/4 x 3;25.00
+FTBL3/8X4;Log Bolt; 3/8 x 4;0.00
+FTBL38X112;Log Bolt; 3/8 X 11/2;25.00
+FTBL38X2;Log Bolt; 3/8 x 2;30.00
+FTBL38X212;Log Bolt; 3/8 X 21/2;30.00
+FTBL38X4;Log Bolt; 3/8 x 4;45.00
+FTBL516X112;Log Bolt; 5/16 x 11/2;15.00
+FTBL516X2;Log Bolt; 5/16 x 2;20.00
+FTBL516X212;Log Bolt; 5/16 x 21/2;25.00
+FTBL516X4;Log Bolt; 5/16 x 4;25.00
+FTBWSL;Barb Wire Staples; (Large);280.00
+FTBWSS;Barb Wire Staples; (Small);300.00
+FTCTL;Tie Strap/Cable Ties; (Large);25.00
+FTCTM;Tie Strap/Cable Ties; (Medium);20.00
+FTCTS;Tie Strap/Cable Ties; (Small);10.00
+FTFT;Furniture Tacks (pk);No variantName;300.00
+FTNBGCLF114x5/16;Galvonized Nut and Bolt for Chain Link Fence 11/4 x ...;No variantName;100.00
+FTNC1;Concrete Nails; 1'';370.00
+FTNC1.5;Concrete Nails; 1.5'';370.00
+FTNC2;Concrete Nails; 2'';370.00
+FTNC2.5;Concrete Nails; 2.5'';370.00
+FTNC3;Concrete Nails; 3'';370.00
+FTNC4;Concrete Nails; 4'';400.00
+FTND;Decra Tile Roof Nails;No variantName;520.00
+FTNF1;Finishing Nails; 1'' (Brads);300.00
+FTNF1.5;Finishing Nails; 1.5'';280.00
+FTNF2;Finishing Nails; 2'';300.00
+FTNF2.5;Finishing Nails; 2.5'';300.00
+FTNF3'';Finishing Nails; 3'';300.00
+FTNG2;Galvanized Nails; 2'';350.00
+FTNG2.5;Galvanized Nails; 2.5'';350.00
+FTNG3;Galvanized Nails; 3'';350.00
+FTNG4;Galvanized Nails; 4'';350.00
+FTNH1.5;Head Nail; 1.5'';250.00
+FTNH2;Head Nail; 2'';220.00
+FTNH4;Head Nail; 4'';300.00
+FTNH1;Head Nails; 1'';250.00
+FTNH3;Head Nails; 3'';220.00
+FTNH2.5;Head Nails; 2.5'';220.00
+FTNUT1/4;Nut; 1/4;5.00
+FTNUT3/8;Nut; 3/8;10.00
+FTNUT5/16;Nut; 5/16;5.00
+FTNUT6MM;Nut; 6mm;10.00
+FTNUT7/16;Nut; 7/16;15.00
+FTNUT8MM;Nut; 8mm;15.00
+FTNZ;Zinc Nails;No variantName;370.00
+FTR18;Rivets 1/8'';No variantName;5.00
+FTRB.25X2;Rawl Bolt; 1/4 x 2'';65.00
+FTRB.25X2.5;(M6) Rawl Bolt; 1/4 x 2.5 (M6);65.00
+FTRB.38x3;(M10) Rawl Bolt; .38 x 3 (M10);150.00
+FTRB.5x4;(M12) Rawl Bolt; .5 x 4 (M12);180.00
+FTRB5/16x2.5;(M8) Rawl Bolt; 5/16 x 2.5 (M8);85.00
+FTS-LB;Screws; 1/2'' L/B;50.00
+FTS-LJ;Screws; 11/4'' L/J (1doz);50.00
+FTS.25-1.5;Screws; .25-1.5'' Wood (1doz);50.00
+FTS2'';Screws; 2'' Wood;65.00
+FTS3'';Screws; 3'';65.00
+FTSC1;Concrete Screws; 1'';30.00
+FTSC2.25'';Concrete Screws; 2 .25'';35.00
+FTSC2.75'';Concrete Screws; 2.75'';40.00
+FTSC3.25'';Concrete Screws; 3.25'';45.00
+FTSC3.75;Concrete Screws; 3.75'';50.00
+FTSC4;Concrete Screws; 4'';55.00
+FTSDW1;Dry Wall Screws; 1'' (doz);50.00
+FTSDW1.5;Dry Wall Screws; 1.5'';70.00
+FTSDW2;Dry Wall Screws; 2'' (doz);80.00
+FTSDW2.5'';Dry Wall Screws; 2.5'';90.00
+FTSDW3;Dry Wall Screws; 3'';100.00
+FTSST10X112;Self Tapping; 10 x 11/2;5.00
+FTSST10x12;Self Tapping; 10 x 1/2;5.00
+FTSST10X34;Self Tapping; 10 x 3/4;5.00
+FTSST12X1;Self Tapping; 12x 1;6.00
+FTSST12X112;Self Tapping; 12 x 11/2;7.00
+FTSST12x34;Self Tapping; 12x3/4;5.00
+FTSST12X58;Self Tapping; 12 x 5/8;5.00
+FTSST14X34;Self Tapping; 14 x 3/4;5.00
+FTSST6X1;Self Tapping; 6 x 1;5.00
+FTSST6X114;Self Tapping; 6x 11/4;5.00
+FTSST6X12;Self Tapping; 6x 1/2;5.00
+FTSST6X34;Self Tapping; 6x3/4;5.00
+FTSST8X1;Self Tapping; 8 x1;5.00
+FTSST8X112;Self Tapping; 8 x 11/2;5.00
+FTSST8X34;Self Tapping; 8 x 3/4;5.00
+FTSST8X58;Self Tapping; 8x5/8;5.00
+FTSZ;Zinc Screws;No variantName;35.00
+FTUS38&12;Upholstry Staples 3/8 & 1/2'';No variantName;800.00
+FTWF1/4;Flat Washer; 1/4;5.00
+FTWF3/8;Flat Washer; 3/8;5.00
+FTWFLM;Flat Large Washer (large);No variantName;10.00
+FTWHG;Giant Wall Hooks;No variantName;170.00
+FTWL;Lock Washer; 3/8;7.00
+FTWL1/2;Lock Washer; 1/2;7.00
+FTWL1/4;Lock Washer; 1/4;5.00
+FTWP;Wall Plug;No variantName;5.00
+FXBB2.5;Barrel Bolt; 2.5'' Brass;325.00
+FXBB2C;Barrel Bolt; 2'' Chrome;300.00
+FXBB3B;Barrel Bolt; 3'' Brass;400.00
+FXBB3C;Barrel Bolt; 3'' Chrome;410.00
+FXBB4B;Barrel Bolt; 4'' Brass;500.00
+FXBB4C;Barrel Bolt; 4'' Chrome;550.00
+FXCHP;Cupboard Handle Pull;No variantName;205.00
+FXCHPP;Cupboard Handle Pull; (porcelain);340.00
+FXCHPW;Cupboard Handle Pull; (wood);255.00
+FXCK;Cupboard Knobs;No variantName;135.00
+FXCKP;Cupboard Knobs; (porcelain);145.00
+FXCRC;Cupboard Roller Catch;No variantName;75.00
+FXCS;Casement Stays;No variantName;340.00
+FXDBi;Bi- Fold Doors;No variantName;10000.00
+FXDC;Pine Wood Cathedral Door;No variantName;27500.00
+FXDH28ply;Ply Door; 28 (Hollow);8200.00
+FXDH30ply;Ply Door; 30 (hollow);8200.00
+FXDH32ply;Ply Door; 32 (hollow);8200.00
+FXDH36ply;Ply Door; 36 (Hollow);8200.00
+FXDHfab28;Door Hollow; Fabricated 28'';12500.00
+FXDHfab30;Door Hollow; Fabricated 30'';12500.00
+FXDHfab32;Door Hollow; Fabricated 32'';12500.00
+FXDHfab36;Door Hollow; Fabricated 36'';12500.00
+FXDHFD;Half French Door;No variantName;25000.00
+FXDHFWP30;Door Hollow Fabricated White Panel; 30'';13000.00
+FXDHFWP32;Door Hollow Fabricated White Panel; 32'';13000.00
+FXDHFWP36;Door Hollow Fabricated White Panel; 36'';13000.00
+FXDM30;Metal Panel Door; 30;23500.00
+FXDM32;Metal Panel Door; 32'';23500.00
+FXDM36;Metal Panel Door;  36'';23500.00
+FXDMC30;Metal Cathedral Door; 30'';32500.00
+FXDMC32;Metal Cathedral Door; 32'';32500.00
+FXDMC36;Metal Cathedral Door; 36'';32500.00
+FXDMWOG;Metal Door with Oval Glass;No variantName;58000.00
+FXDO;Grand Olympia Door;No variantName;33050.00
+FXDP30;Pine Panel Door; 30'' (Wood);19860.00
+FXDP32;Pine Panel Door; 32'' (Wood);19860.00
+FXDP36;Pine Panel Door; 36'' (Wood);19860.00
+FXDS;Door Stop;No variantName;600.00
+FXDS14;Draw Slides; 14'';380.00
+FXDS16;Draw Slides; 16'';440.00
+FXDS18;Draw Slides; 18'';500.00
+FXDSB16;Draw Slides; (with bearings) 16";1050.00
+FXDSB18;Draw Slides; (with bearings) 18";1100.00
+FXDSM;Strips for bottom of metal doors (Door Sweeps);No variantName;1500.00
+FXDVJ30;V.Joint Door; 30'';15000.00
+FXDVJ32;V.Joint Door; 32'';15000.00
+FXDVJ36;V.Joint Door; 36'';11000.00
+FXGD;Dresser Mirror Glass;No variantName;2150.00
+FXGW;Wardrobe Glass;No variantName;2150.00
+FXHB1.5;Hinge Brass; 1.5'';130.00
+FXHB2.5;Hinge Brass; 2.5'';150.00
+FXHB3;Hinge Brass; 3'';380.00
+FXHBHD4;Hinge Brass; Heavy Duty 4'';450.00
+FXHBHD4F;Hinge 4" Fancy;No variantName;800.00
+FXHCa;Cupboard Hinge (all);No variantName;250.00
+FXHCAC;Concealed Hinges;No variantName;300.00
+FXHHD3;Hinge Heavy Duty; 3'';300.00
+FXHHD4;Hinge Heavy Duty; 4''';350.00
+FXHL112;Light Hinge; 11/2'';120.00
+FXHL2;Light Hinge; 2'';150.00
+FXHL3;Light Hinge; 3'';130.00
+FXHL4;Light Hinge; 4'';200.00
+FXHLB212;Light Brass Hinge 21/2'';No variantName;150.00
+FXHPg;Handle Pull (General);No variantName;700.00
+FXHPm;Door Handle Pulls (Metal);No variantName;1600.00
+FXHS2.5HD;Hasp and Staple; 2.5 Heavy Duty;350.00
+FXHS2.5L;Hasp and Staple; 2.5''L;220.00
+FXHS2HD;Hasp and Staple; 2'' H/D;270.00
+FXHS3HD;Hasp and Staple; 3 H/D;400.00
+FXHS3L;Hasp and Staple; 3 (light);220.00
+FXHS4.5HD;Hasp and Staple; 4.5'' (H/D);450.00
+FXHS4L;Hasp and Staple; 4''(light);300.00
+FXHS6HD;Hasp and Staple; 6'' (H/D);550.00
+FXHS6L;Hasp and Staple; 6'' (light);285.00
+FXHT8;Tee Hinge 8'';No variantName;680.00
+FXLB;Bathroom (Lockless Handle);No variantName;1000.00
+FXLBG24'';Louvre Blade Glass; 2';315.00
+FXLBG30'';Louvre Blade Glass; 2' 6'';350.00
+FXLBGUV;Louvre Glass (Used Various Sizes);No variantName;300.00
+FXLBW24'';Louvre Blade Wood; 24'';395.00
+FXLBW30'';Louvre Blade Wood; 30'';425.00
+FXLBW36;Louvre Blade Wood; 36'';455.00
+FXLCLS;Combo Lockset;No variantName;3500.00
+FXLD;Dead Bolt;No variantName;1850.00
+FXLDas;Drawer Lock; 1/2'';500.00
+FXLDas;Drawer Lock; 3/4'';500.00
+FXLDas;Drawer Lock; 5/8'';500.00
+FXLDas;Drawer Lock; 7/8'';500.00
+FXLE;Entrance Lock;No variantName;1890.00
+FXLJG4;Louvre Jam 4 Blade Glass;No variantName;2195.00
+FXLJG7;Louvre Jam 7 Blade Glass;No variantName;2690.00
+FXLJG8;Louvre Jam 8 Blade Glass;No variantName;2875.00
+FXLJG9;Louvre Jam 9 Blade Glass;No variantName;3275.00
 FXLJS4'';Louvre Spacer 4'';540.00
 FXLJS6'';Louvre Spacer 6'';550.00
 FXLJW11;Louvre Jam 11 Blade Wood;2215.00

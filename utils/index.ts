@@ -26,6 +26,11 @@ const categoryMap = {
   TO: "Tools", // shopifyProductTaxonomy.key2516: `Hardware > Tools`,
   WP: "Wood Products / Lumber / Plyboards", //   key2222: `Hardware > Building Materials > Lumber & Sheet Stock`,
 }
+const optionMap = {
+  title: "title",
+  size: "size",
+  color: "color",
+}
 export function assignCategory(category: string): string {
   let assignedCategory = ""
   if (category === "FTB") {
@@ -117,4 +122,10 @@ export function assignCategory(category: string): string {
       assignedCategory = "No Category Found"
   }
   return assignedCategory
+}
+
+export function determineOptionName(value: string): string {
+  let assignedOptionName = ""
+
+  return assignedOptionName
 }

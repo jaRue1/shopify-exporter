@@ -3,7 +3,8 @@ import { assignCategory } from "../utils"
 console.log("Shopify Exporter Initialized")
 
 // Read the input text file
-const inputText = fs.readFileSync("../import/ideal-format.txt", "utf-8")
+const inputText = fs.readFileSync("../tests/import.txt", "utf-8")
+// const inputText = fs.readFileSync("../import/ideal-format.txt", "utf-8")
 console.log("reading input.txt file")
 
 // Split the input text into lines
@@ -56,7 +57,9 @@ for (const [index, line] of lines.entries()) {
 }
 
 // Write the output CSV to a file
-fs.writeFileSync("../export/export.csv", outputCsv)
+// fs.writeFileSync("../export/export.csv", outputCsv)
+fs.writeFileSync("../tests/output.csv", JSON.stringify(outputCsv)) // for testing
+
 console.log("Export to output.csv complete.")
 
 //  A/C: I need to format the data before I can use it. Which means I need to read the raw data write it to a txt file in the correct order (format)
