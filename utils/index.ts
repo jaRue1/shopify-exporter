@@ -1,35 +1,34 @@
+import { shopifyProductTaxonomy } from "./shopify"
+// 1 - 323 (Adhesive, Agricultural, Bicycle parts) Batch 1
+// 324 - 591 (Child Clothing, Medial Clothing, Worksite Clothing, Shoes, Roofing, Electrical) Batch 2
+// 592 - 831 (Fasteners,Nuts & Bolts,Nails, Fixtures) Batch 3
 const categoryMap = {
-  AD: "Adhesive", // shopifyProductTaxonomy.key2183: `Hardware > Building Consumables > Hardware Glue & Adhesives`,
-  AG: "Agricultural", // shopifyProductTaxonomy.key3038: `Home & Garden`
-  AU: "Automotive", // shopifyProductTaxonomy.key5352: `Vehicles & Parts`
-  BP: "Bicycle parts", //  shopifyProductTaxonomy.key4890: `Sporting Goods > Outdoor Recreation > Cycling > Bicycle Parts > Bicycle Brake Parts`,
-  CD: "Child Clothing", // shopifyProductTaxonomy.key148: `Apparel & Accessories > Clothing > Baby & Toddler Clothing`,
-  CM: "Medical Clothing", // shopifyProductTaxonomy.key1153: `Business & Industrial > Work Safety Protective Gear > Protective Masks`,
-  CP: "Worksite Clothing", // shopifyProductTaxonomy.key1146: `Business & Industrial > Work Safety Protective Gear`,
-  CS: "Chinese Clothing", // shopifyProductTaxonomy.key352: `Apparel & Accessories > Shoes`,
-  DU: "Roofing", // shopifyProductTaxonomy.key2225: `Hardware > Building Materials > Roofing`,
-  EL: "Electrical", //   shopifyProductTaxonomy.key2416: `Hardware > Power & Electrical Supplies`,
-  FT: "Fasteners", //   shopifyProductTaxonomy.key2283: `Hardware > Hardware Accessories > Hardware Fasteners`,
-  FTB: "Bolts", // shopifyProductTaxonomy.key2286: `Hardware > Hardware Accessories > Hardware Fasteners > Nuts & Bolts`
-  FTN: "Nails", // shopifyProductTaxonomy.key2285: `Hardware > Hardware Accessories > Hardware Fasteners > Nails`,
-  FX: "Fixtures", //  shopifyProductTaxonomy.key2170: `Hardware`,
-  HH: "House Hold Items", // shopifyProductTaxonomy.key3303: `Home & Garden > Household Supplies`,
-  MS: "Misalliance Items / Multi Purpose Items", // shopifyProductTaxonomy.key3303: `Home & Garden > Household Supplies`,
-  MT: "Motor Tools", //   shopifyProductTaxonomy.key5352: `Vehicles & Parts`,
-  MW: "Metal Work", // shopifyProductTaxonomy.key2170: `Hardware`,
-  PA: "Paint", //  shopifyProductTaxonomy.key2191: `Hardware > Building Consumables > Painting Consumables > Paint`,
-  PB: "Plumbing", //   shopifyProductTaxonomy.key2335: `Hardware > Plumbing`,
-  RF: "Roofing", //   shopifyProductTaxonomy.key2225: `Hardware > Building Materials > Roofing`,
-  RM: "Raw Materials", // shopifyProductTaxonomy.key2201: `Hardware > Building Materials`,
-  SH: "Second Hand Items (Used)", //  shopifyProductTaxonomy.key2170: `Hardware`,
-  TI: "Tiling", // shopifyProductTaxonomy.key2229: `Hardware > Building Materials > Roofing > Roofing Shingles & Tiles`,
-  TO: "Tools", // shopifyProductTaxonomy.key2516: `Hardware > Tools`,
-  WP: "Wood Products / Lumber / Plyboards", //   key2222: `Hardware > Building Materials > Lumber & Sheet Stock`,
-}
-const optionMap = {
-  title: "title",
-  size: "size",
-  color: "color",
+  AD: shopifyProductTaxonomy.key2183, //Adhesive
+  AG: shopifyProductTaxonomy.key3038, // Agricultural
+  AU: shopifyProductTaxonomy.key5352, // Automotive
+  BP: shopifyProductTaxonomy.key4890, // Bicycle parts
+  CD: shopifyProductTaxonomy.key148, // Child Clothing
+  CM: shopifyProductTaxonomy.key1153, // Medial Clothing
+  CP: shopifyProductTaxonomy.key1146, // Worksite Clothing
+  CS: shopifyProductTaxonomy.key352, // Shoes
+  DU: shopifyProductTaxonomy.key2225, // Roofing
+  EL: shopifyProductTaxonomy.key2416, // Electrical
+  FT: shopifyProductTaxonomy.key2283, // Fasteners
+  FTB: shopifyProductTaxonomy.key2286, // Nuts & Bolts
+  FTN: shopifyProductTaxonomy.key2285, // Nails
+  FX: shopifyProductTaxonomy.key2170, // Fixtures
+  HH: shopifyProductTaxonomy.key3303, // Household Supplies
+  MS: shopifyProductTaxonomy.key3303, // Household Supplies
+  MT: shopifyProductTaxonomy.key5352, // Vehicle Parts
+  MW: shopifyProductTaxonomy.key2170, // Hardware / Metal Works
+  PA: shopifyProductTaxonomy.key2191, // Paint
+  PB: shopifyProductTaxonomy.key2335, // Plumbing
+  RF: shopifyProductTaxonomy.key2225, // Roofing,
+  RM: shopifyProductTaxonomy.key2201, // Building Materials
+  SH: shopifyProductTaxonomy.key2170, // Hardware / Second Hand Items
+  TI: shopifyProductTaxonomy.key2229, // Tiling
+  TO: shopifyProductTaxonomy.key2516, // Tools
+  WP: shopifyProductTaxonomy.key2222, // Lumber & Sheet Stock
 }
 export function assignCategory(category: string): string {
   let assignedCategory = ""
@@ -122,10 +121,4 @@ export function assignCategory(category: string): string {
       assignedCategory = "No Category Found"
   }
   return assignedCategory
-}
-
-export function determineOptionName(value: string): string {
-  let assignedOptionName = ""
-
-  return assignedOptionName
 }
