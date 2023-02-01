@@ -1,6 +1,6 @@
 import * as fs from "fs"
 import { assignCategory } from "../utils"
-
+import { startCase } from "lodash"
 console.log("Shopify Exporter Initialized")
 
 // Read the input text file
@@ -17,7 +17,16 @@ console.log("Initialized outputCsv")
 
 // Process each line and add it to the output CSV
 for (const [index, line] of lines.entries()) {
-  const [tags, title, option1Value, variantPrice, option1Name] = line.split(";")
+  const [rawTags, rawTitle, rawOption1Value, rawVariantPrice, rawOption1Name] =
+    line.split(";")
+  //clean data
+  const tags = rawTags.trim()
+  const formatTitle = rawTitle.trim().toLowerCase()
+  const option1Value = startCase(rawOption1Value).trim()
+  const variantPrice = startCase(rawVariantPrice).trim()
+  const option1Name = startCase(rawOption1Name).trim()
+  // format titles
+  const title = startCase(formatTitle)
 
   // Generate a handle from the title
   const handle = title.toLowerCase().replace(/[^a-z0-9]+/g, "-")
