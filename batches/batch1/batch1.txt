@@ -1,0 +1,319 @@
+ADHOE;Backhoe / Tractor Work;Default Title;2000.00;Title
+ADBG;Bondcrete ;(Gallon);3230.00;unit
+ADBQ;Bondcrete ;(Quart);1750.00;unit
+ADC;Cement & ($30PERLBRETAIL);Default Title;1580.00;Title
+ADCAL;Latex;Default Title;600.00;Title
+ADCAS;Silicone Sealant (100%);Default Title;1370.00;Title
+ADCAS+L;Silicone + Latex;Default Title;900.00;Title
+ADCG;Crazy Glue;Default Title;250.00;Title
+ADCTTB;Silicone Tube;(Black);720.00;color
+ADCTTC;Silicone Tube;(Clear);750.00;color
+ADCTTG;Silicone TUBE;(Grey);770.00;color
+ADCTTR;Silicone Tube;(Red);830.00;color
+ADCTTW;Silicone TUBE;(White);730.00;color
+ADCW;Cement White(lb);Default Title;80.00;Title
+ADDG236ml;Dap Glue ;(236ml)/8OZ;1000.00;unit
+ADDGP;Dap Glue ;(PINT);1875.00;unit
+ADDGQ;Dap Glue ;(QUART);2800.00;unit
+ADE4;Epoxy ;#4;900.00;option
+ADE5;Epoxy ;#5;950.00;option
+ADFF;Filling Foam;Default Title;1500.00;Title
+ADGCLT;Loctite Glue;Default Title;250.00;Title
+ADGOP;Office Glue Pritt Tube;Default Title;410.00;Title
+ADGRTs;Grout ;(Sanded);4500.00;type
+ADGRTU;Grout ;(Unsanded);4800.00;type
+ADGS11G;GlueStick ;(11gram);150.00;weight
+ADJC5G;Joint Compound;5Gallon;6900.00;unit
+ADJCG;Joint Compound;Gallon;2400.00;unit
+ADJCQ;Joint Compound;Quart;350.00;unit
+ADJCT250f;Joint Tape;2'' x 300 ft Roll;1850.00;length
+ADJCT500f;Joint Tape;2'' x 500 ft Roll;2500.00;length
+ADPC1;PVC Pipe Cleaner;(1Pint);2910.00;unit
+ADPC1/2;PVC Pipe Cleaner;1/2pt (8oz);1500.00;unit
+ADPC1/4;Pipe Cleaner;(1/4pint);850.00;unit
+ADPg;Ponal;(gal);4295.00;unit
+ADPQ;Ponal;(quart);1500.00;unit
+ADPSQ;Ponal;Super3(quart);1700.00;unit
+ADPT;Ponal;(tube120g) pattex;500.00;unit
+ADPTW/D1/4;Tangit; (Wet & Dry 1/ 4PT);1550.00;unit
+ADPTW/D.5;Tangit; (Wet & Dry 1/2 PT);1700.00;unit
+ADPTW/D1;Tangit;(Wet and Dry 1pint);3450.00;unit
+ADPVCC12;PVC Cement; (1/2 pint);1730.00;unit
+ADPVCC14;PVC Cement; (1/4pint);1220.00;unit
+ADPVVC1;PVC Cement; (pint);3360.00;unit
+ADPVCCLT25ML;Tangit Tube; 25ml;380.00;unit
+ADPVCCLT50ml;Tangit Tube; 50ml;430.00;unit
+ADPVCHW1/4;Tangit; 1/4 PINT (HotWater);985.00;unit
+ADPXPT;Pattex; (1/2Pint);1200.00;unit
+ADPXQT;Pattex; (Quart);2875.00;unit
+ADPXTU;Pattex; Tube;650.00;unit
+ADSAX;Saxit;(qt);600.00;unit
+ADSC22;Sure Coat; 22lb;1100.00;weight
+ADSG;Shoe Glue / Super Glue;Default Title;300.00;Title
+ADTB;Box Tape (PackagingTape) Clear and Brown;Default Title;290.00;Title
+ADTC1'';Cello Tape; 1'' (72yds);370.00;length
+ADTC1/2'';Cello Tape; 1/2''(72yds);200.00;length
+ADTC2;Cello Tape; 2''(72yds);500.00;length
+ADTC3/4'';Cello Tape; 3/4'' (72yds);270.00;length
+ADTDL;Duct Tape; (Large);1370.00;size
+ADTDM-30y;Duct Tape; Medium (2'' x 30yds);850.00;length
+ADTDS-10y;Duct Tape; (Small) 2''x 10yds;500.00;length
+ADTM.75'';Masking Tape; 3/4'';470.00;length
+ADTM1'';Masking Tape;1'';550.00;length
+ADTM1.5;Masking Tape;1.5'';680.00;length
+ADTM2'';Masking Tape;2'';735.00;length
+ADTMP2;Painters Tape ;2;850.00;length
+ADTMP34;Painters Tape ;3/4;650.00;length
+ADTS;Thinset Dyna; 300 (Regular) $75 PER LB;1100.00;unit
+ADTSAL;Thinset Dyna; 600 (All purpose) $100 PER LB;3300.00;unit
+ADTSW;Thinset Dyna; 400 (Wall) $80PER LB;2400.00;unit
+ADWGQ;Wood Glue;(qt);560.00;unit
+AGAFBRP/C; Brioler Ration (Pellet/Crumble);Default Title;1650.00;Title
+AGAFCC;Crush Corn;(lb);70.00;unit
+AGAFLR;Layer Ration;Default Title;1695.00;Title
+AGAFPG;Pig Grower;Default Title;1640.00;Title
+AGAFSR;Sow and Boar Ration;Default Title;1435.00;Title
+AGAFWM;Wheat Midds;Default Title;1435.00;Title
+AGC14S;Cutlass Short 14'';Default Title;1000.00;Title
+AGC20S;Sow Cutlass 20'';Default Title;1450.00;Title
+AGC22S;Cutlass 22'';Default Title;1500.00;Title
+AGCB/CK;Bill Cutlass Crocodile (Cane Knife);Default Title;2000.00;Title
+AGCF;Cutlass File;Default Title;230.00;Title
+AGCFbw;Flair Cutlass (Belly Woman);Default Title;1500.00;Title
+AGCH;Hookie Cutlass;Default Title;1700.00;Title
+AGF;Fork Heavy Duty Agri.;Default Title;14600.00;Title
+AGF14-28-14VL;Fertilizer 14-28-14 (Vegetable); Large;6205.00;size
+AGF14-28-14VS;Fertilizer 14-28-14 (Vegetable); Small;3300.00;size
+AGF16-9-18APL;Fertilizer 16-9-18 (All Purpose); Large;5720.00;size
+AGF16-9-18APS;Fertilizer 16-9-18 (All Purpose); Small;2935.00;size
+AGF1SAL;Fertilizer Sulphate of Amonia (Salt); Large;4510.00;size
+AGF1SAS;Fertilizer Sulphate of Amonia (Salt); Small;2310.00;size
+AGFC;Champion fungicide (lb);Default Title;1600.00;Title
+AGFD;Diothane Fungicide 500g;Default Title;1400.00;Title
+AGFF;Fusilade (Fungicide) pint;Default Title;3110.00;Title
+AGFK;Kocide (lb);Default Title;1360.00;Title
+AGFMK;Man Kocide (lb);Default Title;800.00;Title
+AGFT;Topsin Fungicide (lb);Default Title;1400.00;Title
+AGGH100;Garden Hose ;100';7800.00;length
+AGGH50;Garden Hose ;50';4700.00;length
+AGGH75;Garden Hose ;75';5400.00;length
+AGGHM;Garden Hose Mender (ALL);Default Title;290.00;Title
+AGGRHD;Hvy Duty Gden Rake;Default Title;1500.00;Title
+AGGRM;Garden Rake Metal;Default Title;1050.00;Title
+AGGRP;Plastic Garden Rake;Default Title;1100.00;Title
+AGGSC;Garden Shade Cloth (Greenhouse Mesh) (peryd);Default Title;470.00;Title
+AGGT;Seed Tray (Germination);Default Title;250.00;Title
+AGGW;Grass Whip (50 feet);Default Title;750.00;Title
+AGGWBHD;Grass Whip Black Heavy Duty (ft);Default Title;25.00;Title
+AGGWTH;Grass Whip Trim Head;Default Title;3390.00;Title
+AGH1;Hoe ;#1;1940.00;type
+AGH2;Hoe ;#2;2150.00;type
+AGH3;Hoe ;#3;2460.00;type
+AGMA;Antistress;Default Title;385.00;Title
+AGMAA;Amprofur Antibiotic;Default Title;1650.00;Title
+AGMAT;Trisulvitrim Antibiotic;Default Title;1650.00;Title
+AGMCB;Chicken Booster;Default Title;545.00;Title
+AGMDC;Cleansing Drench;Default Title;220.00;Title
+AGMDRS;Red Salt Drench....;Default Title;220.00;Title
+AGMFO/LOL;Fish Oil / Lamp Oil ;(250ml);650.00;unit
+AGMFO/LOS;Lamp Oil/ Fish Oil ;(60);330.00;unit
+AGMGF;Gaseous Fluid;Default Title;500.00;Title
+AGMH;Hiprovit;Default Title;500.00;Title
+AGMNCP;Neo Chlor Plus (Chicken Booster);Default Title;1860.00;Title
+AGMWCP;Chicken Wormer (Parazine);Default Title;300.00;Title
+AGMWD;Wormex (Wormer for Dogs);Default Title;250.00;Title
+AGMWGS;Safersan General Wormer; 400g;625.00;weight
+AGMWL150ml;Levox Wormer ;150ml;500.00;unit
+AGMWL450ml;Levox Wormer ;450 ml;880.00;unit
+AGMWOS;Wound Oil Spray;Default Title;550.00;Title
+AGMWP85g;Wound Powder ;85g;430.00;weight
+AGMWPC;Pig Wormer (Carlo); 24g;300.00;weight
+AGMWV;Valbazen ;(125ml);550.00;unit
+AGP119;119 Insect Killer;Default Title;200.00;Title
+AGPAPP;Ant Powder (Pack);Default Title;250.00;Title
+AGPB;Potting Bag;Default Title;15.00;Title
+AGPB260ml;Bagon ;260ml;545.00;unit
+AGPB400ML;Baygon ;400ml;885.00;unit
+AGPB600ML;Baygon ;600ml;1275.00;unit
+AGPCP;Cockroach Powder;Default Title;120.00;Title
+AGPCX250ML;Caratrax ;250ml;1500.00;unit
+AGPD;Diazinon ;(pint);1130.00;unit
+AGPD250ml;Diazanon; 250ml;850.00;unit
+AGPDD100ML;Diazanon; 100ml ;500.00;unit
+AGPDIPEL;Dipel (oz);Default Title;200.00;Title
+AGPFH;Poultry Feeder Hanging;Default Title;2205.00;Title
+AGPFIG;Fly and Insect Glue;Default Title;80.00;Title
+AGPFR;Fly Ribbon;Default Title;55.00;Title
+AGPFTPS;Silvertone Flea and Tick Killer;Default Title;565.00;Title
+AGPJF12oz;Jeyes Fluid (half flask);Default Title;800.00;Title
+AGPK250ml;Karate 250ml;Default Title;2500.00;Title
+AGPM;Malathion 250ml;Default Title;1000.00;Title
+AGPP285;Pyro Spray; 285 ml;650.00;unit
+AGPP350;Pyro Spray; 350ml;700.00;unit
+AGPP450;Pyro Spray; 450ml;800.00;unit
+AGPP600;Pyro Spray; 600ml;980.00;unit
+AGPPX200;Protox Spray; 200ml Spray;420.00;unit
+AGPPX400;Protox Spray; 400ml spray;540.00;unit
+AGPPX600;Protex Spray; 600ml ;750.00;unit
+AGPROP12;Rid-O-Pest (12 OZ);Default Title;770.00;Title
+AGPSP;Slug Pellets (lb);Default Title;550.00;Title
+AGPSWC200ml;Carlo Screw Worm Spray ;200ml;650.00;unit
+AGPT;Triatix;Default Title;500.00;Title
+AGPTWA;Asuntol Tick Wash;Default Title;480.00;Title
+AGPTWS150ML;Cypermethrin; 150ml;275.00;unit
+AGPTWS240ml;Cypermethrin; 240ml;670.00;unit
+AGPV400;Vape Insect Spray; 400ml;810.00;unit
+AGPV600;Vape Insect Spray; 600ml;1100.00;unit
+AGPW1;Poultry Waterer ;(1 Gallon);1000.00;unit
+AGPW2;Poultry Waterer ;(2 Gallon);1865.00;unit
+AGPWPTK;Wood Preservative and Termite Killer;Default Title;750.00;Title
+AGR;Rope (lb);Default Title;580.00;Title
+AGRCL;Clothes Line Rope/Fine Rope (lb);Default Title;650.00;Title
+AGRSEXL;Swivle; Extra Large;650.00;size
+AGRSL;Swivel; Large;570.00;size
+AGRSM;Swivel; Medium;530.00;size
+AGRSS;Swivel ;Small;450.00;size
+AGRSLF;Rope Swivle ;Large (Factory Made);600.00;size
+AGRSMF;Rope Swivle ;Medium (Factory Made);580.00;size
+AGRSSF;Rope Swivle ;Small (Factory Made);500.00;size
+AGSB;Broccoli;Default Title;815.00;Title
+AGSC;Cucumber Seed (PANDIA) 100G;Default Title;1350.00;Title
+AGSCAL;Callallo Seed;Default Title;115.00;Title
+AGSCau;Cauliflower;Default Title;565.00;Title
+AGSCgp;Carrot Seed (tin 100g);Default Title;1500.00;Title
+AGSCRCP;Cabbage Resist Crown (pack);Default Title;550.00;Title
+AGSCT2000;Cabbage Trop. 2000 seeds;Default Title;1470.00;Title
+AGSLgl;Lettuce ;(great lakes);1690.00;type
+AGSLi;Lettuce ;(iceberg);1450.00;type
+AGSO;Okra Seed;Default Title;680.00;Title
+AGSP;Pruning Scissors;Default Title;1000.00;Title
+AGSP15L;Spray Pan; 15 litre;6000.00;unit
+AGSP16LF;Spray Pan; 16 Litre Federalli;5935.00;unit
+AGSP19L;Spray Pan; 19 Litre;7000.00;unit
+AGSP20L;Spray Pan; (20 Litre);10000.00;unit
+AGSPB;Spray Bottle Federali 1 litre;Default Title;1000.00;Title
+AGSPCp;Pac Choy ;(tin);1600.00;type
+AGSPCP200g;Pac Choy ;(200 GRAM PACK);1000.00;type
+AGSPO6L;Spray Pan; Osatu 6 litre;5000.00;type
+AGSRP;Red Peas;Default Title;225.00;Title
+AGSS;Spreader Sticker (qt);Default Title;500.00;Title
+AGSSB;String Beans;Default Title;300.00;Title
+AGSSBP;Scotch Bonnet Pepper Seed (oz);Default Title;85.00;Title
+AGSSPcw;Sweet Pepper Seeds (calif wonder);Default Title;1760.00;Title
+AGSSPKH;Sweet Pepper (King Henry) oz;Default Title;2060.00;Title
+AGSTF;Tomato Seed ;(Florodale) oz;300.00;type
+AGSTR;Tomato Seed ;(Roma) oz.;275.00;type
+AGWB200M;Barb Wire ;(200 Meteres);9000.00;length
+AGWB400M;Barb Wire ;(400 Meters);14500.00;length
+AGWH4;Hog Wire 4';Default Title;19875.00;Title
+AGWM3;Mesh Wire ;(yd) 3' $19500per roll;520.00;length
+AGWM4;Mesh Wire ;(yd) 4' $22000 per roll;580.00;length
+AGWS24D1L;2-4 D Weedicide; 1L;1050.00;unit
+AGWS24D3;.8L 2-4D Weedicide; (gal);3300.00;unit
+AGWS6D;6 D Amine (1 Litre);Default Title;2000.00;Title
+AGWSAC;Atrimet Combi (qt);Default Title;1220.00;Title
+AGWSD;Diuron (1 litre);Default Title;2000.00;Title
+AGWSG1L;Glyphos 1L;Default Title;1800.00;Title
+AGWSG3;.8L Glyphos 3.8 L;Default Title;6780.00;Title
+AGWSGL;Glyphosate (Litre);Default Title;2200.00;Title
+AGWSGQ1L;Gai Quat (1 Litre);Default Title;1600.00;Title
+AGWSGS1L;Gramoxone Super;(1 litre);1875.00;unit
+AGWSGS250ml;Gromoxone Super;250 ml;800.00;unit
+AGWSK;Krismat (Lb);Default Title;2125.00;Title
+AGWSKar;Karmex (lb);Default Title;1415.00;Title
+AGWSLG;Lavax ;(Gallon);4500.00;unit
+AGWSLq;Lavox ;(quart);1300.00;unit
+AGWSP;Pilardir;Default Title;1800.00;Title
+AGWSP1L;Paraquat;1L;1770.00;unit
+AGWSP3;.8L Paraquat; (3.8L);4120.00;unit
+AGWSR;Water Sprinkler Rotating;Default Title;745.00;Title
+AGWSRG;Riddown ;(GALLON Systemic spray);4700.00;unit
+AGWSRQ;Riddown ;QUART (Systemic Weed Killer);1400.00;unit
+AGWSRU1L;Round Up ;(1 Litre);2300.00;unit
+AGWSV1L;Velzone ;(1Litre);2375.00;unit
+AGWTD;Touchdown ;(qt);1355.00;unit
+AUBF;Break Fluid;Default Title;520.00;Title
+AUBT;Battery Terminal;Default Title;100.00;Title
+AUBTC;Battery Terminal Cleaner;Default Title;320.00;Title
+AUF;Fuse;Default Title;30.00;Title
+AUFIP;Fix It Pro;Default Title;115.00;Title
+AUIL;Inspection Lamp;Default Title;505.00;Title
+AUJCLt;Jumper Cable (Light Auto);Default Title;1245.00;Title
+AULT4W;Lug Tool 4 Way;Default Title;1380.00;Title
+AUML;Map Light;Default Title;180.00;Title
+AUO15;40D Motor Oil 15 w 40 (quart) diesel;Default Title;865.00;Title
+AUO2S;Oil.....2 Stroke;Default Title;345.00;Title
+AUO40;Motor Oil 40;Default Title;575.00;Title
+AUOF;Oil Filter;Default Title;500.00;Title
+AUOT;Transmision Oil;Default Title;690.00;Title
+AUPAA;Armor All;Default Title;400.00;Title
+AUPF2001;Formula 2001;Default Title;435.00;Title
+AUPSF;Power Steering Fluid;Default Title;305.00;Title
+AUS;Shamois;Default Title;125.00;Title
+AUSP;Spark Plugs;Default Title;115.00;Title
+AUSWC;Steering Wheel Cover;Default Title;500.00;Title
+AUTRK;Tyre Repair Kit;Default Title;1200.00;Title
+AUWD40;WD 40 Lubricant; 5.5oz;840.00;unit
+AUWD40;WD 40 Lubricant; 8oz;925.00;unit
+BPAC;Axle ;(Centre);515.00;type
+BPAF;Axle ;(Front);265.00;type
+BPAG;Axle ;(Gear) Back;265.00;type
+BPBS;Break Set;Default Title;1310.00;Title
+BPBSh;Break Shoes;Default Title;160.00;Title
+BPBSS;Balls small (doz);Default Title;35.00;Title
+BPBSS1;/4 Balls 1/4'';Default Title;55.00;Title
+BPC;Cables (all types);Default Title;245.00;Title
+BPCCL;Centre Cup; (large);600.00;size
+BPCCS;Centre Cup; (Small);550.00;size
+BPCG;Chain Gear;Default Title;1400.00;Title
+BPCR;Crank (all);Default Title;610.00;Title
+BPD;Derailer (all speeds);Default Title;965.00;Title
+BPF24;-26'' Fork 24-26'';Default Title;2695.00;Title
+BPFR;Fork Rambo;Default Title;2220.00;Title
+BPFW5S;Free Wheel; 5 Speed;1350.00;type
+BPFW6S;Free Wheel; 6 Sped;1400.00;type
+BPFW8S;Free Wheel; 8 Speed;1820.00;type
+BPFWS;Free Wheel; Star;545.00;type
+BPG;Generator;Default Title;2005.00;Title
+BPGS;Gear Shifter;Default Title;935.00;Title
+BPH;Handle;Default Title;1930.00;Title
+BPHF;Hub; Front;970.00;type
+BPHR;Hub; Rear;1210.00;type
+BPHFR;Hub; (Front Rambo);1350.00;type
+BPHRR;Hub; (Rambo Rear);1710.00;type
+BPHGo;Hand Grip;(Regular);370.00;type
+BPHGR;Hand Grip ;(Rambo);400.00;type
+BPHL;Head Lamp;Default Title;1400.00;Title
+BPHPg;Head Parts; (green box);675.00;color
+BPHPr;Head Parts; (red);510.00;color
+BPL;Lock;Default Title;840.00;Title
+BPN;Neck;Default Title;1550.00;Title
+BPP;Pedals;Default Title;725.00;Title
+BPPC;Pump Connectors;Default Title;265.00;Title
+BPPL;Patch; (large);30.00;size
+BPPS;Patch; (small);20.00;size
+BPPU;Pump;Default Title;1710.00;Title
+BPRC;Chopper Rim;Default Title;1340.00;Title
+BPRCE;Reflector; (cat eye);105.00;type
+BPRL;Reflector; (Large);340.00;type
+BPRS;Reflector; (small);280.00;type
+BPSC;S.Crank;Default Title;2015.00;Title
+BPSCLD;Sprocket;Cotterless Double;2970.00;type
+BPSCLT;Sprocket;Cotterless Triple;3025.00;type
+BPSCPD;Sprocket;Cotter Pin Double;2745.00;type
+BPSCPT;Sprocket;Cotter Pin Triple;3120.00;type
+BPSEBMX;Seat; BMX;1120.00;type
+BPSER;Seat; Regular;1360.00;type
+BPSS;Solution; Small;130.00;size
+BPSL;Solution; Large;245.00;size
+BPSP;Seat Pole;Default Title;685.00;Title
+BPSPOKES;Spokes;Default Title;35.00;Title
+BPSRS;Seat Spring;Default Title;2300.00;Title
+BPSSCD;Sprocket; SCrank Double;2015.00;type
+BPSSCS;Sprocket;S Crank Single;1210.00;type
+BPSSCT;Sprocket;S Crank Triple;2210.00;type
+BPST;Stand (all);Default Title;1295.00;Title
+BPTC;Tyres; Chopper;1210.00;type
+BPTR;Tyres; Regular;1415.00;type
+BPTU20'';Bicycle Tube; 20'';485.00;length
+BPTU24&26;Bicycle Tube; 24'' & 26'';965.00;length
