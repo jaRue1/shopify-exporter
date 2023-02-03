@@ -4,13 +4,11 @@ import { filePaths } from "./config"
 
 const { batch1Paths } = filePaths
 
-const inputPath = batch1Paths.inputPathBatch1
-const csvPath = batch1Paths.exportPathToCsvBatch1
-const jsonPath = batch1Paths.exportPathToJsonBatch1
+const { inputPath, exportPathToCsv, exportPathToJson } = batch1Paths
 
 async function main(): Promise<string> {
-  await exportShopifyCsv(inputPath, csvPath)
-  await exportDataToJson(inputPath, jsonPath)
+  await exportShopifyCsv(inputPath, exportPathToCsv)
+  await exportDataToJson(inputPath, exportPathToJson)
   return "export complete"
 }
 
