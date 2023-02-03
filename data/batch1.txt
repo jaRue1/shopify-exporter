@@ -192,8 +192,8 @@ AGSP16LF;Spray Pan; 16 Litre Federalli;5935.00;unit
 AGSP19L;Spray Pan; 19 Litre;7000.00;unit
 AGSP20L;Spray Pan; (20 Litre);10000.00;unit
 AGSPB;Spray Bottle Federali 1 litre;Default Title;1000.00;Title
-AGSPCp;Pac Choy ;(tin);1600.00;type
-AGSPCP200g;Pac Choy ;(200 GRAM PACK);1000.00;type
+AGSPCp;Pak Choy ;(tin);1600.00;type
+AGSPCP200g;Pak Choy ;(200 GRAM PACK);1000.00;type
 AGSPO6L;Spray Pan; Osatu 6 litre;5000.00;type
 AGSRP;Red Peas;Default Title;225.00;Title
 AGSS;Spreader Sticker (qt);Default Title;500.00;Title
@@ -210,7 +210,7 @@ AGWM3;Mesh Wire ;(yd) 3' $19500per roll;520.00;length
 AGWM4;Mesh Wire ;(yd) 4' $22000 per roll;580.00;length
 AGWS24D1L;2-4 D Weedicide; 1L;1050.00;unit
 AGWS24D3;.8L 2-4D Weedicide; (gal);3300.00;unit
-AGWS6D;6 D Amine (1 Litre);Default Title;2000.00;Title
+AGWS6D;4 D Amine (1 Litre);Default Title;2000.00;Title
 AGWSAC;Atrimet Combi (qt);Default Title;1220.00;Title
 AGWSD;Diuron (1 litre);Default Title;2000.00;Title
 AGWSG1L;Glyphos 1L;Default Title;1800.00;Title
@@ -224,8 +224,8 @@ AGWSKar;Karmex (lb);Default Title;1415.00;Title
 AGWSLG;Lavax ;(Gallon);4500.00;unit
 AGWSLq;Lavox ;(quart);1300.00;unit
 AGWSP;Pilardir;Default Title;1800.00;Title
-AGWSP1L;Paraquat;1L;1770.00;unit
-AGWSP3;.8L Paraquat; (3.8L);4120.00;unit
+AGWSP1L;Paraquat Super;1L;1770.00;unit
+AGWSP3.8L;Paraquat Super;(3.8L);4120.00;unit
 AGWSR;Water Sprinkler Rotating;Default Title;745.00;Title
 AGWSRG;Riddown ;(GALLON Systemic spray);4700.00;unit
 AGWSRQ;Riddown ;QUART (Systemic Weed Killer);1400.00;unit

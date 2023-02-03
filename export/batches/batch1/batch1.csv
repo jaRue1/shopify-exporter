@@ -193,8 +193,8 @@ spray-pan,Spray Pan,,croftshill-enterprise,Home & Garden,,AGSP16LF,FALSE,Unit,16
 spray-pan,Spray Pan,,croftshill-enterprise,Home & Garden,,AGSP19L,FALSE,Unit,19 Litre,,,,,,0.0,kg,,0,deny,manual,7000 00,,FALSE,TRUE,,,,,??,???,draft
 spray-pan,Spray Pan,,croftshill-enterprise,Home & Garden,,AGSP20L,FALSE,Unit,20 Litre,,,,,,0.0,kg,,0,deny,manual,10000 00,,FALSE,TRUE,,,,,??,???,draft
 spray-bottle-federali-1-litre,Spray Bottle Federali 1 Litre,,croftshill-enterprise,Home & Garden,,AGSPB,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,1000 00,,FALSE,TRUE,,,,,??,???,draft
-pac-choy,Pac Choy,,croftshill-enterprise,Home & Garden,,AGSPCp,FALSE,Type,Tin,,,,,,0.0,kg,,0,deny,manual,1600 00,,FALSE,TRUE,,,,,??,???,draft
-pac-choy,Pac Choy,,croftshill-enterprise,Home & Garden,,AGSPCP200g,FALSE,Type,200 GRAM PACK,,,,,,0.0,kg,,0,deny,manual,1000 00,,FALSE,TRUE,,,,,??,???,draft
+pak-choy,Pak Choy,,croftshill-enterprise,Home & Garden,,AGSPCp,FALSE,Type,Tin,,,,,,0.0,kg,,0,deny,manual,1600 00,,FALSE,TRUE,,,,,??,???,draft
+pak-choy,Pak Choy,,croftshill-enterprise,Home & Garden,,AGSPCP200g,FALSE,Type,200 GRAM PACK,,,,,,0.0,kg,,0,deny,manual,1000 00,,FALSE,TRUE,,,,,??,???,draft
 spray-pan,Spray Pan,,croftshill-enterprise,Home & Garden,,AGSPO6L,FALSE,Type,Osatu 6 Litre,,,,,,0.0,kg,,0,deny,manual,5000 00,,FALSE,TRUE,,,,,??,???,draft
 red-peas,Red Peas,,croftshill-enterprise,Home & Garden,,AGSRP,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,225 00,,FALSE,TRUE,,,,,??,???,draft
 spreader-sticker-qt,Spreader Sticker Qt,,croftshill-enterprise,Home & Garden,,AGSS,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,500 00,,FALSE,TRUE,,,,,??,???,draft
@@ -211,7 +211,7 @@ mesh-wire,Mesh Wire,,croftshill-enterprise,Home & Garden,,AGWM3,FALSE,Length,Yd 
 mesh-wire,Mesh Wire,,croftshill-enterprise,Home & Garden,,AGWM4,FALSE,Length,Yd 4 22000 Per Roll,,,,,,0.0,kg,,0,deny,manual,580 00,,FALSE,TRUE,,,,,??,???,draft
 2-4-d-weedicide,2 4 D Weedicide,,croftshill-enterprise,Home & Garden,,AGWS24D1L,FALSE,Unit,1 L,,,,,,0.0,kg,,0,deny,manual,1050 00,,FALSE,TRUE,,,,,??,???,draft
 8-l-2-4-d-weedicide,8 L 2 4 D Weedicide,,croftshill-enterprise,Home & Garden,,AGWS24D3,FALSE,Unit,Gal,,,,,,0.0,kg,,0,deny,manual,3300 00,,FALSE,TRUE,,,,,??,???,draft
-6-d-amine-1-litre,6 D Amine 1 Litre,,croftshill-enterprise,Home & Garden,,AGWS6D,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,2000 00,,FALSE,TRUE,,,,,??,???,draft
+4-d-amine-1-litre,4 D Amine 1 Litre,,croftshill-enterprise,Home & Garden,,AGWS6D,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,2000 00,,FALSE,TRUE,,,,,??,???,draft
 atrimet-combi-qt,Atrimet Combi Qt,,croftshill-enterprise,Home & Garden,,AGWSAC,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,1220 00,,FALSE,TRUE,,,,,??,???,draft
 diuron-1-litre,Diuron 1 Litre,,croftshill-enterprise,Home & Garden,,AGWSD,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,2000 00,,FALSE,TRUE,,,,,??,???,draft
 glyphos-1-l,Glyphos 1 L,,croftshill-enterprise,Home & Garden,,AGWSG1L,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,1800 00,,FALSE,TRUE,,,,,??,???,draft
@@ -225,8 +225,8 @@ karmex-lb,Karmex Lb,,croftshill-enterprise,Home & Garden,,AGWSKar,FALSE,Title,De
 lavax,Lavax,,croftshill-enterprise,Home & Garden,,AGWSLG,FALSE,Unit,Gallon,,,,,,0.0,kg,,0,deny,manual,4500 00,,FALSE,TRUE,,,,,??,???,draft
 lavox,Lavox,,croftshill-enterprise,Home & Garden,,AGWSLq,FALSE,Unit,Quart,,,,,,0.0,kg,,0,deny,manual,1300 00,,FALSE,TRUE,,,,,??,???,draft
 pilardir,Pilardir,,croftshill-enterprise,Home & Garden,,AGWSP,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,1800 00,,FALSE,TRUE,,,,,??,???,draft
-paraquat,Paraquat,,croftshill-enterprise,Home & Garden,,AGWSP1L,FALSE,Unit,1 L,,,,,,0.0,kg,,0,deny,manual,1770 00,,FALSE,TRUE,,,,,??,???,draft
-8-l-paraquat,8 L Paraquat,,croftshill-enterprise,Home & Garden,,AGWSP3,FALSE,Unit,3 8 L,,,,,,0.0,kg,,0,deny,manual,4120 00,,FALSE,TRUE,,,,,??,???,draft
+paraquat-super,Paraquat Super,,croftshill-enterprise,Home & Garden,,AGWSP1L,FALSE,Unit,1 L,,,,,,0.0,kg,,0,deny,manual,1770 00,,FALSE,TRUE,,,,,??,???,draft
+paraquat-super,Paraquat Super,,croftshill-enterprise,Home & Garden,,AGWSP3.8L,FALSE,Unit,3 8 L,,,,,,0.0,kg,,0,deny,manual,4120 00,,FALSE,TRUE,,,,,??,???,draft
 water-sprinkler-rotating,Water Sprinkler Rotating,,croftshill-enterprise,Home & Garden,,AGWSR,FALSE,Title,Default Title,,,,,,0.0,kg,,0,deny,manual,745 00,,FALSE,TRUE,,,,,??,???,draft
 riddown,Riddown,,croftshill-enterprise,Home & Garden,,AGWSRG,FALSE,Unit,GALLON Systemic Spray,,,,,,0.0,kg,,0,deny,manual,4700 00,,FALSE,TRUE,,,,,??,???,draft
 riddown,Riddown,,croftshill-enterprise,Home & Garden,,AGWSRQ,FALSE,Unit,QUART Systemic Weed Killer,,,,,,0.0,kg,,0,deny,manual,1400 00,,FALSE,TRUE,,,,,??,???,draft

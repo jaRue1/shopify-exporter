@@ -214,7 +214,7 @@ AGWM3;Mesh Wire ;(yd) 3' $19500per roll;520.00
 AGWM4;Mesh Wire ;(yd) 4' $22000 per roll;580.00
 AGWS24D1L;2-4 D Weedicide; 1L;1050.00
 AGWS24D3;.8L 2-4D Weedicide; (gal);3300.00
-AGWS6D;6 D Amine (1 Litre);Default Title;2000.00;Title
+AGWS6D;4 D Amine (1 Litre);Default Title;2000.00;Title
 AGWSAC;Atrimet Combi (qt);Default Title;1220.00;Title
 AGWSD;Diuron (1 litre);Default Title;2000.00;Title
 AGWSG1L;Glyphos 1L;Default Title;1800.00;Title
