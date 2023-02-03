@@ -1,6 +1,7 @@
 import { exportShopifyCsv } from "./shopify-export"
 import { exportDataToJson } from "./json-exporter"
 import { filePaths } from "./config"
+
 const { batch1Paths } = filePaths
 
 const inputPath = batch1Paths.inputPathBatch1
