@@ -1,7 +1,4 @@
 import { shopifyProductTaxonomy } from "./shopify"
-// 1 - 323 (Adhesive, Agricultural, Bicycle parts) Batch 1
-// 324 - 591 (Child Clothing, Medial Clothing, Worksite Clothing, Shoes, Roofing, Electrical) Batch 2
-// 592 - 831 (Fasteners,Nuts & Bolts,Nails, Fixtures) Batch 3
 const categoryMap = {
   AD: shopifyProductTaxonomy.key2183, //Adhesive
   AG: shopifyProductTaxonomy.key3038, // Agricultural
@@ -10,7 +7,7 @@ const categoryMap = {
   CD: shopifyProductTaxonomy.key148, // Child Clothing
   CM: shopifyProductTaxonomy.key1153, // Medial Clothing
   CP: shopifyProductTaxonomy.key1146, // Worksite Clothing
-  CS: shopifyProductTaxonomy.key352, // Shoes
+  CS: shopifyProductTaxonomy.key352, // Shoes *
   DU: shopifyProductTaxonomy.key2225, // Roofing
   EL: shopifyProductTaxonomy.key2416, // Electrical
   FT: shopifyProductTaxonomy.key2283, // Fasteners
@@ -20,12 +17,12 @@ const categoryMap = {
   HH: shopifyProductTaxonomy.key3303, // Household Supplies
   MS: shopifyProductTaxonomy.key3303, // Household Supplies
   MT: shopifyProductTaxonomy.key5352, // Vehicle Parts
-  MW: shopifyProductTaxonomy.key2170, // Hardware / Metal Works
+  MW: shopifyProductTaxonomy.key2170, // Hardware / Metal Works *
   PA: shopifyProductTaxonomy.key2191, // Paint
   PB: shopifyProductTaxonomy.key2335, // Plumbing
   RF: shopifyProductTaxonomy.key2225, // Roofing,
   RM: shopifyProductTaxonomy.key2201, // Building Materials
-  SH: shopifyProductTaxonomy.key2170, // Hardware / Second Hand Items
+  SH: shopifyProductTaxonomy.key2170, // Hardware / Second Hand Items *
   TI: shopifyProductTaxonomy.key2229, // Tiling
   TO: shopifyProductTaxonomy.key2516, // Tools
   WP: shopifyProductTaxonomy.key2222, // Lumber & Sheet Stock
