@@ -30,7 +30,7 @@ export function exportShopifyCsv(inputPath, outputPath) {
     const tags = rawTags.trim()
     const formatTitle = rawTitle.trim().toLowerCase()
     const option1Value = startCase(rawOption1Value).trim()
-    const variantPrice = startCase(rawVariantPrice).trim()
+    const variantPrice = rawVariantPrice.trim()
     const option1Name = startCase(rawOption1Name).trim()
     // format titles
     const title = startCase(formatTitle)
@@ -69,8 +69,8 @@ export function exportShopifyCsv(inputPath, outputPath) {
     const imageSrc = ""
     const imageAltText = ""
     const giftCard = ""
-    const priceInternational = "??"
-    const compareAtPriceInternational = "???"
+    const priceInternational = variantPrice
+    const compareAtPriceInternational = variantPrice
     const status = "draft"
 
     // Add the current line to the output CSV

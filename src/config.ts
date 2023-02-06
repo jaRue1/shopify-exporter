@@ -18,4 +18,15 @@ const batch4Paths = {
   exportPathToCsv: "../export/batches/batch4/batch4.csv",
   exportPathToJson: "../export/batches/batch4/batch4.json",
 }
-export const filePaths = { batch1Paths, batch2Paths, batch3Paths, batch4Paths }
+const testPaths = {
+  inputPath: "../data/test.txt",
+  exportPathToCsv: "../export/batches/test/test.csv",
+  exportPathToJson: "../export/batches/test/test.json",
+}
+export const filePaths = {
+  batch1Paths,
+  batch2Paths,
+  batch3Paths,
+  batch4Paths,
+  testPaths,
+}
