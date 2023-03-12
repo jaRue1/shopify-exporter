@@ -15,5 +15,9 @@ async function main(): Promise<string> {
   return "export complete"
 }
 
-const result = main()
-console.log(result)
+async function run() {
+  const result = await main()
+  console.log(result)
+}
+
+run()

@@ -119,3 +119,8 @@ export function assignCategory(category: string): string {
   }
   return assignedCategory
 }
+
+export function awsS3UrlGenerator(value: string): string {
+  let url: string = `https://s3.amazonaws.com/croftshillent.com-photos/${value}.png`
+  return url
+}
