@@ -1,7 +1,7 @@
 import * as fs from "fs"
 import { assignCategory } from "../utils"
 import { startCase } from "lodash"
-
+import { awsS3UrlGenerator } from "../utils"
 export function exportShopifyCsv(inputPath, outputPath) {
   console.log("Shopify Exporter Initialized")
 
@@ -58,20 +58,20 @@ export function exportShopifyCsv(inputPath, outputPath) {
     const variantGrams = "0.0"
     const variantWeightUnit = "kg"
 
-    const variantInventoryTracker = ""
-    const variantInventoryQty = "0"
+    const variantInventoryTracker = "shopify"
+    const variantInventoryQty = "100"
     const variantInventoryPolicy = "deny"
     const variantFulfillmentService = "manual"
     const variantCompareAtPrice = ""
     const variantRequiresShipping = "FALSE"
     const variantTaxable = "TRUE"
     const variantBarcode = ""
-    const imageSrc = ""
+    const imageSrc = awsS3UrlGenerator(tags)
     const imageAltText = ""
     const giftCard = ""
     const priceInternational = variantPrice
     const compareAtPriceInternational = variantPrice
-    const status = "draft"
+    const status = "active"
 
     // Add the current line to the output CSV
     outputCsv += `${handle},${title},${body},${vendor},${productCategory},${type},${tags},${published},${option1Name},${option1Value},${option2Name},${option2Value},${option3Name},${option3Value},${variantSku},${variantGrams},${variantWeightUnit},${variantInventoryTracker},${variantInventoryQty},${variantInventoryPolicy},${variantFulfillmentService},${variantPrice},${variantCompareAtPrice},${variantRequiresShipping},${variantTaxable},${variantBarcode},${imageSrc},${imageAltText},${giftCard},${priceInternational},${compareAtPriceInternational},${status}\n`

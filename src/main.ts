@@ -7,7 +7,7 @@ import { filePaths } from "./config"
 
 const { batch1Paths, testPaths } = filePaths
 
-const { inputPath, exportPathToCsv, exportPathToJson } = testPaths
+const { inputPath, exportPathToCsv, exportPathToJson } = batch1Paths
 
 async function main(): Promise<string> {
   await exportShopifyCsv(inputPath, exportPathToCsv)
