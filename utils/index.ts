@@ -1,4 +1,6 @@
 import { shopifyProductTaxonomy } from "./shopify"
+// 1 - 323 (Adhesive, Automotive, Agricultural, Bicycle parts) Batch 1
+// 324 - 839 (Child Clothing, Medial Clothing, Worksite Clothing, Shoes, Roofing, Electrical, Fasteners,Nuts & Bolts,Nails, Fixtures) Batch 2
 const categoryMap = {
   AD: shopifyProductTaxonomy.key2183, //Adhesive
   AG: shopifyProductTaxonomy.key3038, // Agricultural

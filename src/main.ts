@@ -5,9 +5,9 @@ import { filePaths } from "./config"
 // 324 - 591 (Child Clothing, Medial Clothing, Worksite Clothing, Shoes, Roofing, Electrical) Batch 2
 // 592 - 831 (Fasteners,Nuts & Bolts,Nails, Fixtures) Batch 3
 
-const { batch1Paths, testPaths } = filePaths
+const { batch2Paths, testPaths } = filePaths
 
-const { inputPath, exportPathToCsv, exportPathToJson } = batch1Paths
+const { inputPath, exportPathToCsv, exportPathToJson } = batch2Paths
 
 async function main(): Promise<string> {
   await exportShopifyCsv(inputPath, exportPathToCsv)

@@ -18,6 +18,7 @@ export function exportShopifyCsv(inputPath, outputPath) {
   console.log("Initialized outputCsv")
 
   // Process each line and add it to the output CSV
+  // tag;title;Option1Value;variantPrice;option1Name
   for (const [index, line] of lines.entries()) {
     const [
       rawTags,
@@ -48,8 +49,6 @@ export function exportShopifyCsv(inputPath, outputPath) {
     let productCategory = assignCategory(category)
     const type = ""
     const published = "FALSE"
-    // const option1Name = ""
-    // const option1Value = ""
     const option2Name = ""
     const option2Value = ""
     const option3Name = ""
@@ -57,7 +56,6 @@ export function exportShopifyCsv(inputPath, outputPath) {
     const variantSku = ""
     const variantGrams = "0.0"
     const variantWeightUnit = "kg"
-
     const variantInventoryTracker = "shopify"
     const variantInventoryQty = "100"
     const variantInventoryPolicy = "deny"
