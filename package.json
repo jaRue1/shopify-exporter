@@ -1,12 +1,16 @@
 {
-  "name": "shopify-exporter",
+  "name": "shopify-csv-mapper",
   "version": "1.0.0",
-  "description": "",
-  "main": "export.ts",
+  "description": "Maps customer CSV data to Shopify's required CSV format for product imports",
+  "main": "dist/main.js",
   "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "ts-node src/main.ts",
+    "map": "pnpm run build && pnpm run start",
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["shopify", "csv", "mapper", "import", "products"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -16,12 +20,11 @@
     "@babel/preset-env": "^7.20.2",
     "@types/jest": "^29.4.0",
     "jest": "^29.5.0",
-    "ts-jest": "^29.0.5"
+    "ts-jest": "^29.0.5",
+    "ts-node": "^10.9.1"
   },
   "dependencies": {
-    "csv-parser": "^3.0.0",
-    "csv-writer": "^1.6.0",
-    "lodash": "^4.17.21",
-    "moment": "^2.27.0"
+    "csv-parse": "^5.4.0",
+    "csv-stringify": "^6.4.0"
   }
 }
